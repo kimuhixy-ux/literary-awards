@@ -293,6 +293,7 @@ function fillDetail(detail, r, award, authorMap, awards) {
   if (r.work_ja || r.work_original) {
     rows.push(['受賞作', [r.work_ja, r.work_original].filter(Boolean).join(' / ')]);
   }
+  if (r.theme_summary_ja) rows.push(['作品について', r.theme_summary_ja]);
   if (r.translator_en) rows.push(['英訳者', r.translator_en]);
   if (r.citation_ja) rows.push(['受賞理由(要旨)', r.citation_ja]);
   if (r.lecture_title || r.lecture_url) {
@@ -411,6 +412,9 @@ async function viewAuthor(app, authorId) {
       if (w.jp_translation_status === 'available' && w.jp_translation_title) {
         card.appendChild(h('div', { class: 'work-meta' }, `邦題: 『${w.jp_translation_title}』`));
       }
+      if (w.theme_summary_ja) {
+        card.appendChild(h('p', { class: 'work-summary' }, w.theme_summary_ja));
+      }
       app.appendChild(card);
     }
   }
@@ -420,9 +424,12 @@ async function viewAuthor(app, authorId) {
     const list = h('ul', { class: 'major-works-list' });
     for (const w of author.major_works) {
       list.appendChild(h('li', {}, [
-        h('span', { class: 'work-title' }, w.title_original || ''),
-        w.title_ja ? h('span', { class: 'work-meta' }, ` 『${w.title_ja}』`) : null,
-        w.year ? h('span', { class: 'work-meta' }, ` (${w.year})`) : null,
+        h('div', {}, [
+          h('span', { class: 'work-title' }, w.title_original || ''),
+          w.title_ja ? h('span', { class: 'work-meta' }, ` 『${w.title_ja}』`) : null,
+          w.year ? h('span', { class: 'work-meta' }, ` (${w.year})`) : null,
+        ]),
+        w.theme_summary_ja ? h('p', { class: 'work-summary' }, w.theme_summary_ja) : null,
       ]));
     }
     app.appendChild(list);
