@@ -414,6 +414,19 @@ async function viewAuthor(app, authorId) {
       app.appendChild(card);
     }
   }
+
+  if (author.major_works && author.major_works.length) {
+    app.appendChild(h('h3', { class: 'page-title', style: 'font-size:1.05rem;' }, 'その他の主要作品'));
+    const list = h('ul', { class: 'major-works-list' });
+    for (const w of author.major_works) {
+      list.appendChild(h('li', {}, [
+        h('span', { class: 'work-title' }, w.title_original || ''),
+        w.title_ja ? h('span', { class: 'work-meta' }, ` 『${w.title_ja}』`) : null,
+        w.year ? h('span', { class: 'work-meta' }, ` (${w.year})`) : null,
+      ]));
+    }
+    app.appendChild(list);
+  }
 }
 
 /* ================= CONNECTIONS MAP ================= */

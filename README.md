@@ -22,12 +22,15 @@ literary-awards/
 ├── icons/                 アプリアイコン
 └── data/
     ├── awards.json               8賞のマスタデータ(名称・国・創設年・関連賞など)
-    ├── authors.json              全受賞者を作家単位で名寄せしたクロスリファレンス(複数受賞の検出に使用)
+    ├── authors.json              全受賞者を作家単位で名寄せしたクロスリファレンス(複数受賞の検出に使用、scripts/gen_authors.pyで自動生成)
+    ├── major_works.json          ノーベル賞・ブッカー賞・国際ブッカー賞受賞作家(186名)の代表作リスト(受賞作以外の主要著作)
     └── laureates/
         ├── nobel.json            ノーベル文学賞(1901-2025、129件)
         ├── booker.json            ブッカー賞(1969-2025、60件)
         ├── intl-booker.json       国際ブッカー賞(2005-2026、17件)
         └── akutagawa.json         芥川龍之介賞(全175回、222件)
+scripts/
+└── gen_authors.py         data/laureates/*.jsonとdata/major_works.jsonからdata/authors.jsonを再生成するスクリプト
 ```
 
 Phase 2(ゴンクール賞・ピュリッツァー賞フィクション部門・全米図書賞フィクション部門・セルバンテス賞)は`awards.json`にマスタ情報のみ登録済みで、`data_file: null`のため一覧には「準備中」と表示されます。
@@ -35,6 +38,7 @@ Phase 2(ゴンクール賞・ピュリッツァー賞フィクション部門・
 ## データ設計の要点
 
 - **`author_id`**: 英語名ベースのスラッグ(例: `kazuo-ishiguro`)。同一人物であれば全ファイルで必ず同じ値を使うこと。これが賞をまたいだ名寄せ(関連性マップ)を支える唯一の仕組みです。新しい賞のデータを追加する際、既存ファイルに同名の作家がいないか`data/authors.json`で必ず確認してください。
+- **`data/major_works.json`**: ノーベル賞・ブッカー賞・国際ブッカー賞受賞作家(芥川賞のみの受賞者は対象外)について、受賞作以外の代表作(原題・判明していれば邦題・発表年)を`author_id`をキーに記録したもの。`jp_translation_title`と同様、邦題は確証がある場合のみ記載し、不確かな場合は`null`のままにしています(捏造防止)。新しい対象作家を追加する場合はこのファイルにエントリを足してから`scripts/gen_authors.py`を再実行してください。
 - **`jp_translation.status`**: `available` / `unavailable` / `original-ja`(芥川賞は常にこれ) / `n/a`(ノーベル賞や該当作品なしの回など、対象作品が存在しない場合)のいずれか。
 - **著作権への配慮**: `citation_ja`は受賞理由の要約であり、末尾に「(要旨)」を付けた意訳・要約のみを収録。ノーベル賞受賞記念講演の本文は一切収録せず、タイトルと公式サイトへのリンクのみ。作品本文の引用も行っていません。
 - **不確実な情報の扱い**: 訳者・出版社などの書誌情報が確認できない場合は、`status`のみ記録し`translator`/`publisher`は`null`のまま`note`に「書誌要確認」等を残しています。断定できない情報を推測で埋めていません。
@@ -67,7 +71,7 @@ Phase 2(ゴンクール賞・ピュリッツァー賞フィクション部門・
 1. `data/awards.json`の該当エントリの`data_file`を`null`から実際のパス(例: `"laureates/goncourt.json"`)に変更。
 2. `data/laureates/goncourt.json`等を新規作成し、他の賞と同じレコード形式で作成。
 3. `sw.js`の`PRECACHE_URLS`に新しいJSONファイルのパスを追加し、`CACHE_VERSION`をインクリメントする(バージョンを上げないと既存ユーザーのキャッシュが更新されない)。
-4. `data/authors.json`は手動生成ではなく、`data/awards.json`と各`laureates/*.json`から名寄せして再生成する想定(生成ロジックはリポジトリに含めていないため、`author_id`の一致だけを基準に他ファイルと突き合わせて手動更新するか、同等のスクリプトを新規に書くこと)。
+4. 新しい賞の`laureates/*.json`を`scripts/gen_authors.py`の`AWARD_FILES`辞書に追加し、`python3 scripts/gen_authors.py`を実行して`data/authors.json`を再生成する。
 
 ## ローカルでの動作確認
 

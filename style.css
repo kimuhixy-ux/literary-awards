@@ -416,6 +416,30 @@ a:hover, a:focus {
   font-size: 0.85rem;
 }
 
+.major-works-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.5rem;
+}
+
+.major-works-list li {
+  padding: 0.4rem 0;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.major-works-list li:last-child {
+  border-bottom: none;
+}
+
+.major-works-list .work-title {
+  font-weight: 600;
+}
+
+.major-works-list .work-meta {
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
+}
+
 /* Connections table */
 .connections-table-wrap {
   overflow-x: auto;

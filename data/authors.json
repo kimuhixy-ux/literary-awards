@@ -15,7 +15,34 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Stances et Poèmes",
+        "title_ja": null,
+        "year": 1865
+      },
+      {
+        "title_original": "Les Épreuves",
+        "title_ja": null,
+        "year": 1866
+      },
+      {
+        "title_original": "Les Solitudes",
+        "title_ja": null,
+        "year": 1869
+      },
+      {
+        "title_original": "La Justice",
+        "title_ja": null,
+        "year": 1878
+      },
+      {
+        "title_original": "Le Bonheur",
+        "title_ja": null,
+        "year": 1888
+      }
+    ]
   },
   {
     "author_id": "theodor-mommsen",
@@ -33,7 +60,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Römische Geschichte",
+        "title_ja": null,
+        "year": 1854
+      },
+      {
+        "title_original": "Römisches Staatsrecht",
+        "title_ja": null,
+        "year": 1871
+      },
+      {
+        "title_original": "Römisches Strafrecht",
+        "title_ja": null,
+        "year": 1899
+      }
+    ]
   },
   {
     "author_id": "bjornstjerne-bjornson",
@@ -51,7 +95,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Synnøve Solbakken",
+        "title_ja": null,
+        "year": 1857
+      },
+      {
+        "title_original": "En glad Gut",
+        "title_ja": null,
+        "year": 1860
+      },
+      {
+        "title_original": "Sigurd Slembe",
+        "title_ja": null,
+        "year": 1862
+      },
+      {
+        "title_original": "Over Ævne",
+        "title_ja": null,
+        "year": 1883
+      }
+    ]
   },
   {
     "author_id": "frederic-mistral",
@@ -69,7 +135,34 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Mirèio",
+        "title_ja": null,
+        "year": 1859
+      },
+      {
+        "title_original": "Calendau",
+        "title_ja": null,
+        "year": 1867
+      },
+      {
+        "title_original": "Lis Isclo d'Or",
+        "title_ja": null,
+        "year": 1876
+      },
+      {
+        "title_original": "Nerto",
+        "title_ja": null,
+        "year": 1884
+      },
+      {
+        "title_original": "Lou Pouèmo dóu Rose",
+        "title_ja": null,
+        "year": 1897
+      }
+    ]
   },
   {
     "author_id": "jose-echegaray",
@@ -87,7 +180,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "O locura o santidad",
+        "title_ja": null,
+        "year": 1877
+      },
+      {
+        "title_original": "El gran Galeoto",
+        "title_ja": null,
+        "year": 1881
+      },
+      {
+        "title_original": "El hijo de Don Juan",
+        "title_ja": null,
+        "year": 1892
+      },
+      {
+        "title_original": "Mancha que limpia",
+        "title_ja": null,
+        "year": 1895
+      }
+    ]
   },
   {
     "author_id": "henryk-sienkiewicz",
@@ -105,7 +220,34 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Ogniem i mieczem",
+        "title_ja": null,
+        "year": 1884
+      },
+      {
+        "title_original": "Potop",
+        "title_ja": null,
+        "year": 1886
+      },
+      {
+        "title_original": "Pan Wołodyjowski",
+        "title_ja": null,
+        "year": 1888
+      },
+      {
+        "title_original": "Quo Vadis",
+        "title_ja": "クオ・ワディス",
+        "year": 1896
+      },
+      {
+        "title_original": "Krzyżacy",
+        "title_ja": null,
+        "year": 1900
+      }
+    ]
   },
   {
     "author_id": "giosue-carducci",
@@ -123,7 +265,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Giambi ed epodi",
+        "title_ja": null,
+        "year": 1882
+      },
+      {
+        "title_original": "Odi barbare",
+        "title_ja": null,
+        "year": 1877
+      },
+      {
+        "title_original": "Rime nuove",
+        "title_ja": null,
+        "year": 1887
+      }
+    ]
   },
   {
     "author_id": "rudyard-kipling",
@@ -141,7 +300,34 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Plain Tales from the Hills",
+        "title_ja": null,
+        "year": 1888
+      },
+      {
+        "title_original": "The Jungle Book",
+        "title_ja": "ジャングル・ブック",
+        "year": 1894
+      },
+      {
+        "title_original": "Captains Courageous",
+        "title_ja": "勇敢な船長たち",
+        "year": 1897
+      },
+      {
+        "title_original": "Kim",
+        "title_ja": "キム",
+        "year": 1901
+      },
+      {
+        "title_original": "Just So Stories",
+        "title_ja": "なぜなぜ物語",
+        "year": 1902
+      }
+    ]
   },
   {
     "author_id": "rudolf-eucken",
@@ -159,7 +345,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Die Lebensanschauungen der großen Denker",
+        "title_ja": null,
+        "year": 1890
+      },
+      {
+        "title_original": "Der Kampf um einen geistigen Lebensinhalt",
+        "title_ja": null,
+        "year": 1896
+      },
+      {
+        "title_original": "Der Sinn und Wert des Lebens",
+        "title_ja": null,
+        "year": 1908
+      }
+    ]
   },
   {
     "author_id": "selma-lagerlof",
@@ -177,7 +380,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Gösta Berlings saga",
+        "title_ja": null,
+        "year": 1891
+      },
+      {
+        "title_original": "Jerusalem",
+        "title_ja": null,
+        "year": 1901
+      },
+      {
+        "title_original": "Nils Holgerssons underbara resa genom Sverige",
+        "title_ja": "ニルスのふしぎな旅",
+        "year": 1906
+      },
+      {
+        "title_original": "Kejsarn av Portugallien",
+        "title_ja": null,
+        "year": 1914
+      }
+    ]
   },
   {
     "author_id": "paul-heyse",
@@ -195,7 +420,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "L'Arrabbiata",
+        "title_ja": null,
+        "year": 1853
+      },
+      {
+        "title_original": "Kinder der Welt",
+        "title_ja": null,
+        "year": 1873
+      },
+      {
+        "title_original": "Im Paradiese",
+        "title_ja": null,
+        "year": 1875
+      }
+    ]
   },
   {
     "author_id": "maurice-maeterlinck",
@@ -213,7 +455,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "La Princesse Maleine",
+        "title_ja": null,
+        "year": 1889
+      },
+      {
+        "title_original": "Pelléas et Mélisande",
+        "title_ja": "ペレアスとメリザンド",
+        "year": 1893
+      },
+      {
+        "title_original": "La Vie des abeilles",
+        "title_ja": "蜜蜂の生活",
+        "year": 1901
+      },
+      {
+        "title_original": "L'Oiseau bleu",
+        "title_ja": "青い鳥",
+        "year": 1908
+      }
+    ]
   },
   {
     "author_id": "gerhart-hauptmann",
@@ -231,7 +495,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Vor Sonnenaufgang",
+        "title_ja": null,
+        "year": 1889
+      },
+      {
+        "title_original": "Die Weber",
+        "title_ja": null,
+        "year": 1892
+      },
+      {
+        "title_original": "Der Biberpelz",
+        "title_ja": null,
+        "year": 1893
+      },
+      {
+        "title_original": "Hanneles Himmelfahrt",
+        "title_ja": null,
+        "year": 1893
+      }
+    ]
   },
   {
     "author_id": "rabindranath-tagore",
@@ -249,7 +535,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Kabuliwala",
+        "title_ja": null,
+        "year": 1892
+      },
+      {
+        "title_original": "Gitanjali",
+        "title_ja": "ギーターンジャリ",
+        "year": 1910
+      },
+      {
+        "title_original": "Gora",
+        "title_ja": null,
+        "year": 1910
+      },
+      {
+        "title_original": "Ghare Baire",
+        "title_ja": null,
+        "year": 1916
+      }
+    ]
   },
   {
     "author_id": "romain-rolland",
@@ -267,7 +575,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Vie de Beethoven",
+        "title_ja": "ベートーヴェンの生涯",
+        "year": 1903
+      },
+      {
+        "title_original": "Jean-Christophe",
+        "title_ja": "ジャン・クリストフ",
+        "year": 1904
+      },
+      {
+        "title_original": "Colas Breugnon",
+        "title_ja": "コラ・ブレニョン",
+        "year": 1919
+      }
+    ]
   },
   {
     "author_id": "verner-von-heidenstam",
@@ -285,7 +610,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Vallfart och vandringsår",
+        "title_ja": null,
+        "year": 1888
+      },
+      {
+        "title_original": "Hans Alienus",
+        "title_ja": null,
+        "year": 1892
+      },
+      {
+        "title_original": "Karolinerna",
+        "title_ja": null,
+        "year": 1897
+      }
+    ]
   },
   {
     "author_id": "karl-gjellerup",
@@ -303,7 +645,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Germanernes Lærling",
+        "title_ja": null,
+        "year": 1882
+      },
+      {
+        "title_original": "Minna",
+        "title_ja": null,
+        "year": 1889
+      },
+      {
+        "title_original": "Møllen",
+        "title_ja": null,
+        "year": 1896
+      },
+      {
+        "title_original": "Pilgrimen Kamanita",
+        "title_ja": null,
+        "year": 1906
+      }
+    ]
   },
   {
     "author_id": "henrik-pontoppidan",
@@ -321,7 +685,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Det forjættede land",
+        "title_ja": null,
+        "year": 1891
+      },
+      {
+        "title_original": "Lykke-Per",
+        "title_ja": null,
+        "year": 1898
+      },
+      {
+        "title_original": "De Dødes Rige",
+        "title_ja": null,
+        "year": 1912
+      }
+    ]
   },
   {
     "author_id": "carl-spitteler",
@@ -339,7 +720,19 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Prometheus und Epimetheus",
+        "title_ja": null,
+        "year": 1881
+      },
+      {
+        "title_original": "Olympischer Frühling",
+        "title_ja": null,
+        "year": 1900
+      }
+    ]
   },
   {
     "author_id": "knut-hamsun",
@@ -357,7 +750,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Sult",
+        "title_ja": "飢え",
+        "year": 1890
+      },
+      {
+        "title_original": "Pan",
+        "title_ja": "パン",
+        "year": 1894
+      },
+      {
+        "title_original": "Victoria",
+        "title_ja": "ヴィクトリア",
+        "year": 1898
+      },
+      {
+        "title_original": "Markens Grøde",
+        "title_ja": "大地の恵み",
+        "year": 1917
+      }
+    ]
   },
   {
     "author_id": "anatole-france",
@@ -375,7 +790,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Le Crime de Sylvestre Bonnard",
+        "title_ja": "シルヴェストル・ボナールの罪",
+        "year": 1881
+      },
+      {
+        "title_original": "Thaïs",
+        "title_ja": "タイス",
+        "year": 1890
+      },
+      {
+        "title_original": "L'Île des Pingouins",
+        "title_ja": "ペンギン島",
+        "year": 1908
+      },
+      {
+        "title_original": "Les Dieux ont soif",
+        "title_ja": "神々は渇く",
+        "year": 1912
+      }
+    ]
   },
   {
     "author_id": "jacinto-benavente",
@@ -393,7 +830,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "La noche del sábado",
+        "title_ja": null,
+        "year": 1903
+      },
+      {
+        "title_original": "Los intereses creados",
+        "title_ja": null,
+        "year": 1907
+      },
+      {
+        "title_original": "La malquerida",
+        "title_ja": null,
+        "year": 1913
+      }
+    ]
   },
   {
     "author_id": "william-butler-yeats",
@@ -411,7 +865,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "The Wind Among the Reeds",
+        "title_ja": null,
+        "year": 1899
+      },
+      {
+        "title_original": "Cathleen ni Houlihan",
+        "title_ja": null,
+        "year": 1902
+      },
+      {
+        "title_original": "Responsibilities",
+        "title_ja": null,
+        "year": 1914
+      },
+      {
+        "title_original": "The Tower",
+        "title_ja": null,
+        "year": 1928
+      }
+    ]
   },
   {
     "author_id": "wladyslaw-reymont",
@@ -429,7 +905,19 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Ziemia obiecana",
+        "title_ja": "約束の土地",
+        "year": 1899
+      },
+      {
+        "title_original": "Chłopi",
+        "title_ja": "農民",
+        "year": 1904
+      }
+    ]
   },
   {
     "author_id": "george-bernard-shaw",
@@ -447,7 +935,34 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Arms and the Man",
+        "title_ja": "武器と人間",
+        "year": 1894
+      },
+      {
+        "title_original": "Man and Superman",
+        "title_ja": "人と超人",
+        "year": 1903
+      },
+      {
+        "title_original": "Major Barbara",
+        "title_ja": "バーバラ少佐",
+        "year": 1905
+      },
+      {
+        "title_original": "Pygmalion",
+        "title_ja": "ピグマリオン",
+        "year": 1913
+      },
+      {
+        "title_original": "Saint Joan",
+        "title_ja": null,
+        "year": 1923
+      }
+    ]
   },
   {
     "author_id": "grazia-deledda",
@@ -465,7 +980,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Elias Portolu",
+        "title_ja": null,
+        "year": 1903
+      },
+      {
+        "title_original": "Cenere",
+        "title_ja": "灰",
+        "year": 1904
+      },
+      {
+        "title_original": "Canne al vento",
+        "title_ja": null,
+        "year": 1913
+      }
+    ]
   },
   {
     "author_id": "henri-bergson",
@@ -483,7 +1015,34 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Essai sur les données immédiates de la conscience",
+        "title_ja": "時間と自由",
+        "year": 1889
+      },
+      {
+        "title_original": "Matière et mémoire",
+        "title_ja": "物質と記憶",
+        "year": 1896
+      },
+      {
+        "title_original": "Le Rire",
+        "title_ja": "笑い",
+        "year": 1900
+      },
+      {
+        "title_original": "L'Évolution créatrice",
+        "title_ja": "創造的進化",
+        "year": 1907
+      },
+      {
+        "title_original": "Les Deux Sources de la morale et de la religion",
+        "title_ja": "道徳と宗教の二源泉",
+        "year": 1932
+      }
+    ]
   },
   {
     "author_id": "sigrid-undset",
@@ -501,7 +1060,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Jenny",
+        "title_ja": null,
+        "year": 1911
+      },
+      {
+        "title_original": "Kristin Lavransdatter",
+        "title_ja": null,
+        "year": 1920
+      },
+      {
+        "title_original": "Olav Audunssøn",
+        "title_ja": null,
+        "year": 1925
+      }
+    ]
   },
   {
     "author_id": "thomas-mann",
@@ -519,7 +1095,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Buddenbrooks",
+        "title_ja": "ブッデンブローク家の人々",
+        "year": 1901
+      },
+      {
+        "title_original": "Der Tod in Venedig",
+        "title_ja": "ヴェニスに死す",
+        "year": 1912
+      },
+      {
+        "title_original": "Der Zauberberg",
+        "title_ja": "魔の山",
+        "year": 1924
+      },
+      {
+        "title_original": "Doktor Faustus",
+        "title_ja": null,
+        "year": 1947
+      }
+    ]
   },
   {
     "author_id": "sinclair-lewis",
@@ -537,7 +1135,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Main Street",
+        "title_ja": null,
+        "year": 1920
+      },
+      {
+        "title_original": "Babbitt",
+        "title_ja": "バビット",
+        "year": 1922
+      },
+      {
+        "title_original": "Arrowsmith",
+        "title_ja": "アロースミス",
+        "year": 1925
+      },
+      {
+        "title_original": "Elmer Gantry",
+        "title_ja": "エルマー・ガントリー",
+        "year": 1927
+      }
+    ]
   },
   {
     "author_id": "erik-axel-karlfeldt",
@@ -555,7 +1175,34 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Vildmarks- och kärleksvisor",
+        "title_ja": null,
+        "year": 1895
+      },
+      {
+        "title_original": "Fridolins visor",
+        "title_ja": null,
+        "year": 1898
+      },
+      {
+        "title_original": "Fridolins lustgård",
+        "title_ja": null,
+        "year": 1901
+      },
+      {
+        "title_original": "Flora och Pomona",
+        "title_ja": null,
+        "year": 1906
+      },
+      {
+        "title_original": "Flora och Bellona",
+        "title_ja": null,
+        "year": 1918
+      }
+    ]
   },
   {
     "author_id": "john-galsworthy",
@@ -573,7 +1220,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "The Man of Property",
+        "title_ja": null,
+        "year": 1906
+      },
+      {
+        "title_original": "Strife",
+        "title_ja": null,
+        "year": 1909
+      },
+      {
+        "title_original": "The Forsyte Saga",
+        "title_ja": "フォーサイト家物語",
+        "year": 1922
+      }
+    ]
   },
   {
     "author_id": "ivan-bunin",
@@ -591,7 +1255,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Derevnya",
+        "title_ja": null,
+        "year": 1910
+      },
+      {
+        "title_original": "Gospodin iz San-Frantsisko",
+        "title_ja": "サンフランシスコから来た紳士",
+        "year": 1915
+      },
+      {
+        "title_original": "Zhizn Arsenyeva",
+        "title_ja": null,
+        "year": 1933
+      },
+      {
+        "title_original": "Tyomnye allei",
+        "title_ja": null,
+        "year": 1943
+      }
+    ]
   },
   {
     "author_id": "luigi-pirandello",
@@ -609,7 +1295,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Il fu Mattia Pascal",
+        "title_ja": null,
+        "year": 1904
+      },
+      {
+        "title_original": "Sei personaggi in cerca d'autore",
+        "title_ja": "作者を探す六人の登場人物",
+        "year": 1921
+      },
+      {
+        "title_original": "Enrico IV",
+        "title_ja": "エンリコ四世",
+        "year": 1922
+      },
+      {
+        "title_original": "Uno, nessuno e centomila",
+        "title_ja": null,
+        "year": 1926
+      }
+    ]
   },
   {
     "author_id": "eugene-oneill",
@@ -627,7 +1335,34 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Desire Under the Elms",
+        "title_ja": "楡の木陰の欲望",
+        "year": 1924
+      },
+      {
+        "title_original": "Mourning Becomes Electra",
+        "title_ja": "喪服の似合うエレクトラ",
+        "year": 1931
+      },
+      {
+        "title_original": "Ah, Wilderness!",
+        "title_ja": null,
+        "year": 1933
+      },
+      {
+        "title_original": "The Iceman Cometh",
+        "title_ja": "氷人来たる",
+        "year": 1939
+      },
+      {
+        "title_original": "Long Day's Journey Into Night",
+        "title_ja": "夜への長い旅路",
+        "year": 1956
+      }
+    ]
   },
   {
     "author_id": "roger-martin-du-gard",
@@ -645,7 +1380,19 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Jean Barois",
+        "title_ja": null,
+        "year": 1913
+      },
+      {
+        "title_original": "Les Thibault",
+        "title_ja": "チボー家の人々",
+        "year": 1922
+      }
+    ]
   },
   {
     "author_id": "pearl-buck",
@@ -663,7 +1410,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "The Good Earth",
+        "title_ja": "大地",
+        "year": 1931
+      },
+      {
+        "title_original": "Sons",
+        "title_ja": null,
+        "year": 1932
+      },
+      {
+        "title_original": "A House Divided",
+        "title_ja": null,
+        "year": 1935
+      }
+    ]
   },
   {
     "author_id": "frans-eemil-sillanpaa",
@@ -681,7 +1445,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Hurskas kurjuus",
+        "title_ja": null,
+        "year": 1919
+      },
+      {
+        "title_original": "Nuorena nukkunut",
+        "title_ja": null,
+        "year": 1931
+      },
+      {
+        "title_original": "Ihmiset suviyössä",
+        "title_ja": null,
+        "year": 1934
+      }
+    ]
   },
   {
     "author_id": "johannes-v-jensen",
@@ -699,7 +1480,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Himmerlandshistorier",
+        "title_ja": null,
+        "year": 1898
+      },
+      {
+        "title_original": "Kongens Fald",
+        "title_ja": null,
+        "year": 1901
+      },
+      {
+        "title_original": "Den lange rejse",
+        "title_ja": null,
+        "year": 1908
+      }
+    ]
   },
   {
     "author_id": "gabriela-mistral",
@@ -717,7 +1515,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Desolación",
+        "title_ja": null,
+        "year": 1922
+      },
+      {
+        "title_original": "Ternura",
+        "title_ja": null,
+        "year": 1924
+      },
+      {
+        "title_original": "Tala",
+        "title_ja": null,
+        "year": 1938
+      },
+      {
+        "title_original": "Lagar",
+        "title_ja": null,
+        "year": 1954
+      }
+    ]
   },
   {
     "author_id": "hermann-hesse",
@@ -735,7 +1555,39 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Unterm Rad",
+        "title_ja": "車輪の下",
+        "year": 1906
+      },
+      {
+        "title_original": "Demian",
+        "title_ja": "デミアン",
+        "year": 1919
+      },
+      {
+        "title_original": "Siddhartha",
+        "title_ja": "シッダールタ",
+        "year": 1922
+      },
+      {
+        "title_original": "Der Steppenwolf",
+        "title_ja": "荒野の狼",
+        "year": 1927
+      },
+      {
+        "title_original": "Narziß und Goldmund",
+        "title_ja": "ナルチスとゴルトムント",
+        "year": 1930
+      },
+      {
+        "title_original": "Das Glasperlenspiel",
+        "title_ja": "ガラス玉演戯",
+        "year": 1943
+      }
+    ]
   },
   {
     "author_id": "andre-gide",
@@ -753,7 +1605,39 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Les Nourritures terrestres",
+        "title_ja": "地の糧",
+        "year": 1897
+      },
+      {
+        "title_original": "L'Immoraliste",
+        "title_ja": "背徳者",
+        "year": 1902
+      },
+      {
+        "title_original": "La Porte étroite",
+        "title_ja": "狭き門",
+        "year": 1909
+      },
+      {
+        "title_original": "Les Caves du Vatican",
+        "title_ja": "法王庁の抜け穴",
+        "year": 1914
+      },
+      {
+        "title_original": "La Symphonie pastorale",
+        "title_ja": "田園交響楽",
+        "year": 1919
+      },
+      {
+        "title_original": "Les Faux-Monnayeurs",
+        "title_ja": "贋金つくり",
+        "year": 1925
+      }
+    ]
   },
   {
     "author_id": "t-s-eliot",
@@ -771,7 +1655,34 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "The Love Song of J. Alfred Prufrock",
+        "title_ja": null,
+        "year": 1915
+      },
+      {
+        "title_original": "The Waste Land",
+        "title_ja": "荒地",
+        "year": 1922
+      },
+      {
+        "title_original": "Murder in the Cathedral",
+        "title_ja": "寺院の殺人",
+        "year": 1935
+      },
+      {
+        "title_original": "Old Possum's Book of Practical Cats",
+        "title_ja": null,
+        "year": 1939
+      },
+      {
+        "title_original": "Four Quartets",
+        "title_ja": "四つの四重奏",
+        "year": 1943
+      }
+    ]
   },
   {
     "author_id": "william-faulkner",
@@ -789,7 +1700,34 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "The Sound and the Fury",
+        "title_ja": "響きと怒り",
+        "year": 1929
+      },
+      {
+        "title_original": "As I Lay Dying",
+        "title_ja": "死の床に横たわりて",
+        "year": 1930
+      },
+      {
+        "title_original": "Light in August",
+        "title_ja": "八月の光",
+        "year": 1932
+      },
+      {
+        "title_original": "Absalom, Absalom!",
+        "title_ja": "アブサロム、アブサロム!",
+        "year": 1936
+      },
+      {
+        "title_original": "Go Down, Moses",
+        "title_ja": null,
+        "year": 1942
+      }
+    ]
   },
   {
     "author_id": "bertrand-russell",
@@ -807,7 +1745,34 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Principia Mathematica",
+        "title_ja": null,
+        "year": 1910
+      },
+      {
+        "title_original": "The Problems of Philosophy",
+        "title_ja": "哲学入門",
+        "year": 1912
+      },
+      {
+        "title_original": "Marriage and Morals",
+        "title_ja": "結婚と道徳",
+        "year": 1929
+      },
+      {
+        "title_original": "The Conquest of Happiness",
+        "title_ja": "幸福論",
+        "year": 1930
+      },
+      {
+        "title_original": "A History of Western Philosophy",
+        "title_ja": "西洋哲学史",
+        "year": 1945
+      }
+    ]
   },
   {
     "author_id": "par-lagerkvist",
@@ -825,7 +1790,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Ångest",
+        "title_ja": null,
+        "year": 1916
+      },
+      {
+        "title_original": "Dvärgen",
+        "title_ja": "小人",
+        "year": 1944
+      },
+      {
+        "title_original": "Barabbas",
+        "title_ja": "バラバス",
+        "year": 1950
+      }
+    ]
   },
   {
     "author_id": "francois-mauriac",
@@ -843,7 +1825,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Le Baiser au lépreux",
+        "title_ja": null,
+        "year": 1922
+      },
+      {
+        "title_original": "Thérèse Desqueyroux",
+        "title_ja": "テレーズ・デスケルウ",
+        "year": 1927
+      },
+      {
+        "title_original": "Le Nœud de vipères",
+        "title_ja": null,
+        "year": 1932
+      }
+    ]
   },
   {
     "author_id": "winston-churchill",
@@ -861,7 +1860,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "The World Crisis",
+        "title_ja": null,
+        "year": 1923
+      },
+      {
+        "title_original": "My Early Life",
+        "title_ja": null,
+        "year": 1930
+      },
+      {
+        "title_original": "The Second World War",
+        "title_ja": "第二次世界大戦",
+        "year": 1948
+      },
+      {
+        "title_original": "A History of the English-Speaking Peoples",
+        "title_ja": null,
+        "year": 1956
+      }
+    ]
   },
   {
     "author_id": "ernest-hemingway",
@@ -879,7 +1900,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "The Sun Also Rises",
+        "title_ja": "日はまた昇る",
+        "year": 1926
+      },
+      {
+        "title_original": "A Farewell to Arms",
+        "title_ja": "武器よさらば",
+        "year": 1929
+      },
+      {
+        "title_original": "For Whom the Bell Tolls",
+        "title_ja": "誰がために鐘は鳴る",
+        "year": 1940
+      },
+      {
+        "title_original": "A Moveable Feast",
+        "title_ja": "移動祝祭日",
+        "year": 1964
+      }
+    ]
   },
   {
     "author_id": "halldor-laxness",
@@ -897,7 +1940,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Salka Valka",
+        "title_ja": null,
+        "year": 1931
+      },
+      {
+        "title_original": "Sjálfstætt fólk",
+        "title_ja": null,
+        "year": 1934
+      },
+      {
+        "title_original": "Íslandsklukkan",
+        "title_ja": null,
+        "year": 1943
+      },
+      {
+        "title_original": "Gerpla",
+        "title_ja": null,
+        "year": 1952
+      }
+    ]
   },
   {
     "author_id": "juan-ramon-jimenez",
@@ -915,7 +1980,19 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Platero y yo",
+        "title_ja": "プラテーロと私",
+        "year": 1914
+      },
+      {
+        "title_original": "Diario de un poeta recién casado",
+        "title_ja": null,
+        "year": 1917
+      }
+    ]
   },
   {
     "author_id": "albert-camus",
@@ -933,7 +2010,34 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "L'Étranger",
+        "title_ja": "異邦人",
+        "year": 1942
+      },
+      {
+        "title_original": "Le Mythe de Sisyphe",
+        "title_ja": "シーシュポスの神話",
+        "year": 1942
+      },
+      {
+        "title_original": "Caligula",
+        "title_ja": "カリギュラ",
+        "year": 1944
+      },
+      {
+        "title_original": "La Peste",
+        "title_ja": "ペスト",
+        "year": 1947
+      },
+      {
+        "title_original": "La Chute",
+        "title_ja": "転落",
+        "year": 1956
+      }
+    ]
   },
   {
     "author_id": "boris-pasternak",
@@ -951,7 +2055,19 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Sestra moya — zhizn",
+        "title_ja": null,
+        "year": 1922
+      },
+      {
+        "title_original": "Doctor Zhivago",
+        "title_ja": "ドクトル・ジバゴ",
+        "year": 1957
+      }
+    ]
   },
   {
     "author_id": "salvatore-quasimodo",
@@ -969,7 +2085,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Acque e terre",
+        "title_ja": null,
+        "year": 1930
+      },
+      {
+        "title_original": "Ed è subito sera",
+        "title_ja": null,
+        "year": 1942
+      },
+      {
+        "title_original": "Giorno dopo giorno",
+        "title_ja": null,
+        "year": 1947
+      }
+    ]
   },
   {
     "author_id": "saint-john-perse",
@@ -987,7 +2120,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Éloges",
+        "title_ja": null,
+        "year": 1911
+      },
+      {
+        "title_original": "Anabase",
+        "title_ja": null,
+        "year": 1924
+      },
+      {
+        "title_original": "Vents",
+        "title_ja": null,
+        "year": 1946
+      },
+      {
+        "title_original": "Amers",
+        "title_ja": null,
+        "year": 1957
+      }
+    ]
   },
   {
     "author_id": "ivo-andric",
@@ -1005,7 +2160,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Na Drini ćuprija",
+        "title_ja": "ドリナの橋",
+        "year": 1945
+      },
+      {
+        "title_original": "Travnička hronika",
+        "title_ja": null,
+        "year": 1945
+      },
+      {
+        "title_original": "Gospođica",
+        "title_ja": null,
+        "year": 1945
+      }
+    ]
   },
   {
     "author_id": "john-steinbeck",
@@ -1023,7 +2195,34 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Of Mice and Men",
+        "title_ja": "二十日鼠と人間",
+        "year": 1937
+      },
+      {
+        "title_original": "The Grapes of Wrath",
+        "title_ja": "怒りの葡萄",
+        "year": 1939
+      },
+      {
+        "title_original": "Cannery Row",
+        "title_ja": "缶詰横丁",
+        "year": 1945
+      },
+      {
+        "title_original": "The Pearl",
+        "title_ja": "真珠",
+        "year": 1947
+      },
+      {
+        "title_original": "East of Eden",
+        "title_ja": "エデンの東",
+        "year": 1952
+      }
+    ]
   },
   {
     "author_id": "giorgos-seferis",
@@ -1041,7 +2240,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Strofi",
+        "title_ja": null,
+        "year": 1931
+      },
+      {
+        "title_original": "Mythistorema",
+        "title_ja": null,
+        "year": 1935
+      },
+      {
+        "title_original": "Imerologio Katastromatos",
+        "title_ja": null,
+        "year": 1940
+      }
+    ]
   },
   {
     "author_id": "jean-paul-sartre",
@@ -1059,7 +2275,39 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "La Nausée",
+        "title_ja": "嘔吐",
+        "year": 1938
+      },
+      {
+        "title_original": "Les Mouches",
+        "title_ja": "蠅",
+        "year": 1943
+      },
+      {
+        "title_original": "L'Être et le Néant",
+        "title_ja": "存在と無",
+        "year": 1943
+      },
+      {
+        "title_original": "Huis clos",
+        "title_ja": "出口なし",
+        "year": 1944
+      },
+      {
+        "title_original": "Les Chemins de la liberté",
+        "title_ja": "自由への道",
+        "year": 1945
+      },
+      {
+        "title_original": "Qu'est-ce que la littérature?",
+        "title_ja": "文学とは何か",
+        "year": 1948
+      }
+    ]
   },
   {
     "author_id": "mikhail-sholokhov",
@@ -1077,7 +2325,19 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Tikhiy Don",
+        "title_ja": "静かなドン",
+        "year": 1928
+      },
+      {
+        "title_original": "Podnyataya tselina",
+        "title_ja": null,
+        "year": 1932
+      }
+    ]
   },
   {
     "author_id": "shmuel-yosef-agnon",
@@ -1095,7 +2355,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Hachnasat Kallah",
+        "title_ja": null,
+        "year": 1931
+      },
+      {
+        "title_original": "Oreach Nata Lalun",
+        "title_ja": null,
+        "year": 1938
+      },
+      {
+        "title_original": "Tmol Shilshom",
+        "title_ja": null,
+        "year": 1945
+      }
+    ]
   },
   {
     "author_id": "nelly-sachs",
@@ -1113,7 +2390,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "In den Wohnungen des Todes",
+        "title_ja": null,
+        "year": 1947
+      },
+      {
+        "title_original": "Sternverdunkelung",
+        "title_ja": null,
+        "year": 1949
+      },
+      {
+        "title_original": "Flucht und Verwandlung",
+        "title_ja": null,
+        "year": 1959
+      }
+    ]
   },
   {
     "author_id": "miguel-angel-asturias",
@@ -1131,7 +2425,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Leyendas de Guatemala",
+        "title_ja": null,
+        "year": 1930
+      },
+      {
+        "title_original": "El Señor Presidente",
+        "title_ja": "大統領閣下",
+        "year": 1946
+      },
+      {
+        "title_original": "Hombres de maíz",
+        "title_ja": null,
+        "year": 1949
+      }
+    ]
   },
   {
     "author_id": "yasunari-kawabata",
@@ -1149,7 +2460,34 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Izu no Odoriko",
+        "title_ja": "伊豆の踊子",
+        "year": 1926
+      },
+      {
+        "title_original": "Yukiguni",
+        "title_ja": "雪国",
+        "year": 1935
+      },
+      {
+        "title_original": "Sembazuru",
+        "title_ja": "千羽鶴",
+        "year": 1949
+      },
+      {
+        "title_original": "Yama no Oto",
+        "title_ja": "山の音",
+        "year": 1954
+      },
+      {
+        "title_original": "Koto",
+        "title_ja": "古都",
+        "year": 1962
+      }
+    ]
   },
   {
     "author_id": "samuel-beckett",
@@ -1167,7 +2505,34 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Murphy",
+        "title_ja": null,
+        "year": 1938
+      },
+      {
+        "title_original": "Molloy",
+        "title_ja": "モロイ",
+        "year": 1951
+      },
+      {
+        "title_original": "Malone meurt",
+        "title_ja": "マロウン死す",
+        "year": 1951
+      },
+      {
+        "title_original": "En attendant Godot",
+        "title_ja": "ゴドーを待ちながら",
+        "year": 1952
+      },
+      {
+        "title_original": "Fin de partie",
+        "title_ja": "勝負の終わり",
+        "year": 1957
+      }
+    ]
   },
   {
     "author_id": "aleksandr-solzhenitsyn",
@@ -1185,7 +2550,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Odin den' Ivana Denisovicha",
+        "title_ja": "イワン・デニーソヴィチの一日",
+        "year": 1962
+      },
+      {
+        "title_original": "Rakovy korpus",
+        "title_ja": "癌病棟",
+        "year": 1966
+      },
+      {
+        "title_original": "V kruge pervom",
+        "title_ja": null,
+        "year": 1968
+      },
+      {
+        "title_original": "Arkhipelag GULAG",
+        "title_ja": "収容所群島",
+        "year": 1973
+      }
+    ]
   },
   {
     "author_id": "pablo-neruda",
@@ -1203,7 +2590,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Veinte poemas de amor y una canción desesperada",
+        "title_ja": null,
+        "year": 1924
+      },
+      {
+        "title_original": "Residencia en la tierra",
+        "title_ja": null,
+        "year": 1933
+      },
+      {
+        "title_original": "Canto general",
+        "title_ja": null,
+        "year": 1950
+      },
+      {
+        "title_original": "Odas elementales",
+        "title_ja": null,
+        "year": 1954
+      }
+    ]
   },
   {
     "author_id": "heinrich-boll",
@@ -1221,7 +2630,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Billard um halb zehn",
+        "title_ja": "九時半の玉突き",
+        "year": 1959
+      },
+      {
+        "title_original": "Ansichten eines Clowns",
+        "title_ja": "道化師の告白",
+        "year": 1963
+      },
+      {
+        "title_original": "Gruppenbild mit Dame",
+        "title_ja": null,
+        "year": 1971
+      },
+      {
+        "title_original": "Die verlorene Ehre der Katharina Blum",
+        "title_ja": "カタリーナ・ブルームの失われた名誉",
+        "year": 1974
+      }
+    ]
   },
   {
     "author_id": "patrick-white",
@@ -1239,7 +2670,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "The Tree of Man",
+        "title_ja": null,
+        "year": 1955
+      },
+      {
+        "title_original": "Voss",
+        "title_ja": "ヴォス",
+        "year": 1957
+      },
+      {
+        "title_original": "Riders in the Chariot",
+        "title_ja": null,
+        "year": 1961
+      },
+      {
+        "title_original": "The Eye of the Storm",
+        "title_ja": null,
+        "year": 1973
+      }
+    ]
   },
   {
     "author_id": "eyvind-johnson",
@@ -1257,7 +2710,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Romanen om Olof",
+        "title_ja": null,
+        "year": 1945
+      },
+      {
+        "title_original": "Grupp Krilon",
+        "title_ja": null,
+        "year": 1941
+      },
+      {
+        "title_original": "Strändernas svall",
+        "title_ja": null,
+        "year": 1946
+      },
+      {
+        "title_original": "Hans nådes tid",
+        "title_ja": null,
+        "year": 1960
+      }
+    ]
   },
   {
     "author_id": "harry-martinson",
@@ -1275,7 +2750,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Nässlorna blomma",
+        "title_ja": null,
+        "year": 1935
+      },
+      {
+        "title_original": "Vägen till Klockrike",
+        "title_ja": null,
+        "year": 1948
+      },
+      {
+        "title_original": "Aniara",
+        "title_ja": "アニアーラ",
+        "year": 1956
+      }
+    ]
   },
   {
     "author_id": "eugenio-montale",
@@ -1293,7 +2785,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Ossi di seppia",
+        "title_ja": null,
+        "year": 1925
+      },
+      {
+        "title_original": "Le occasioni",
+        "title_ja": null,
+        "year": 1939
+      },
+      {
+        "title_original": "La bufera e altro",
+        "title_ja": null,
+        "year": 1956
+      }
+    ]
   },
   {
     "author_id": "saul-bellow",
@@ -1311,7 +2820,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "The Adventures of Augie March",
+        "title_ja": "オーギー・マーチの冒険",
+        "year": 1953
+      },
+      {
+        "title_original": "Seize the Day",
+        "title_ja": "この日をつかめ",
+        "year": 1956
+      },
+      {
+        "title_original": "Herzog",
+        "title_ja": "ハーツォグ",
+        "year": 1964
+      },
+      {
+        "title_original": "Humboldt's Gift",
+        "title_ja": "フンボルトの贈り物",
+        "year": 1975
+      }
+    ]
   },
   {
     "author_id": "vicente-aleixandre",
@@ -1329,7 +2860,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Espadas como labios",
+        "title_ja": null,
+        "year": 1932
+      },
+      {
+        "title_original": "La destrucción o el amor",
+        "title_ja": null,
+        "year": 1935
+      },
+      {
+        "title_original": "Sombra del paraíso",
+        "title_ja": null,
+        "year": 1944
+      }
+    ]
   },
   {
     "author_id": "isaac-bashevis-singer",
@@ -1347,7 +2895,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "The Family Moskat",
+        "title_ja": "モスカート家の人々",
+        "year": 1950
+      },
+      {
+        "title_original": "The Magician of Lublin",
+        "title_ja": "ルブリンの魔術師",
+        "year": 1960
+      },
+      {
+        "title_original": "The Slave",
+        "title_ja": "奴隷",
+        "year": 1962
+      },
+      {
+        "title_original": "Enemies, A Love Story",
+        "title_ja": null,
+        "year": 1972
+      }
+    ]
   },
   {
     "author_id": "odysseas-elytis",
@@ -1365,7 +2935,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Prosanatolismoi",
+        "title_ja": null,
+        "year": 1940
+      },
+      {
+        "title_original": "Ilios o protos",
+        "title_ja": null,
+        "year": 1943
+      },
+      {
+        "title_original": "To Axion Esti",
+        "title_ja": null,
+        "year": 1959
+      }
+    ]
   },
   {
     "author_id": "czeslaw-milosz",
@@ -1383,7 +2970,34 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Zniewolony umysł",
+        "title_ja": "囚われの魂",
+        "year": 1953
+      },
+      {
+        "title_original": "Dolina Issy",
+        "title_ja": null,
+        "year": 1955
+      },
+      {
+        "title_original": "Traktat poetycki",
+        "title_ja": null,
+        "year": 1957
+      },
+      {
+        "title_original": "Rodzinna Europa",
+        "title_ja": null,
+        "year": 1959
+      },
+      {
+        "title_original": "Ziemia Ulro",
+        "title_ja": null,
+        "year": 1977
+      }
+    ]
   },
   {
     "author_id": "elias-canetti",
@@ -1401,7 +3015,34 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Die Blendung",
+        "title_ja": "眩暈",
+        "year": 1935
+      },
+      {
+        "title_original": "Masse und Macht",
+        "title_ja": "群衆と権力",
+        "year": 1960
+      },
+      {
+        "title_original": "Die gerettete Zunge",
+        "title_ja": "救われた舌",
+        "year": 1977
+      },
+      {
+        "title_original": "Die Fackel im Ohr",
+        "title_ja": null,
+        "year": 1980
+      },
+      {
+        "title_original": "Das Augenspiel",
+        "title_ja": null,
+        "year": 1985
+      }
+    ]
   },
   {
     "author_id": "gabriel-garcia-marquez",
@@ -1419,7 +3060,39 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Cien años de soledad",
+        "title_ja": "百年の孤独",
+        "year": 1967
+      },
+      {
+        "title_original": "El otoño del patriarca",
+        "title_ja": "族長の秋",
+        "year": 1975
+      },
+      {
+        "title_original": "Crónica de una muerte anunciada",
+        "title_ja": "予告された殺人の記録",
+        "year": 1981
+      },
+      {
+        "title_original": "El amor en los tiempos del cólera",
+        "title_ja": "コレラの時代の愛",
+        "year": 1985
+      },
+      {
+        "title_original": "El general en su laberinto",
+        "title_ja": "迷宮の将軍",
+        "year": 1989
+      },
+      {
+        "title_original": "Del amor y otros demonios",
+        "title_ja": "愛その他の悪霊について",
+        "year": 1994
+      }
+    ]
   },
   {
     "author_id": "william-golding",
@@ -1428,16 +3101,65 @@
     "country": "イギリス",
     "awards": [
       {
+        "award_id": "booker",
+        "year": 1980,
+        "work_ja": "通過儀礼",
+        "work_original": "Rites of Passage",
+        "jp_translation_status": "unavailable"
+      },
+      {
         "award_id": "nobel",
         "year": 1983,
         "jp_translation_status": "n/a"
       }
     ],
-    "is_multi_award": false,
+    "is_multi_award": true,
     "award_ids": [
+      "booker",
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [
+      {
+        "work_ja": "通過儀礼",
+        "work_original": "Rites of Passage",
+        "award_id": "booker",
+        "year": 1980,
+        "jp_translation_status": "unavailable",
+        "jp_translation_title": null
+      }
+    ],
+    "major_works": [
+      {
+        "title_original": "Lord of the Flies",
+        "title_ja": "蝿の王",
+        "year": 1954
+      },
+      {
+        "title_original": "The Inheritors",
+        "title_ja": "後継者たち",
+        "year": 1955
+      },
+      {
+        "title_original": "Pincher Martin",
+        "title_ja": null,
+        "year": 1956
+      },
+      {
+        "title_original": "The Spire",
+        "title_ja": "尖塔",
+        "year": 1964
+      },
+      {
+        "title_original": "Close Quarters",
+        "title_ja": null,
+        "year": 1987
+      },
+      {
+        "title_original": "Fire Down Below",
+        "title_ja": null,
+        "year": 1989
+      }
+    ]
   },
   {
     "author_id": "jaroslav-seifert",
@@ -1455,7 +3177,39 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Město v slzách",
+        "title_ja": null,
+        "year": 1921
+      },
+      {
+        "title_original": "Vějíř Boženy Němcové",
+        "title_ja": null,
+        "year": 1940
+      },
+      {
+        "title_original": "Maminka",
+        "title_ja": null,
+        "year": 1954
+      },
+      {
+        "title_original": "Odlévání zvonů",
+        "title_ja": null,
+        "year": 1967
+      },
+      {
+        "title_original": "Deštník z Piccadilly",
+        "title_ja": null,
+        "year": 1979
+      },
+      {
+        "title_original": "Všecky krásy světa",
+        "title_ja": null,
+        "year": 1982
+      }
+    ]
   },
   {
     "author_id": "claude-simon",
@@ -1473,7 +3227,34 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Le Vent",
+        "title_ja": null,
+        "year": 1957
+      },
+      {
+        "title_original": "L'Herbe",
+        "title_ja": null,
+        "year": 1958
+      },
+      {
+        "title_original": "La Route des Flandres",
+        "title_ja": "フランドルの道",
+        "year": 1960
+      },
+      {
+        "title_original": "Histoire",
+        "title_ja": null,
+        "year": 1967
+      },
+      {
+        "title_original": "Les Géorgiques",
+        "title_ja": null,
+        "year": 1981
+      }
+    ]
   },
   {
     "author_id": "wole-soyinka",
@@ -1491,7 +3272,34 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "A Dance of the Forests",
+        "title_ja": null,
+        "year": 1960
+      },
+      {
+        "title_original": "The Lion and the Jewel",
+        "title_ja": null,
+        "year": 1963
+      },
+      {
+        "title_original": "The Interpreters",
+        "title_ja": null,
+        "year": 1965
+      },
+      {
+        "title_original": "Death and the King's Horseman",
+        "title_ja": null,
+        "year": 1975
+      },
+      {
+        "title_original": "Aké: The Years of Childhood",
+        "title_ja": null,
+        "year": 1981
+      }
+    ]
   },
   {
     "author_id": "joseph-brodsky",
@@ -1509,7 +3317,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Ostanovka v pustyne",
+        "title_ja": null,
+        "year": 1970
+      },
+      {
+        "title_original": "Chast rechi",
+        "title_ja": null,
+        "year": 1977
+      },
+      {
+        "title_original": "Less Than One",
+        "title_ja": null,
+        "year": 1986
+      },
+      {
+        "title_original": "Uraniya",
+        "title_ja": null,
+        "year": 1987
+      }
+    ]
   },
   {
     "author_id": "naguib-mahfouz",
@@ -1527,7 +3357,39 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Bayn al-Qasrayn",
+        "title_ja": "張り出し窓の街",
+        "year": 1956
+      },
+      {
+        "title_original": "Qasr al-Shawq",
+        "title_ja": null,
+        "year": 1957
+      },
+      {
+        "title_original": "Al-Sukkariyya",
+        "title_ja": null,
+        "year": 1957
+      },
+      {
+        "title_original": "Awlad Haratina",
+        "title_ja": null,
+        "year": 1959
+      },
+      {
+        "title_original": "Al-Liss wa al-Kilab",
+        "title_ja": null,
+        "year": 1961
+      },
+      {
+        "title_original": "Miramar",
+        "title_ja": null,
+        "year": 1967
+      }
+    ]
   },
   {
     "author_id": "camilo-jose-cela",
@@ -1545,7 +3407,19 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "La familia de Pascual Duarte",
+        "title_ja": "パスクアル・ドゥアルテの家族",
+        "year": 1942
+      },
+      {
+        "title_original": "La colmena",
+        "title_ja": "蜂の巣",
+        "year": 1951
+      }
+    ]
   },
   {
     "author_id": "octavio-paz",
@@ -1563,7 +3437,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "El laberinto de la soledad",
+        "title_ja": "孤独の迷宮",
+        "year": 1950
+      },
+      {
+        "title_original": "El arco y la lira",
+        "title_ja": "弓と竪琴",
+        "year": 1956
+      },
+      {
+        "title_original": "Piedra de sol",
+        "title_ja": "太陽の石",
+        "year": 1957
+      }
+    ]
   },
   {
     "author_id": "nadine-gordimer",
@@ -1598,6 +3489,28 @@
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "The Lying Days",
+        "title_ja": null,
+        "year": 1953
+      },
+      {
+        "title_original": "Burger's Daughter",
+        "title_ja": null,
+        "year": 1979
+      },
+      {
+        "title_original": "July's People",
+        "title_ja": null,
+        "year": 1981
+      },
+      {
+        "title_original": "Jump and Other Stories",
+        "title_ja": "ジャンプ",
+        "year": 1991
+      }
     ]
   },
   {
@@ -1616,7 +3529,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "In a Green Night: Poems 1948-1960",
+        "title_ja": null,
+        "year": 1962
+      },
+      {
+        "title_original": "Dream on Monkey Mountain",
+        "title_ja": null,
+        "year": 1970
+      },
+      {
+        "title_original": "Another Life",
+        "title_ja": null,
+        "year": 1973
+      },
+      {
+        "title_original": "Omeros",
+        "title_ja": null,
+        "year": 1990
+      }
+    ]
   },
   {
     "author_id": "toni-morrison",
@@ -1634,7 +3569,34 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "The Bluest Eye",
+        "title_ja": "青い眼がほしい",
+        "year": 1970
+      },
+      {
+        "title_original": "Sula",
+        "title_ja": "スーラ",
+        "year": 1973
+      },
+      {
+        "title_original": "Song of Solomon",
+        "title_ja": "ソロモンの歌",
+        "year": 1977
+      },
+      {
+        "title_original": "Beloved",
+        "title_ja": "ビラヴド",
+        "year": 1987
+      },
+      {
+        "title_original": "Jazz",
+        "title_ja": "ジャズ",
+        "year": 1992
+      }
+    ]
   },
   {
     "author_id": "kenzaburo-oe",
@@ -1670,6 +3632,33 @@
         "jp_translation_status": "original-ja",
         "jp_translation_title": null
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "Kojinteki na taiken",
+        "title_ja": "個人的な体験",
+        "year": 1964
+      },
+      {
+        "title_original": "Man'en gannen no futtobōru",
+        "title_ja": "万延元年のフットボール",
+        "year": 1967
+      },
+      {
+        "title_original": "Kōzui wa waga tamashii ni oyobi",
+        "title_ja": "洪水はわが魂に及び",
+        "year": 1973
+      },
+      {
+        "title_original": "Atarashii hito yo mezameyo",
+        "title_ja": "新しい人よ眼ざめよ",
+        "year": 1983
+      },
+      {
+        "title_original": "Moeagaru midori no ki",
+        "title_ja": "燃えあがる緑の木",
+        "year": 1993
+      }
     ]
   },
   {
@@ -1688,7 +3677,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Death of a Naturalist",
+        "title_ja": null,
+        "year": 1966
+      },
+      {
+        "title_original": "North",
+        "title_ja": null,
+        "year": 1975
+      },
+      {
+        "title_original": "Field Work",
+        "title_ja": null,
+        "year": 1979
+      },
+      {
+        "title_original": "Station Island",
+        "title_ja": null,
+        "year": 1984
+      }
+    ]
   },
   {
     "author_id": "wislawa-szymborska",
@@ -1706,7 +3717,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Wołanie do Yeti",
+        "title_ja": null,
+        "year": 1957
+      },
+      {
+        "title_original": "Sto pociech",
+        "title_ja": null,
+        "year": 1967
+      },
+      {
+        "title_original": "Ludzie na moście",
+        "title_ja": null,
+        "year": 1986
+      },
+      {
+        "title_original": "Koniec i początek",
+        "title_ja": "終わりと始まり",
+        "year": 1993
+      }
+    ]
   },
   {
     "author_id": "dario-fo",
@@ -1724,7 +3757,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Mistero Buffo",
+        "title_ja": null,
+        "year": 1969
+      },
+      {
+        "title_original": "Morte accidentale di un anarchico",
+        "title_ja": "アナーキストの事故死",
+        "year": 1970
+      },
+      {
+        "title_original": "Non si paga, non si paga!",
+        "title_ja": null,
+        "year": 1974
+      }
+    ]
   },
   {
     "author_id": "jose-saramago",
@@ -1742,7 +3792,34 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Memorial do Convento",
+        "title_ja": "修道院回想録",
+        "year": 1982
+      },
+      {
+        "title_original": "O Evangelho Segundo Jesus Cristo",
+        "title_ja": "イエス・キリストによる福音書",
+        "year": 1991
+      },
+      {
+        "title_original": "Ensaio sobre a Cegueira",
+        "title_ja": "白の闇",
+        "year": 1995
+      },
+      {
+        "title_original": "Todos os Nomes",
+        "title_ja": "あらゆる名前",
+        "year": 1997
+      },
+      {
+        "title_original": "O Homem Duplicado",
+        "title_ja": "複製された男",
+        "year": 2002
+      }
+    ]
   },
   {
     "author_id": "gunter-grass",
@@ -1760,7 +3837,34 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Die Blechtrommel",
+        "title_ja": "ブリキの太鼓",
+        "year": 1959
+      },
+      {
+        "title_original": "Katz und Maus",
+        "title_ja": "猫と鼠",
+        "year": 1961
+      },
+      {
+        "title_original": "Hundejahre",
+        "title_ja": "犬の年",
+        "year": 1963
+      },
+      {
+        "title_original": "Der Butt",
+        "title_ja": "ひらめ",
+        "year": 1977
+      },
+      {
+        "title_original": "Im Krebsgang",
+        "title_ja": "蟹の横歩き",
+        "year": 2002
+      }
+    ]
   },
   {
     "author_id": "gao-xingjian",
@@ -1778,7 +3882,19 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Lingshan",
+        "title_ja": "霊山",
+        "year": 1990
+      },
+      {
+        "title_original": "Yige ren de shengjing",
+        "title_ja": "ある人間の聖書",
+        "year": 1999
+      }
+    ]
   },
   {
     "author_id": "v-s-naipaul",
@@ -1813,6 +3929,23 @@
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "A House for Mr Biswas",
+        "title_ja": "ビスワス氏の家",
+        "year": 1961
+      },
+      {
+        "title_original": "A Bend in the River",
+        "title_ja": "川の曲がり角",
+        "year": 1979
+      },
+      {
+        "title_original": "The Enigma of Arrival",
+        "title_ja": null,
+        "year": 1987
+      }
     ]
   },
   {
@@ -1831,7 +3964,19 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "A kudarc",
+        "title_ja": null,
+        "year": 1988
+      },
+      {
+        "title_original": "Kaddis a meg nem született gyermekért",
+        "title_ja": "生まれなかった子のためのカディッシュ",
+        "year": 1990
+      }
+    ]
   },
   {
     "author_id": "jm-coetzee",
@@ -1883,6 +4028,28 @@
         "jp_translation_status": "available",
         "jp_translation_title": "恥辱"
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "Waiting for the Barbarians",
+        "title_ja": "夷狄を待ちながら",
+        "year": 1980
+      },
+      {
+        "title_original": "Foe",
+        "title_ja": "敵あるいはフォー",
+        "year": 1986
+      },
+      {
+        "title_original": "Youth",
+        "title_ja": null,
+        "year": 2002
+      },
+      {
+        "title_original": "Elizabeth Costello",
+        "title_ja": null,
+        "year": 2003
+      }
     ]
   },
   {
@@ -1901,7 +4068,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Die Liebhaberinnen",
+        "title_ja": null,
+        "year": 1975
+      },
+      {
+        "title_original": "Die Klavierspielerin",
+        "title_ja": "ピアノを弾く女",
+        "year": 1983
+      },
+      {
+        "title_original": "Lust",
+        "title_ja": null,
+        "year": 1989
+      }
+    ]
   },
   {
     "author_id": "harold-pinter",
@@ -1919,7 +4103,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "The Birthday Party",
+        "title_ja": null,
+        "year": 1957
+      },
+      {
+        "title_original": "The Caretaker",
+        "title_ja": null,
+        "year": 1960
+      },
+      {
+        "title_original": "The Homecoming",
+        "title_ja": null,
+        "year": 1964
+      },
+      {
+        "title_original": "Betrayal",
+        "title_ja": null,
+        "year": 1978
+      }
+    ]
   },
   {
     "author_id": "orhan-pamuk",
@@ -1937,7 +4143,34 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Beyaz Kale",
+        "title_ja": "白い城",
+        "year": 1985
+      },
+      {
+        "title_original": "Kara Kitap",
+        "title_ja": "黒い本",
+        "year": 1990
+      },
+      {
+        "title_original": "Benim Adım Kırmızı",
+        "title_ja": "わたしの名は赤",
+        "year": 1998
+      },
+      {
+        "title_original": "Kar",
+        "title_ja": "雪",
+        "year": 2002
+      },
+      {
+        "title_original": "İstanbul: Hatıralar ve Şehir",
+        "title_ja": "イスタンブール 思い出とこの町",
+        "year": 2003
+      }
+    ]
   },
   {
     "author_id": "doris-lessing",
@@ -1955,7 +4188,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "The Grass Is Singing",
+        "title_ja": "草は歌う",
+        "year": 1950
+      },
+      {
+        "title_original": "Martha Quest",
+        "title_ja": null,
+        "year": 1952
+      },
+      {
+        "title_original": "The Golden Notebook",
+        "title_ja": "黄金のノート",
+        "year": 1962
+      }
+    ]
   },
   {
     "author_id": "jmg-le-clezio",
@@ -1973,7 +4223,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Le Procès-verbal",
+        "title_ja": "調書",
+        "year": 1963
+      },
+      {
+        "title_original": "Désert",
+        "title_ja": "砂漠",
+        "year": 1980
+      },
+      {
+        "title_original": "Le Chercheur d'or",
+        "title_ja": "黄金探索者",
+        "year": 1985
+      }
+    ]
   },
   {
     "author_id": "herta-muller",
@@ -1991,7 +4258,34 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Niederungen",
+        "title_ja": null,
+        "year": 1982
+      },
+      {
+        "title_original": "Der Fuchs war schon damals der Jäger",
+        "title_ja": "狙われたキツネ",
+        "year": 1992
+      },
+      {
+        "title_original": "Herztier",
+        "title_ja": "心獣",
+        "year": 1994
+      },
+      {
+        "title_original": "Heute wär ich mir lieber nicht begegnet",
+        "title_ja": "呼び出し",
+        "year": 1997
+      },
+      {
+        "title_original": "Atemschaukel",
+        "title_ja": "息のブランコ",
+        "year": 2009
+      }
+    ]
   },
   {
     "author_id": "mario-vargas-llosa",
@@ -2009,7 +4303,34 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "La ciudad y los perros",
+        "title_ja": "都会と犬ども",
+        "year": 1963
+      },
+      {
+        "title_original": "La casa verde",
+        "title_ja": "緑の家",
+        "year": 1966
+      },
+      {
+        "title_original": "Conversación en La Catedral",
+        "title_ja": "ラ・カテドラルでの対話",
+        "year": 1969
+      },
+      {
+        "title_original": "La tía Julia y el escribidor",
+        "title_ja": "フリアとシナリオ作家",
+        "year": 1977
+      },
+      {
+        "title_original": "La fiesta del Chivo",
+        "title_ja": "チボの狂宴",
+        "year": 2000
+      }
+    ]
   },
   {
     "author_id": "tomas-transtromer",
@@ -2027,7 +4348,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "17 dikter",
+        "title_ja": null,
+        "year": 1954
+      },
+      {
+        "title_original": "Klanger och spår",
+        "title_ja": null,
+        "year": 1966
+      },
+      {
+        "title_original": "Östersjöar",
+        "title_ja": null,
+        "year": 1974
+      },
+      {
+        "title_original": "Sorgegondolen",
+        "title_ja": "悲しみのゴンドラ",
+        "year": 1996
+      }
+    ]
   },
   {
     "author_id": "mo-yan",
@@ -2045,7 +4388,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Hong gaoliang jiazu",
+        "title_ja": "赤い高粱",
+        "year": 1987
+      },
+      {
+        "title_original": "Fengru feitun",
+        "title_ja": "豊乳肥臀",
+        "year": 1996
+      },
+      {
+        "title_original": "Shengsi pilao",
+        "title_ja": "転生夢現",
+        "year": 2006
+      },
+      {
+        "title_original": "Wa",
+        "title_ja": "蛙鳴",
+        "year": 2009
+      }
+    ]
   },
   {
     "author_id": "alice-munro",
@@ -2069,7 +4434,34 @@
       "intl-booker",
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Dance of the Happy Shades",
+        "title_ja": null,
+        "year": 1968
+      },
+      {
+        "title_original": "Lives of Girls and Women",
+        "title_ja": null,
+        "year": 1971
+      },
+      {
+        "title_original": "Who Do You Think You Are?",
+        "title_ja": null,
+        "year": 1978
+      },
+      {
+        "title_original": "Hateship, Friendship, Courtship, Loveship, Marriage",
+        "title_ja": "イラクサ",
+        "year": 2001
+      },
+      {
+        "title_original": "The View from Castle Rock",
+        "title_ja": "林檎の木の下で",
+        "year": 2006
+      }
+    ]
   },
   {
     "author_id": "patrick-modiano",
@@ -2087,7 +4479,24 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "La Place de l'Étoile",
+        "title_ja": null,
+        "year": 1968
+      },
+      {
+        "title_original": "Rue des Boutiques Obscures",
+        "title_ja": "暗いブティック通り",
+        "year": 1978
+      },
+      {
+        "title_original": "Dora Bruder",
+        "title_ja": "ドラ・ブリュデール",
+        "year": 1997
+      }
+    ]
   },
   {
     "author_id": "svetlana-alexievich",
@@ -2105,7 +4514,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "U voyny ne zhenskoye litso",
+        "title_ja": "戦争は女の顔をしていない",
+        "year": 1985
+      },
+      {
+        "title_original": "Tsinkovye mal'chiki",
+        "title_ja": "亜鉛の少年たち",
+        "year": 1989
+      },
+      {
+        "title_original": "Chernobyl'skaya molitva",
+        "title_ja": "チェルノブイリの祈り",
+        "year": 1997
+      },
+      {
+        "title_original": "Vremya sekond khend",
+        "title_ja": "セカンドハンドの時代",
+        "year": 2013
+      }
+    ]
   },
   {
     "author_id": "bob-dylan",
@@ -2123,7 +4554,34 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Blowin' in the Wind",
+        "title_ja": null,
+        "year": 1963
+      },
+      {
+        "title_original": "The Times They Are a-Changin'",
+        "title_ja": null,
+        "year": 1964
+      },
+      {
+        "title_original": "Highway 61 Revisited",
+        "title_ja": null,
+        "year": 1965
+      },
+      {
+        "title_original": "Blonde on Blonde",
+        "title_ja": null,
+        "year": 1966
+      },
+      {
+        "title_original": "Blood on the Tracks",
+        "title_ja": null,
+        "year": 1975
+      }
+    ]
   },
   {
     "author_id": "kazuo-ishiguro",
@@ -2158,6 +4616,33 @@
         "year": 1989,
         "jp_translation_status": "available",
         "jp_translation_title": "日の名残り"
+      }
+    ],
+    "major_works": [
+      {
+        "title_original": "A Pale View of Hills",
+        "title_ja": "遠い山なみの光",
+        "year": 1982
+      },
+      {
+        "title_original": "An Artist of the Floating World",
+        "title_ja": "浮世の画家",
+        "year": 1986
+      },
+      {
+        "title_original": "Never Let Me Go",
+        "title_ja": "わたしを離さないで",
+        "year": 2005
+      },
+      {
+        "title_original": "The Buried Giant",
+        "title_ja": "忘れられた巨人",
+        "year": 2015
+      },
+      {
+        "title_original": "Klara and the Sun",
+        "title_ja": "クララとお日さま",
+        "year": 2021
       }
     ]
   },
@@ -2195,6 +4680,33 @@
         "jp_translation_status": "available",
         "jp_translation_title": "逃亡派"
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "Prawiek i inne czasy",
+        "title_ja": null,
+        "year": 1996
+      },
+      {
+        "title_original": "Dom dzienny, dom nocny",
+        "title_ja": "昼の家、夜の家",
+        "year": 1998
+      },
+      {
+        "title_original": "Bieguni",
+        "title_ja": "逃亡派",
+        "year": 2007
+      },
+      {
+        "title_original": "Prowadź swój pług przez kości umarłych",
+        "title_ja": null,
+        "year": 2009
+      },
+      {
+        "title_original": "Księgi Jakubowe",
+        "title_ja": null,
+        "year": 2014
+      }
     ]
   },
   {
@@ -2213,7 +4725,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Publikumsbeschimpfung",
+        "title_ja": "観客罵倒",
+        "year": 1966
+      },
+      {
+        "title_original": "Die Angst des Tormanns beim Elfmeter",
+        "title_ja": "不安 ペナルティキックを受けるゴールキーパーの……",
+        "year": 1970
+      },
+      {
+        "title_original": "Wunschloses Unglück",
+        "title_ja": null,
+        "year": 1972
+      },
+      {
+        "title_original": "Die linkshändige Frau",
+        "title_ja": "左ききの女",
+        "year": 1976
+      }
+    ]
   },
   {
     "author_id": "louise-gluck",
@@ -2231,7 +4765,34 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Ararat",
+        "title_ja": null,
+        "year": 1990
+      },
+      {
+        "title_original": "The Wild Iris",
+        "title_ja": "野生のアイリス",
+        "year": 1992
+      },
+      {
+        "title_original": "Averno",
+        "title_ja": null,
+        "year": 2006
+      },
+      {
+        "title_original": "A Village Life",
+        "title_ja": null,
+        "year": 2009
+      },
+      {
+        "title_original": "Faithful and Virtuous Night",
+        "title_ja": null,
+        "year": 2014
+      }
+    ]
   },
   {
     "author_id": "abdulrazak-gurnah",
@@ -2249,7 +4810,39 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Memory of Departure",
+        "title_ja": null,
+        "year": 1987
+      },
+      {
+        "title_original": "Paradise",
+        "title_ja": "楽園",
+        "year": 1994
+      },
+      {
+        "title_original": "Admiring Silence",
+        "title_ja": null,
+        "year": 1996
+      },
+      {
+        "title_original": "By the Sea",
+        "title_ja": null,
+        "year": 2001
+      },
+      {
+        "title_original": "Desertion",
+        "title_ja": null,
+        "year": 2005
+      },
+      {
+        "title_original": "Afterlives",
+        "title_ja": null,
+        "year": 2020
+      }
+    ]
   },
   {
     "author_id": "annie-ernaux",
@@ -2267,7 +4860,39 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "La Place",
+        "title_ja": "場所",
+        "year": 1983
+      },
+      {
+        "title_original": "Une femme",
+        "title_ja": "ある女",
+        "year": 1987
+      },
+      {
+        "title_original": "Passion simple",
+        "title_ja": "シンプルな情熱",
+        "year": 1991
+      },
+      {
+        "title_original": "La Honte",
+        "title_ja": "恥",
+        "year": 1997
+      },
+      {
+        "title_original": "L'Événement",
+        "title_ja": "事件",
+        "year": 2000
+      },
+      {
+        "title_original": "Les Années",
+        "title_ja": "歳月",
+        "year": 2008
+      }
+    ]
   },
   {
     "author_id": "jon-fosse",
@@ -2285,7 +4910,29 @@
     "award_ids": [
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Melancholia",
+        "title_ja": null,
+        "year": 1995
+      },
+      {
+        "title_original": "Morgon og kveld",
+        "title_ja": "朝と夕",
+        "year": 2000
+      },
+      {
+        "title_original": "Trilogien (Andvake, Olavs draumar, Kveldsvævd)",
+        "title_ja": "三部作 トリロギーエン",
+        "year": 2014
+      },
+      {
+        "title_original": "Septologien",
+        "title_ja": null,
+        "year": 2019
+      }
+    ]
   },
   {
     "author_id": "han-kang",
@@ -2321,6 +4968,33 @@
         "jp_translation_status": "available",
         "jp_translation_title": "菜食主義者"
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "채식주의자 (Chaesikjuuija)",
+        "title_ja": "菜食主義者",
+        "year": 2007
+      },
+      {
+        "title_original": "그리스어 시간 (Geuriseueo sigan)",
+        "title_ja": "ギリシャ語の時間",
+        "year": 2011
+      },
+      {
+        "title_original": "소년이 온다 (Sonyeoni onda)",
+        "title_ja": "少年が来る",
+        "year": 2014
+      },
+      {
+        "title_original": "흰 (Huin)",
+        "title_ja": "すべての、白いものたちの",
+        "year": 2016
+      },
+      {
+        "title_original": "작별하지 않는다 (Jakbyeolhaji anneunda)",
+        "title_ja": "別れを告げない",
+        "year": 2021
+      }
     ]
   },
   {
@@ -2345,7 +5019,34 @@
       "intl-booker",
       "nobel"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Sátántangó",
+        "title_ja": "サタンタンゴ",
+        "year": 1985
+      },
+      {
+        "title_original": "Az ellenállás melankóliája",
+        "title_ja": "抵抗の憂鬱",
+        "year": 1989
+      },
+      {
+        "title_original": "Az északról hegy, délről tó, nyugatról utak, keletről folyó",
+        "title_ja": "北は山、南は湖、西は道、東は川",
+        "year": 2003
+      },
+      {
+        "title_original": "Háború és háború",
+        "title_ja": null,
+        "year": 1999
+      },
+      {
+        "title_original": "Seiobo járt odalent",
+        "title_ja": null,
+        "year": 2008
+      }
+    ]
   },
   {
     "author_id": "ph-newby",
@@ -2374,6 +5075,23 @@
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "A Journey to the Interior",
+        "title_ja": null,
+        "year": 1945
+      },
+      {
+        "title_original": "The Picnic at Sakkara",
+        "title_ja": null,
+        "year": 1955
+      },
+      {
+        "title_original": "Something to Answer For",
+        "title_ja": null,
+        "year": 1968
+      }
     ]
   },
   {
@@ -2401,6 +5119,28 @@
         "year": 1970,
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
+      }
+    ],
+    "major_works": [
+      {
+        "title_original": "Set on Edge",
+        "title_ja": null,
+        "year": 1960
+      },
+      {
+        "title_original": "Madame Sousatzka",
+        "title_ja": null,
+        "year": 1962
+      },
+      {
+        "title_original": "The Elected Member",
+        "title_ja": null,
+        "year": 1969
+      },
+      {
+        "title_original": "A Five Year Sentence",
+        "title_ja": null,
+        "year": 1978
       }
     ]
   },
@@ -2431,6 +5171,28 @@
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "A Painter of Our Time",
+        "title_ja": null,
+        "year": 1958
+      },
+      {
+        "title_original": "G.",
+        "title_ja": "G.",
+        "year": 1972
+      },
+      {
+        "title_original": "Ways of Seeing",
+        "title_ja": "イメージ 視覚とメディア",
+        "year": 1972
+      },
+      {
+        "title_original": "Pig Earth",
+        "title_ja": null,
+        "year": 1979
+      }
     ]
   },
   {
@@ -2458,6 +5220,23 @@
         "year": 1973,
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
+      }
+    ],
+    "major_works": [
+      {
+        "title_original": "Troubles",
+        "title_ja": null,
+        "year": 1970
+      },
+      {
+        "title_original": "The Siege of Krishnapur",
+        "title_ja": null,
+        "year": 1973
+      },
+      {
+        "title_original": "The Singapore Grip",
+        "title_ja": null,
+        "year": 1978
       }
     ]
   },
@@ -2488,6 +5267,18 @@
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "A Short Answer",
+        "title_ja": null,
+        "year": 1958
+      },
+      {
+        "title_original": "Holiday",
+        "title_ja": null,
+        "year": 1974
+      }
     ]
   },
   {
@@ -2517,6 +5308,28 @@
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "The Householder",
+        "title_ja": null,
+        "year": 1960
+      },
+      {
+        "title_original": "A Backward Place",
+        "title_ja": null,
+        "year": 1965
+      },
+      {
+        "title_original": "A New Dominion",
+        "title_ja": null,
+        "year": 1972
+      },
+      {
+        "title_original": "Heat and Dust",
+        "title_ja": null,
+        "year": 1975
+      }
     ]
   },
   {
@@ -2545,6 +5358,28 @@
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "This Sporting Life",
+        "title_ja": null,
+        "year": 1960
+      },
+      {
+        "title_original": "Radcliffe",
+        "title_ja": null,
+        "year": 1963
+      },
+      {
+        "title_original": "Pasmore",
+        "title_ja": null,
+        "year": 1972
+      },
+      {
+        "title_original": "Saville",
+        "title_ja": null,
+        "year": 1976
+      }
     ]
   },
   {
@@ -2572,6 +5407,33 @@
         "year": 1977,
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
+      }
+    ],
+    "major_works": [
+      {
+        "title_original": "The Jewel in the Crown",
+        "title_ja": null,
+        "year": 1966
+      },
+      {
+        "title_original": "The Day of the Scorpion",
+        "title_ja": null,
+        "year": 1968
+      },
+      {
+        "title_original": "The Towers of Silence",
+        "title_ja": null,
+        "year": 1971
+      },
+      {
+        "title_original": "A Division of the Spoils",
+        "title_ja": null,
+        "year": 1975
+      },
+      {
+        "title_original": "Staying On",
+        "title_ja": null,
+        "year": 1977
       }
     ]
   },
@@ -2602,6 +5464,33 @@
         "jp_translation_status": "available",
         "jp_translation_title": null
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "Under the Net",
+        "title_ja": "網のなか",
+        "year": 1954
+      },
+      {
+        "title_original": "The Bell",
+        "title_ja": "鐘",
+        "year": 1958
+      },
+      {
+        "title_original": "A Severed Head",
+        "title_ja": null,
+        "year": 1961
+      },
+      {
+        "title_original": "The Black Prince",
+        "title_ja": "黒い王子",
+        "year": 1973
+      },
+      {
+        "title_original": "The Sea, the Sea",
+        "title_ja": "海よ、海",
+        "year": 1978
+      }
     ]
   },
   {
@@ -2630,34 +5519,22 @@
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
       }
-    ]
-  },
-  {
-    "author_id": "william-golding-booker",
-    "name_ja": "ウィリアム・ゴールディング",
-    "name_en": "William Golding",
-    "country": "イギリス",
-    "awards": [
-      {
-        "award_id": "booker",
-        "year": 1980,
-        "work_ja": "通過儀礼",
-        "work_original": "Rites of Passage",
-        "jp_translation_status": "unavailable"
-      }
     ],
-    "is_multi_award": false,
-    "award_ids": [
-      "booker"
-    ],
-    "representative_works": [
+    "major_works": [
       {
-        "work_ja": "通過儀礼",
-        "work_original": "Rites of Passage",
-        "award_id": "booker",
-        "year": 1980,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null
+        "title_original": "The Bookshop",
+        "title_ja": "ブックショップ",
+        "year": 1978
+      },
+      {
+        "title_original": "Offshore",
+        "title_ja": null,
+        "year": 1979
+      },
+      {
+        "title_original": "The Blue Flower",
+        "title_ja": null,
+        "year": 1995
       }
     ]
   },
@@ -2689,6 +5566,33 @@
         "jp_translation_status": "available",
         "jp_translation_title": "真夜中の子供たち"
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "Midnight's Children",
+        "title_ja": "真夜中の子供たち",
+        "year": 1981
+      },
+      {
+        "title_original": "Shame",
+        "title_ja": "恥",
+        "year": 1983
+      },
+      {
+        "title_original": "The Satanic Verses",
+        "title_ja": "悪魔の詩",
+        "year": 1988
+      },
+      {
+        "title_original": "The Moor's Last Sigh",
+        "title_ja": null,
+        "year": 1995
+      },
+      {
+        "title_original": "Victory City",
+        "title_ja": null,
+        "year": 2023
+      }
     ]
   },
   {
@@ -2719,6 +5623,18 @@
         "jp_translation_status": "available",
         "jp_translation_title": "シンドラーのリスト"
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "The Chant of Jimmie Blacksmith",
+        "title_ja": null,
+        "year": 1972
+      },
+      {
+        "title_original": "Schindler's Ark",
+        "title_ja": "シンドラーズ・リスト",
+        "year": 1982
+      }
     ]
   },
   {
@@ -2746,6 +5662,18 @@
         "year": 1984,
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
+      }
+    ],
+    "major_works": [
+      {
+        "title_original": "Look at Me",
+        "title_ja": null,
+        "year": 1983
+      },
+      {
+        "title_original": "Hotel du Lac",
+        "title_ja": null,
+        "year": 1984
       }
     ]
   },
@@ -2775,6 +5703,18 @@
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "The Bone People",
+        "title_ja": null,
+        "year": 1983
+      },
+      {
+        "title_original": "Te Kaihau / The Windeater",
+        "title_ja": null,
+        "year": 1986
+      }
     ]
   },
   {
@@ -2803,6 +5743,18 @@
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "Lucky Jim",
+        "title_ja": "ラッキー・ジム",
+        "year": 1954
+      },
+      {
+        "title_original": "The Old Devils",
+        "title_ja": null,
+        "year": 1986
+      }
     ]
   },
   {
@@ -2830,6 +5782,18 @@
         "year": 1987,
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
+      }
+    ],
+    "major_works": [
+      {
+        "title_original": "According to Mark",
+        "title_ja": null,
+        "year": 1984
+      },
+      {
+        "title_original": "Moon Tiger",
+        "title_ja": null,
+        "year": 1987
       }
     ]
   },
@@ -2875,6 +5839,28 @@
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "Bliss",
+        "title_ja": null,
+        "year": 1981
+      },
+      {
+        "title_original": "Illywhacker",
+        "title_ja": null,
+        "year": 1985
+      },
+      {
+        "title_original": "Oscar and Lucinda",
+        "title_ja": "オスカーとルシンダ",
+        "year": 1988
+      },
+      {
+        "title_original": "True History of the Kelly Gang",
+        "title_ja": "ケリー・ギャングの真実の歴史",
+        "year": 2000
+      }
     ]
   },
   {
@@ -2904,6 +5890,18 @@
         "year": 1990,
         "jp_translation_status": "available",
         "jp_translation_title": "抱擁"
+      }
+    ],
+    "major_works": [
+      {
+        "title_original": "The Virgin in the Garden",
+        "title_ja": null,
+        "year": 1978
+      },
+      {
+        "title_original": "Possession",
+        "title_ja": "抱擁",
+        "year": 1990
       }
     ]
   },
@@ -2935,6 +5933,18 @@
         "jp_translation_status": "available",
         "jp_translation_title": "満たされぬ道"
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "The Famished Road",
+        "title_ja": "満たされぬ道",
+        "year": 1991
+      },
+      {
+        "title_original": "Songs of Enchantment",
+        "title_ja": null,
+        "year": 1993
+      }
     ]
   },
   {
@@ -2965,6 +5975,28 @@
         "jp_translation_status": "available",
         "jp_translation_title": "イギリス人の患者"
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "In the Skin of a Lion",
+        "title_ja": "ライオンの皮をまとって",
+        "year": 1987
+      },
+      {
+        "title_original": "The English Patient",
+        "title_ja": "イギリス人の患者",
+        "year": 1992
+      },
+      {
+        "title_original": "Anil's Ghost",
+        "title_ja": "アニルの亡霊",
+        "year": 2000
+      },
+      {
+        "title_original": "Warlight",
+        "title_ja": "戦下の淡き光",
+        "year": 2018
+      }
     ]
   },
   {
@@ -2992,6 +6024,23 @@
         "year": 1992,
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
+      }
+    ],
+    "major_works": [
+      {
+        "title_original": "Pascali's Island",
+        "title_ja": null,
+        "year": 1980
+      },
+      {
+        "title_original": "Sacred Hunger",
+        "title_ja": null,
+        "year": 1991
+      },
+      {
+        "title_original": "Morality Play",
+        "title_ja": null,
+        "year": 1995
       }
     ]
   },
@@ -3021,6 +6070,28 @@
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "The Commitments",
+        "title_ja": "おれたち、ザ・コミットメンツ",
+        "year": 1987
+      },
+      {
+        "title_original": "The Snapper",
+        "title_ja": "スナッパー",
+        "year": 1990
+      },
+      {
+        "title_original": "The Van",
+        "title_ja": "ヴァン",
+        "year": 1991
+      },
+      {
+        "title_original": "Paddy Clarke Ha Ha Ha",
+        "title_ja": null,
+        "year": 1993
+      }
     ]
   },
   {
@@ -3048,6 +6119,23 @@
         "year": 1994,
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
+      }
+    ],
+    "major_works": [
+      {
+        "title_original": "The Busconductor Hines",
+        "title_ja": null,
+        "year": 1984
+      },
+      {
+        "title_original": "A Disaffection",
+        "title_ja": null,
+        "year": 1989
+      },
+      {
+        "title_original": "How Late It Was, How Late",
+        "title_ja": null,
+        "year": 1994
       }
     ]
   },
@@ -3077,6 +6165,23 @@
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "Regeneration",
+        "title_ja": null,
+        "year": 1991
+      },
+      {
+        "title_original": "The Eye in the Door",
+        "title_ja": null,
+        "year": 1993
+      },
+      {
+        "title_original": "The Ghost Road",
+        "title_ja": null,
+        "year": 1995
+      }
     ]
   },
   {
@@ -3104,6 +6209,18 @@
         "year": 1996,
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
+      }
+    ],
+    "major_works": [
+      {
+        "title_original": "Waterland",
+        "title_ja": "ウォーターランド",
+        "year": 1983
+      },
+      {
+        "title_original": "Last Orders",
+        "title_ja": null,
+        "year": 1996
       }
     ]
   },
@@ -3135,6 +6252,18 @@
         "jp_translation_status": "available",
         "jp_translation_title": "小さきものたちの神"
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "The God of Small Things",
+        "title_ja": "小さきものたちの神",
+        "year": 1997
+      },
+      {
+        "title_original": "The Ministry of Utmost Happiness",
+        "title_ja": "至上の幸福をつかさどる家",
+        "year": 2017
+      }
     ]
   },
   {
@@ -3164,6 +6293,33 @@
         "year": 1998,
         "jp_translation_status": "available",
         "jp_translation_title": "アムステルダム"
+      }
+    ],
+    "major_works": [
+      {
+        "title_original": "The Cement Garden",
+        "title_ja": "セメント・ガーデン",
+        "year": 1978
+      },
+      {
+        "title_original": "Enduring Love",
+        "title_ja": "愛の続き",
+        "year": 1997
+      },
+      {
+        "title_original": "Amsterdam",
+        "title_ja": null,
+        "year": 1998
+      },
+      {
+        "title_original": "Atonement",
+        "title_ja": "贖罪",
+        "year": 2001
+      },
+      {
+        "title_original": "On Chesil Beach",
+        "title_ja": null,
+        "year": 2007
       }
     ]
   },
@@ -3211,6 +6367,38 @@
         "jp_translation_status": "available",
         "jp_translation_title": "誓願"
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "The Edible Woman",
+        "title_ja": null,
+        "year": 1969
+      },
+      {
+        "title_original": "The Handmaid's Tale",
+        "title_ja": "侍女の物語",
+        "year": 1985
+      },
+      {
+        "title_original": "Cat's Eye",
+        "title_ja": null,
+        "year": 1988
+      },
+      {
+        "title_original": "Alias Grace",
+        "title_ja": "またの名をグレイス",
+        "year": 1996
+      },
+      {
+        "title_original": "The Blind Assassin",
+        "title_ja": "昏き目の暗殺者",
+        "year": 2000
+      },
+      {
+        "title_original": "Oryx and Crake",
+        "title_ja": "オリクスとクレイク",
+        "year": 2003
+      }
     ]
   },
   {
@@ -3241,6 +6429,23 @@
         "jp_translation_status": "available",
         "jp_translation_title": "パイの物語"
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "Self",
+        "title_ja": null,
+        "year": 1996
+      },
+      {
+        "title_original": "Life of Pi",
+        "title_ja": "パイの物語",
+        "year": 2001
+      },
+      {
+        "title_original": "Beatrice and Virgil",
+        "title_ja": null,
+        "year": 2010
+      }
     ]
   },
   {
@@ -3268,6 +6473,18 @@
         "year": 2003,
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
+      }
+    ],
+    "major_works": [
+      {
+        "title_original": "Vernon God Little",
+        "title_ja": null,
+        "year": 2003
+      },
+      {
+        "title_original": "Ludmila's Broken English",
+        "title_ja": null,
+        "year": 2006
       }
     ]
   },
@@ -3297,6 +6514,38 @@
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "The Swimming-Pool Library",
+        "title_ja": null,
+        "year": 1988
+      },
+      {
+        "title_original": "The Folding Star",
+        "title_ja": null,
+        "year": 1994
+      },
+      {
+        "title_original": "The Spell",
+        "title_ja": null,
+        "year": 1998
+      },
+      {
+        "title_original": "The Stranger's Child",
+        "title_ja": null,
+        "year": 2011
+      },
+      {
+        "title_original": "The Sparsholt Affair",
+        "title_ja": null,
+        "year": 2017
+      },
+      {
+        "title_original": "Our Evenings",
+        "title_ja": null,
+        "year": 2024
+      }
     ]
   },
   {
@@ -3324,6 +6573,48 @@
         "year": 2005,
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
+      }
+    ],
+    "major_works": [
+      {
+        "title_original": "Doctor Copernicus",
+        "title_ja": null,
+        "year": 1976
+      },
+      {
+        "title_original": "Kepler",
+        "title_ja": null,
+        "year": 1981
+      },
+      {
+        "title_original": "The Newton Letter",
+        "title_ja": null,
+        "year": 1982
+      },
+      {
+        "title_original": "Mefisto",
+        "title_ja": null,
+        "year": 1986
+      },
+      {
+        "title_original": "The Book of Evidence",
+        "title_ja": null,
+        "year": 1989
+      },
+      {
+        "title_original": "Ghosts",
+        "title_ja": null,
+        "year": 1993
+      },
+      {
+        "title_original": "Shroud",
+        "title_ja": null,
+        "year": 2002
+      },
+      {
+        "title_original": "Ancient Light",
+        "title_ja": null,
+        "year": 2012
       }
     ]
   },
@@ -3355,6 +6646,18 @@
         "jp_translation_status": "available",
         "jp_translation_title": "喪失の響き"
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "Hullabaloo in the Guava Orchard",
+        "title_ja": null,
+        "year": 1998
+      },
+      {
+        "title_original": "The Loneliness of Sonia and Sunny",
+        "title_ja": null,
+        "year": 2025
+      }
     ]
   },
   {
@@ -3382,6 +6685,38 @@
         "year": 2007,
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
+      }
+    ],
+    "major_works": [
+      {
+        "title_original": "The Wig My Father Wore",
+        "title_ja": null,
+        "year": 1995
+      },
+      {
+        "title_original": "What Are You Like?",
+        "title_ja": null,
+        "year": 2000
+      },
+      {
+        "title_original": "The Pleasure of Eliza Lynch",
+        "title_ja": null,
+        "year": 2002
+      },
+      {
+        "title_original": "The Forgotten Waltz",
+        "title_ja": null,
+        "year": 2011
+      },
+      {
+        "title_original": "The Green Road",
+        "title_ja": null,
+        "year": 2015
+      },
+      {
+        "title_original": "Actress",
+        "title_ja": null,
+        "year": 2020
       }
     ]
   },
@@ -3412,6 +6747,28 @@
         "year": 2008,
         "jp_translation_status": "available",
         "jp_translation_title": "グローバリズム出づる処の殺人者より"
+      }
+    ],
+    "major_works": [
+      {
+        "title_original": "Between the Assassinations",
+        "title_ja": null,
+        "year": 2008
+      },
+      {
+        "title_original": "Last Man in Tower",
+        "title_ja": null,
+        "year": 2011
+      },
+      {
+        "title_original": "Selection Day",
+        "title_ja": null,
+        "year": 2016
+      },
+      {
+        "title_original": "Amnesty",
+        "title_ja": null,
+        "year": 2020
       }
     ]
   },
@@ -3459,6 +6816,38 @@
         "jp_translation_status": "available",
         "jp_translation_title": "罪人を召し出せ"
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "Every Day Is Mother's Day",
+        "title_ja": null,
+        "year": 1985
+      },
+      {
+        "title_original": "A Place of Greater Safety",
+        "title_ja": null,
+        "year": 1992
+      },
+      {
+        "title_original": "Beyond Black",
+        "title_ja": null,
+        "year": 2005
+      },
+      {
+        "title_original": "Wolf Hall",
+        "title_ja": null,
+        "year": 2009
+      },
+      {
+        "title_original": "Bring Up the Bodies",
+        "title_ja": null,
+        "year": 2012
+      },
+      {
+        "title_original": "The Mirror and the Light",
+        "title_ja": null,
+        "year": 2020
+      }
     ]
   },
   {
@@ -3486,6 +6875,33 @@
         "year": 2010,
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
+      }
+    ],
+    "major_works": [
+      {
+        "title_original": "Coming from Behind",
+        "title_ja": null,
+        "year": 1983
+      },
+      {
+        "title_original": "Peeping Tom",
+        "title_ja": null,
+        "year": 1984
+      },
+      {
+        "title_original": "The Mighty Walzer",
+        "title_ja": null,
+        "year": 1999
+      },
+      {
+        "title_original": "Kalooki Nights",
+        "title_ja": null,
+        "year": 2006
+      },
+      {
+        "title_original": "J",
+        "title_ja": null,
+        "year": 2014
       }
     ]
   },
@@ -3517,6 +6933,43 @@
         "jp_translation_status": "available",
         "jp_translation_title": "終わりの感覚"
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "Metroland",
+        "title_ja": null,
+        "year": 1980
+      },
+      {
+        "title_original": "Flaubert's Parrot",
+        "title_ja": "フロベールの鸚鵡",
+        "year": 1984
+      },
+      {
+        "title_original": "A History of the World in 10½ Chapters",
+        "title_ja": "10 1/2章で書かれた世界の歴史",
+        "year": 1989
+      },
+      {
+        "title_original": "England, England",
+        "title_ja": null,
+        "year": 1998
+      },
+      {
+        "title_original": "Arthur & George",
+        "title_ja": null,
+        "year": 2005
+      },
+      {
+        "title_original": "The Noise of Time",
+        "title_ja": null,
+        "year": 2016
+      },
+      {
+        "title_original": "The Only Story",
+        "title_ja": null,
+        "year": 2018
+      }
     ]
   },
   {
@@ -3546,6 +6999,18 @@
         "year": 2013,
         "jp_translation_status": "available",
         "jp_translation_title": "ルミナリーズ"
+      }
+    ],
+    "major_works": [
+      {
+        "title_original": "The Rehearsal",
+        "title_ja": null,
+        "year": 2008
+      },
+      {
+        "title_original": "Birnam Wood",
+        "title_ja": null,
+        "year": 2023
       }
     ]
   },
@@ -3577,6 +7042,38 @@
         "jp_translation_status": "available",
         "jp_translation_title": "奥のほそ道"
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "Death of a River Guide",
+        "title_ja": null,
+        "year": 1994
+      },
+      {
+        "title_original": "The Sound of One Hand Clapping",
+        "title_ja": null,
+        "year": 1997
+      },
+      {
+        "title_original": "Gould's Book of Fish",
+        "title_ja": null,
+        "year": 2001
+      },
+      {
+        "title_original": "Wanting",
+        "title_ja": null,
+        "year": 2008
+      },
+      {
+        "title_original": "First Person",
+        "title_ja": null,
+        "year": 2017
+      },
+      {
+        "title_original": "Question 7",
+        "title_ja": null,
+        "year": 2023
+      }
     ]
   },
   {
@@ -3605,6 +7102,28 @@
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "John Crow's Devil",
+        "title_ja": null,
+        "year": 2005
+      },
+      {
+        "title_original": "The Book of Night Women",
+        "title_ja": null,
+        "year": 2009
+      },
+      {
+        "title_original": "Black Leopard, Red Wolf",
+        "title_ja": null,
+        "year": 2019
+      },
+      {
+        "title_original": "Moon Witch, Spider King",
+        "title_ja": null,
+        "year": 2022
+      }
     ]
   },
   {
@@ -3632,6 +7151,23 @@
         "year": 2016,
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
+      }
+    ],
+    "major_works": [
+      {
+        "title_original": "The White Boy Shuffle",
+        "title_ja": null,
+        "year": 1996
+      },
+      {
+        "title_original": "Tuff",
+        "title_ja": null,
+        "year": 2000
+      },
+      {
+        "title_original": "Slumberland",
+        "title_ja": null,
+        "year": 2008
       }
     ]
   },
@@ -3663,6 +7199,33 @@
         "jp_translation_status": "available",
         "jp_translation_title": "リンカーンとさまよえる霊魂たち"
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "CivilWarLand in Bad Decline",
+        "title_ja": null,
+        "year": 1996
+      },
+      {
+        "title_original": "Pastoralia",
+        "title_ja": "パストラリア",
+        "year": 2000
+      },
+      {
+        "title_original": "The Brief and Frightening Reign of Phil",
+        "title_ja": "短くて恐ろしいフィルの時代",
+        "year": 2005
+      },
+      {
+        "title_original": "In Persuasion Nation",
+        "title_ja": null,
+        "year": 2006
+      },
+      {
+        "title_original": "Tenth of December",
+        "title_ja": "十二月の十日",
+        "year": 2013
+      }
     ]
   },
   {
@@ -3692,6 +7255,18 @@
         "year": 2018,
         "jp_translation_status": "available",
         "jp_translation_title": "ミルクマン"
+      }
+    ],
+    "major_works": [
+      {
+        "title_original": "No Bones",
+        "title_ja": null,
+        "year": 2001
+      },
+      {
+        "title_original": "Little Constructions",
+        "title_ja": null,
+        "year": 2007
       }
     ]
   },
@@ -3723,6 +7298,33 @@
         "jp_translation_status": "available",
         "jp_translation_title": "少女、女、ほか"
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "Lara",
+        "title_ja": null,
+        "year": 1997
+      },
+      {
+        "title_original": "The Emperor's Babe",
+        "title_ja": null,
+        "year": 2001
+      },
+      {
+        "title_original": "Blonde Roots",
+        "title_ja": null,
+        "year": 2008
+      },
+      {
+        "title_original": "Mr Loverman",
+        "title_ja": null,
+        "year": 2013
+      },
+      {
+        "title_original": "Manifesto",
+        "title_ja": null,
+        "year": 2021
+      }
     ]
   },
   {
@@ -3752,6 +7354,13 @@
         "year": 2020,
         "jp_translation_status": "available",
         "jp_translation_title": "シャギー・ベイン"
+      }
+    ],
+    "major_works": [
+      {
+        "title_original": "Young Mungo",
+        "title_ja": null,
+        "year": 2022
       }
     ]
   },
@@ -3783,6 +7392,33 @@
         "jp_translation_status": "available",
         "jp_translation_title": "約束"
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "A Sinless Season",
+        "title_ja": null,
+        "year": 1982
+      },
+      {
+        "title_original": "The Good Doctor",
+        "title_ja": null,
+        "year": 2003
+      },
+      {
+        "title_original": "The Impostor",
+        "title_ja": null,
+        "year": 2008
+      },
+      {
+        "title_original": "In a Strange Room",
+        "title_ja": null,
+        "year": 2010
+      },
+      {
+        "title_original": "Arctic Summer",
+        "title_ja": null,
+        "year": 2014
+      }
     ]
   },
   {
@@ -3812,6 +7448,13 @@
         "year": 2022,
         "jp_translation_status": "available",
         "jp_translation_title": "マーリ・アルメイダの七つの月"
+      }
+    ],
+    "major_works": [
+      {
+        "title_original": "Chinaman: The Legend of Pradeep Mathew",
+        "title_ja": null,
+        "year": 2011
       }
     ]
   },
@@ -3843,6 +7486,28 @@
         "jp_translation_status": "available",
         "jp_translation_title": "預言者の歌"
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "Red Sky in Morning",
+        "title_ja": null,
+        "year": 2013
+      },
+      {
+        "title_original": "The Black Snow",
+        "title_ja": null,
+        "year": 2014
+      },
+      {
+        "title_original": "Grace",
+        "title_ja": null,
+        "year": 2017
+      },
+      {
+        "title_original": "Beyond the Sea",
+        "title_ja": null,
+        "year": 2019
+      }
     ]
   },
   {
@@ -3873,6 +7538,28 @@
         "jp_translation_status": "available",
         "jp_translation_title": "オービタル ある一日の16回の夜明け"
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "The Wilderness",
+        "title_ja": null,
+        "year": 2009
+      },
+      {
+        "title_original": "All Is Song",
+        "title_ja": null,
+        "year": 2012
+      },
+      {
+        "title_original": "Dear Thief",
+        "title_ja": null,
+        "year": 2014
+      },
+      {
+        "title_original": "The Western Wind",
+        "title_ja": null,
+        "year": 2018
+      }
     ]
   },
   {
@@ -3901,6 +7588,33 @@
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "London and the South-East",
+        "title_ja": null,
+        "year": 2009
+      },
+      {
+        "title_original": "The Innocent",
+        "title_ja": null,
+        "year": 2009
+      },
+      {
+        "title_original": "Spring",
+        "title_ja": null,
+        "year": 2011
+      },
+      {
+        "title_original": "All That Man Is",
+        "title_ja": null,
+        "year": 2016
+      },
+      {
+        "title_original": "Turbulence",
+        "title_ja": null,
+        "year": 2018
+      }
     ]
   },
   {
@@ -3919,7 +7633,39 @@
     "award_ids": [
       "intl-booker"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Gjenerali i ushtrisë së vdekur",
+        "title_ja": null,
+        "year": 1963
+      },
+      {
+        "title_original": "Kështjella",
+        "title_ja": null,
+        "year": 1970
+      },
+      {
+        "title_original": "Kronikë në gur",
+        "title_ja": null,
+        "year": 1971
+      },
+      {
+        "title_original": "Prilli i thyer",
+        "title_ja": null,
+        "year": 1978
+      },
+      {
+        "title_original": "Pallati i ëndrrave",
+        "title_ja": null,
+        "year": 1981
+      },
+      {
+        "title_original": "Piramida",
+        "title_ja": null,
+        "year": 1992
+      }
+    ]
   },
   {
     "author_id": "chinua-achebe",
@@ -3937,7 +7683,34 @@
     "award_ids": [
       "intl-booker"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Things Fall Apart",
+        "title_ja": "崩れゆく絆",
+        "year": 1958
+      },
+      {
+        "title_original": "No Longer at Ease",
+        "title_ja": null,
+        "year": 1960
+      },
+      {
+        "title_original": "Arrow of God",
+        "title_ja": null,
+        "year": 1964
+      },
+      {
+        "title_original": "A Man of the People",
+        "title_ja": null,
+        "year": 1966
+      },
+      {
+        "title_original": "Anthills of the Savannah",
+        "title_ja": null,
+        "year": 1987
+      }
+    ]
   },
   {
     "author_id": "philip-roth",
@@ -3955,7 +7728,39 @@
     "award_ids": [
       "intl-booker"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Goodbye, Columbus",
+        "title_ja": "さようなら、コロンバス",
+        "year": 1959
+      },
+      {
+        "title_original": "Portnoy's Complaint",
+        "title_ja": "ポートノイの不満",
+        "year": 1969
+      },
+      {
+        "title_original": "Sabbath's Theater",
+        "title_ja": null,
+        "year": 1995
+      },
+      {
+        "title_original": "American Pastoral",
+        "title_ja": "アメリカン・パストラル",
+        "year": 1997
+      },
+      {
+        "title_original": "The Human Stain",
+        "title_ja": "ヒューマン・ステイン",
+        "year": 2000
+      },
+      {
+        "title_original": "The Plot Against America",
+        "title_ja": "プロット・アゲンスト・アメリカ",
+        "year": 2004
+      }
+    ]
   },
   {
     "author_id": "lydia-davis",
@@ -3973,7 +7778,34 @@
     "award_ids": [
       "intl-booker"
     ],
-    "representative_works": []
+    "representative_works": [],
+    "major_works": [
+      {
+        "title_original": "Break It Down",
+        "title_ja": null,
+        "year": 1986
+      },
+      {
+        "title_original": "Almost No Memory",
+        "title_ja": null,
+        "year": 1997
+      },
+      {
+        "title_original": "Samuel Johnson Is Indignant",
+        "title_ja": null,
+        "year": 2001
+      },
+      {
+        "title_original": "Varieties of Disturbance",
+        "title_ja": null,
+        "year": 2007
+      },
+      {
+        "title_original": "Can't and Won't",
+        "title_ja": null,
+        "year": 2014
+      }
+    ]
   },
   {
     "author_id": "david-grossman",
@@ -4000,6 +7832,33 @@
         "year": 2017,
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
+      }
+    ],
+    "major_works": [
+      {
+        "title_original": "Hiyuch HaGdi",
+        "title_ja": null,
+        "year": 1983
+      },
+      {
+        "title_original": "Ayen Erekh: Ahava",
+        "title_ja": null,
+        "year": 1986
+      },
+      {
+        "title_original": "Sefer HaDikduk HaPnimi",
+        "title_ja": null,
+        "year": 1991
+      },
+      {
+        "title_original": "Isha Borachat MiBsora",
+        "title_ja": null,
+        "year": 2008
+      },
+      {
+        "title_original": "Nofel MiChutz LaZman",
+        "title_ja": null,
+        "year": 2011
       }
     ]
   },
@@ -4028,6 +7887,13 @@
         "year": 2019,
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
+      }
+    ],
+    "major_works": [
+      {
+        "title_original": "Narinjah",
+        "title_ja": null,
+        "year": 2016
       }
     ]
   },
@@ -4059,6 +7925,18 @@
         "jp_translation_status": "available",
         "jp_translation_title": "不快な夕闇"
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "Kalfsvlies",
+        "title_ja": null,
+        "year": 2015
+      },
+      {
+        "title_original": "Mijn lieve gunsteling",
+        "title_ja": null,
+        "year": 2023
+      }
     ]
   },
   {
@@ -4088,6 +7966,13 @@
         "year": 2021,
         "jp_translation_status": "available",
         "jp_translation_title": "夜、すべての血は黒い"
+      }
+    ],
+    "major_works": [
+      {
+        "title_original": "La Porte du voyage sans retour",
+        "title_ja": null,
+        "year": 2021
       }
     ]
   },
@@ -4119,6 +8004,23 @@
         "jp_translation_status": "available",
         "jp_translation_title": "砂の境界"
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "Mai",
+        "title_ja": null,
+        "year": 1993
+      },
+      {
+        "title_original": "Hamara Shahar Us Baras",
+        "title_ja": null,
+        "year": 1998
+      },
+      {
+        "title_original": "Khali Jagah",
+        "title_ja": null,
+        "year": 2006
+      }
     ]
   },
   {
@@ -4149,6 +8051,23 @@
         "jp_translation_status": "available",
         "jp_translation_title": "タイム・シェルター"
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "Estestven roman",
+        "title_ja": null,
+        "year": 1999
+      },
+      {
+        "title_original": "I drugi istorii",
+        "title_ja": null,
+        "year": 2001
+      },
+      {
+        "title_original": "Fizika na tagata",
+        "title_ja": null,
+        "year": 2012
+      }
     ]
   },
   {
@@ -4177,6 +8096,28 @@
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
       }
+    ],
+    "major_works": [
+      {
+        "title_original": "Geschichte vom alten Kind",
+        "title_ja": null,
+        "year": 1999
+      },
+      {
+        "title_original": "Heimsuchung",
+        "title_ja": null,
+        "year": 2008
+      },
+      {
+        "title_original": "Aller Tage Abend",
+        "title_ja": null,
+        "year": 2012
+      },
+      {
+        "title_original": "Gehen, ging, gegangen",
+        "title_ja": "行く、行った、行ってしまった",
+        "year": 2015
+      }
     ]
   },
   {
@@ -4204,6 +8145,33 @@
         "year": 2025,
         "jp_translation_status": "unavailable",
         "jp_translation_title": null
+      }
+    ],
+    "major_works": [
+      {
+        "title_original": "Hejje Moodida Haadi",
+        "title_ja": null,
+        "year": 1990
+      },
+      {
+        "title_original": "Benki Male",
+        "title_ja": null,
+        "year": 1999
+      },
+      {
+        "title_original": "Edeya Hanate",
+        "title_ja": null,
+        "year": 2004
+      },
+      {
+        "title_original": "Safeera",
+        "title_ja": null,
+        "year": 2006
+      },
+      {
+        "title_original": "Badavara Magalu Hennalla",
+        "title_ja": null,
+        "year": 2012
       }
     ]
   },
@@ -4234,6 +8202,18 @@
         "year": 2026,
         "jp_translation_status": "available",
         "jp_translation_title": "台湾漫遊鉄道のふたり"
+      }
+    ],
+    "major_works": [
+      {
+        "title_original": "花開時節",
+        "title_ja": null,
+        "year": 2017
+      },
+      {
+        "title_original": "花開少女華麗島",
+        "title_ja": null,
+        "year": 2018
       }
     ]
   },
