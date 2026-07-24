@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#3a3226" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#1a1712" media="(prefers-color-scheme: dark)">
+<title>世界文学賞総覧</title>
+<meta name="description" content="ノーベル文学賞・ブッカー賞など世界の文学賞を横断して受賞者・受賞作・受賞理由を一覧・検索できるアプリ">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="app-header">
+  <a class="brand" href="#/">世界文学賞総覧</a>
+  <nav class="global-nav">
+    <a href="#/">ホーム</a>
+    <a href="#/connections">関連性マップ</a>
+    <a href="#/stats">統計</a>
+  </nav>
+</header>
+
+<main id="app" class="app-main" role="main"></main>
+
+<button id="to-top" class="to-top" aria-label="トップへ戻る" hidden>&uarr;</button>
+
+<footer class="app-footer">
+  <p>受賞理由は要旨、講演本文は非収録。詳細は各賞公式サイトをご参照ください。</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

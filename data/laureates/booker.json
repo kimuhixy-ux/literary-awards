@@ -1,0 +1,1622 @@
+[
+  {
+    "year": 1969,
+    "session": null,
+    "author_id": "ph-newby",
+    "author_ja": "P・H・ニュービー",
+    "author_en": "P. H. Newby",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": "申し開きできるもの",
+    "work_original": "Something to Answer For",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "邦訳は確認できず(2026年時点)"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1970,
+    "session": null,
+    "author_id": "bernice-rubens",
+    "author_ja": "バーニス・ルーベンス",
+    "author_en": "Bernice Rubens",
+    "country": "イギリス(ウェールズ)",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": "The Elected Member",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "邦訳は確認できず(2026年時点)"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1971,
+    "session": null,
+    "author_id": "v-s-naipaul",
+    "author_ja": "V・S・ナイポール",
+    "author_en": "V. S. Naipaul",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": "自由の国で",
+    "work_original": "In a Free State",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "英語圏では著名だが邦訳は確認できず"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": "1971年にブッカー賞、2001年にノーベル文学賞を受賞。ブッカー賞・ノーベル賞双方を受けた代表例"
+  },
+  {
+    "year": 1972,
+    "session": null,
+    "author_id": "john-berger",
+    "author_ja": "ジョン・バージャー",
+    "author_en": "John Berger",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": "G",
+    "work_original": "G.",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "邦訳は確認できず(2026年時点)"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1973,
+    "session": null,
+    "author_id": "jg-farrell",
+    "author_ja": "J・G・ファレル",
+    "author_en": "J. G. Farrell",
+    "country": "イギリス/アイルランド",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": "The Siege of Krishnapur",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "邦訳は確認できず(2026年時点)"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1974,
+    "session": null,
+    "author_id": "nadine-gordimer",
+    "author_ja": "ナディン・ゴーディマー",
+    "author_en": "Nadine Gordimer",
+    "country": "南アフリカ",
+    "language": "英語",
+    "work_ja": "保護色",
+    "work_original": "The Conservationist",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "英語圏では著名だが単独の邦訳書誌は確認できず"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": "1974年は共同受賞。1991年にノーベル文学賞を受賞。ブッカー賞・ノーベル賞双方を受けた代表例"
+  },
+  {
+    "year": 1974,
+    "session": null,
+    "author_id": "stanley-middleton",
+    "author_ja": "スタンリー・ミドルトン",
+    "author_en": "Stanley Middleton",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": "休暇",
+    "work_original": "Holiday",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "邦訳は確認できず(2026年時点)"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": "1974年は共同受賞"
+  },
+  {
+    "year": 1975,
+    "session": null,
+    "author_id": "ruth-prawer-jhabvala",
+    "author_ja": "ルース・プラワー・ジャブヴァーラ",
+    "author_en": "Ruth Prawer Jhabvala",
+    "country": "イギリス/ドイツ",
+    "language": "英語",
+    "work_ja": "暑さと埃",
+    "work_original": "Heat and Dust",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "邦訳は確認できず(2026年時点)"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1976,
+    "session": null,
+    "author_id": "david-storey",
+    "author_ja": "デイヴィッド・ストーリー",
+    "author_en": "David Storey",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": "Saville",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "邦訳は確認できず(2026年時点)"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1977,
+    "session": null,
+    "author_id": "paul-scott",
+    "author_ja": "ポール・スコット",
+    "author_en": "Paul Scott",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": "Staying On",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "邦訳は確認できず(2026年時点)"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1978,
+    "session": null,
+    "author_id": "iris-murdoch",
+    "author_ja": "アイリス・マードック",
+    "author_en": "Iris Murdoch",
+    "country": "イギリス/アイルランド",
+    "language": "英語",
+    "work_ja": "海よ、海",
+    "work_original": "The Sea, the Sea",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "邦訳の存在は複数の書誌情報で示唆されるが、訳者・出版社は要確認"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1979,
+    "session": null,
+    "author_id": "penelope-fitzgerald",
+    "author_ja": "ペネロピ・フィッツジェラルド",
+    "author_en": "Penelope Fitzgerald",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": "Offshore",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "邦訳は確認できず(2026年時点)"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1980,
+    "session": null,
+    "author_id": "william-golding-booker",
+    "author_ja": "ウィリアム・ゴールディング",
+    "author_en": "William Golding",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": "通過儀礼",
+    "work_original": "Rites of Passage",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "著者は1983年にノーベル文学賞も受賞"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": "著者ウィリアム・ゴールディングは1983年にノーベル文学賞を受賞(ノーベル賞側の author_id: william-golding)"
+  },
+  {
+    "year": 1981,
+    "session": null,
+    "author_id": "salman-rushdie",
+    "author_ja": "サルマン・ラシュディ",
+    "author_en": "Salman Rushdie",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": "真夜中の子供たち",
+    "work_original": "Midnight's Children",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "真夜中の子供たち",
+      "translator": "寺門泰彦",
+      "publisher": "早川書房(のち岩波文庫)",
+      "year": 1989,
+      "note": null
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1982,
+    "session": null,
+    "author_id": "thomas-keneally",
+    "author_ja": "トマス・キニーリー",
+    "author_en": "Thomas Keneally",
+    "country": "オーストラリア",
+    "language": "英語",
+    "work_ja": "シンドラーの箱舟(シンドラーのリスト)",
+    "work_original": "Schindler's Ark",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "シンドラーのリスト",
+      "translator": "幾野宏",
+      "publisher": "新潮社",
+      "year": 1989,
+      "note": null
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1983,
+    "session": null,
+    "author_id": "jm-coetzee",
+    "author_ja": "J・M・クッツェー",
+    "author_en": "J. M. Coetzee",
+    "country": "南アフリカ",
+    "language": "英語",
+    "work_ja": "マイケル・K",
+    "work_original": "Life & Times of Michael K",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "マイケル・K",
+      "translator": "くぼたのぞみ",
+      "publisher": "筑摩書房(のち岩波文庫)",
+      "year": 1989,
+      "note": null
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": "1983年・1999年にブッカー賞を2度受賞。2003年にノーベル文学賞も受賞。ブッカー賞・ノーベル賞双方を受けた代表例"
+  },
+  {
+    "year": 1984,
+    "session": null,
+    "author_id": "anita-brookner",
+    "author_ja": "アニータ・ブルックナー",
+    "author_en": "Anita Brookner",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": "Hotel du Lac",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "邦訳は確認できず(2026年時点)"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1985,
+    "session": null,
+    "author_id": "keri-hulme",
+    "author_ja": "ケリ・ヒューム",
+    "author_en": "Keri Hulme",
+    "country": "ニュージーランド",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": "The Bone People",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "邦訳は確認できず(2026年時点)"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1986,
+    "session": null,
+    "author_id": "kingsley-amis",
+    "author_ja": "キングズリー・エイミス",
+    "author_en": "Kingsley Amis",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": "The Old Devils",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "邦訳は確認できず(2026年時点)"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1987,
+    "session": null,
+    "author_id": "penelope-lively",
+    "author_ja": "ペネロピ・ライヴリー",
+    "author_en": "Penelope Lively",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": "Moon Tiger",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "邦訳は確認できず(2026年時点)"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1988,
+    "session": null,
+    "author_id": "peter-carey",
+    "author_ja": "ピーター・ケアリー",
+    "author_en": "Peter Carey",
+    "country": "オーストラリア",
+    "language": "英語",
+    "work_ja": "オスカーとルシンダ",
+    "work_original": "Oscar and Lucinda",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "オスカーとルシンダ",
+      "translator": "宮木陽子",
+      "publisher": "DHC",
+      "year": 1999,
+      "note": null
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": "著者ピーター・ケアリーは1988年・2001年にブッカー賞を2度受賞"
+  },
+  {
+    "year": 1989,
+    "session": null,
+    "author_id": "kazuo-ishiguro",
+    "author_ja": "カズオ・イシグロ",
+    "author_en": "Kazuo Ishiguro",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": "日の名残り",
+    "work_original": "The Remains of the Day",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "日の名残り",
+      "translator": "土屋政雄",
+      "publisher": "早川書房(ハヤカワepi文庫)",
+      "year": 1990,
+      "note": null
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": "2017年にノーベル文学賞を受賞。ブッカー賞・ノーベル賞双方を受けた代表例"
+  },
+  {
+    "year": 1990,
+    "session": null,
+    "author_id": "as-byatt",
+    "author_ja": "A・S・バイアット",
+    "author_en": "A. S. Byatt",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": "抱擁",
+    "work_original": "Possession",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "抱擁",
+      "translator": "栗原行雄(訳詩:大原千佳子)",
+      "publisher": "新潮社",
+      "year": 1996,
+      "note": null
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1991,
+    "session": null,
+    "author_id": "ben-okri",
+    "author_ja": "ベン・オクリ",
+    "author_en": "Ben Okri",
+    "country": "イギリス/ナイジェリア",
+    "language": "英語",
+    "work_ja": "満たされぬ道",
+    "work_original": "The Famished Road",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "満たされぬ道",
+      "translator": "金原瑞人",
+      "publisher": "平凡社",
+      "year": 1997,
+      "note": null
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1992,
+    "session": null,
+    "author_id": "michael-ondaatje",
+    "author_ja": "マイケル・オンダーチェ",
+    "author_en": "Michael Ondaatje",
+    "country": "カナダ/スリランカ",
+    "language": "英語",
+    "work_ja": "イギリス人の患者",
+    "work_original": "The English Patient",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "イギリス人の患者",
+      "translator": "土屋政雄",
+      "publisher": "新潮社",
+      "year": 1996,
+      "note": null
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": "1992年は共同受賞"
+  },
+  {
+    "year": 1992,
+    "session": null,
+    "author_id": "barry-unsworth",
+    "author_ja": "バリー・アンズワース",
+    "author_en": "Barry Unsworth",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": "Sacred Hunger",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "邦訳は確認できず(2026年時点)"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": "1992年は共同受賞"
+  },
+  {
+    "year": 1993,
+    "session": null,
+    "author_id": "roddy-doyle",
+    "author_ja": "ロディ・ドイル",
+    "author_en": "Roddy Doyle",
+    "country": "アイルランド",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": "Paddy Clarke Ha Ha Ha",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "邦訳は確認できず(2026年時点)"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1994,
+    "session": null,
+    "author_id": "james-kelman",
+    "author_ja": "ジェイムズ・ケルマン",
+    "author_en": "James Kelman",
+    "country": "イギリス(スコットランド)",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": "How Late It Was, How Late",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "邦訳は確認できず(2026年時点)"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1995,
+    "session": null,
+    "author_id": "pat-barker",
+    "author_ja": "パット・バーカー",
+    "author_en": "Pat Barker",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": "The Ghost Road",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "邦訳は確認できず(2026年時点)"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1996,
+    "session": null,
+    "author_id": "graham-swift",
+    "author_ja": "グレアム・スウィフト",
+    "author_en": "Graham Swift",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": "Last Orders",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "書誌要確認"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1997,
+    "session": null,
+    "author_id": "arundhati-roy",
+    "author_ja": "アルンダティ・ロイ",
+    "author_en": "Arundhati Roy",
+    "country": "インド",
+    "language": "英語",
+    "work_ja": "小さきものたちの神",
+    "work_original": "The God of Small Things",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "小さきものたちの神",
+      "translator": "工藤惺文",
+      "publisher": "DHC",
+      "year": 1998,
+      "note": null
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1998,
+    "session": null,
+    "author_id": "ian-mcewan",
+    "author_ja": "イアン・マキューアン",
+    "author_en": "Ian McEwan",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": "アムステルダム",
+    "work_original": "Amsterdam",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "アムステルダム",
+      "translator": "小山太一",
+      "publisher": "新潮社",
+      "year": 2002,
+      "note": null
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1999,
+    "session": null,
+    "author_id": "jm-coetzee",
+    "author_ja": "J・M・クッツェー",
+    "author_en": "J. M. Coetzee",
+    "country": "南アフリカ",
+    "language": "英語",
+    "work_ja": "恥辱",
+    "work_original": "Disgrace",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "恥辱",
+      "translator": "鴻巣友季子",
+      "publisher": "早川書房(ハヤカワepi文庫)",
+      "year": 2007,
+      "note": null
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": "1983年・1999年にブッカー賞を2度受賞。2003年にノーベル文学賞も受賞。ブッカー賞・ノーベル賞双方を受けた代表例"
+  },
+  {
+    "year": 2000,
+    "session": null,
+    "author_id": "margaret-atwood",
+    "author_ja": "マーガレット・アトウッド",
+    "author_en": "Margaret Atwood",
+    "country": "カナダ",
+    "language": "英語",
+    "work_ja": "昏き目の暗殺者",
+    "work_original": "The Blind Assassin",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "昏き目の暗殺者",
+      "translator": "鴻巣友季子",
+      "publisher": "早川書房",
+      "year": 2002,
+      "note": null
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2001,
+    "session": null,
+    "author_id": "peter-carey",
+    "author_ja": "ピーター・ケアリー",
+    "author_en": "Peter Carey",
+    "country": "オーストラリア",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": "True History of the Kelly Gang",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "書誌要確認"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": "著者ピーター・ケアリーは1988年・2001年にブッカー賞を2度受賞"
+  },
+  {
+    "year": 2002,
+    "session": null,
+    "author_id": "yann-martel",
+    "author_ja": "ヤン・マーテル",
+    "author_en": "Yann Martel",
+    "country": "カナダ",
+    "language": "英語",
+    "work_ja": "パイの物語",
+    "work_original": "Life of Pi",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "パイの物語",
+      "translator": "唐沢則幸",
+      "publisher": "竹書房",
+      "year": 2004,
+      "note": null
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2003,
+    "session": null,
+    "author_id": "dbc-pierre",
+    "author_ja": "DBCピエール",
+    "author_en": "DBC Pierre",
+    "country": "オーストラリア",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": "Vernon God Little",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "書誌要確認"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2004,
+    "session": null,
+    "author_id": "alan-hollinghurst",
+    "author_ja": "アラン・ホリングハースト",
+    "author_en": "Alan Hollinghurst",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": "The Line of Beauty",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "邦訳は確認できず(著者の別作『スイミングプール・ライブラリー』は早川書房より邦訳あり)"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2005,
+    "session": null,
+    "author_id": "john-banville",
+    "author_ja": "ジョン・バンヴィル",
+    "author_en": "John Banville",
+    "country": "アイルランド",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": "The Sea",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "書誌要確認"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2006,
+    "session": null,
+    "author_id": "kiran-desai",
+    "author_ja": "キラン・デサイ",
+    "author_en": "Kiran Desai",
+    "country": "インド",
+    "language": "英語",
+    "work_ja": "喪失の響き",
+    "work_original": "The Inheritance of Loss",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "喪失の響き",
+      "translator": "谷崎由依",
+      "publisher": "早川書房(ハヤカワepiブック・プラネット)",
+      "year": null,
+      "note": "刊行年は要確認"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2007,
+    "session": null,
+    "author_id": "anne-enright",
+    "author_ja": "アン・エンライト",
+    "author_en": "Anne Enright",
+    "country": "アイルランド",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": "The Gathering",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "書誌要確認"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2008,
+    "session": null,
+    "author_id": "aravind-adiga",
+    "author_ja": "アラヴィンド・アディガ",
+    "author_en": "Aravind Adiga",
+    "country": "インド",
+    "language": "英語",
+    "work_ja": "グローバリズム出づる処の殺人者より",
+    "work_original": "The White Tiger",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "グローバリズム出づる処の殺人者より",
+      "translator": "鈴木恵",
+      "publisher": "文藝春秋",
+      "year": 2009,
+      "note": null
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2009,
+    "session": null,
+    "author_id": "hilary-mantel",
+    "author_ja": "ヒラリー・マンテル",
+    "author_en": "Hilary Mantel",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": "ウルフ・ホール",
+    "work_original": "Wolf Hall",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "ウルフ・ホール",
+      "translator": "宇佐川晶子",
+      "publisher": "早川書房",
+      "year": 2015,
+      "note": "刊行年は要確認"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2010,
+    "session": null,
+    "author_id": "howard-jacobson",
+    "author_ja": "ハワード・ジェイコブソン",
+    "author_en": "Howard Jacobson",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": "The Finkler Question",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "書誌要確認"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2011,
+    "session": null,
+    "author_id": "julian-barnes",
+    "author_ja": "ジュリアン・バーンズ",
+    "author_en": "Julian Barnes",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": "終わりの感覚",
+    "work_original": "The Sense of an Ending",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "終わりの感覚",
+      "translator": "土屋政雄",
+      "publisher": "新潮社(新潮クレスト・ブックス)",
+      "year": 2012,
+      "note": null
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2012,
+    "session": null,
+    "author_id": "hilary-mantel",
+    "author_ja": "ヒラリー・マンテル",
+    "author_en": "Hilary Mantel",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": "罪人を召し出せ",
+    "work_original": "Bring Up the Bodies",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "罪人を召し出せ",
+      "translator": "宇佐川晶子",
+      "publisher": "早川書房",
+      "year": 2013,
+      "note": null
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": "著者ヒラリー・マンテルは2009年・2012年にブッカー賞を2度受賞(ウルフ・ホール三部作)"
+  },
+  {
+    "year": 2013,
+    "session": null,
+    "author_id": "eleanor-catton",
+    "author_ja": "エレノア・キャトン",
+    "author_en": "Eleanor Catton",
+    "country": "ニュージーランド",
+    "language": "英語",
+    "work_ja": "ルミナリーズ",
+    "work_original": "The Luminaries",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "ルミナリーズ",
+      "translator": "安達まみ",
+      "publisher": "岩波書店",
+      "year": 2022,
+      "note": null
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2014,
+    "session": null,
+    "author_id": "richard-flanagan",
+    "author_ja": "リチャード・フラナガン",
+    "author_en": "Richard Flanagan",
+    "country": "オーストラリア",
+    "language": "英語",
+    "work_ja": "奥のほそ道",
+    "work_original": "The Narrow Road to the Deep North",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "奥のほそ道",
+      "translator": "渡辺佐智江",
+      "publisher": "白水社",
+      "year": 2018,
+      "note": null
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2015,
+    "session": null,
+    "author_id": "marlon-james",
+    "author_ja": "マーロン・ジェイムズ",
+    "author_en": "Marlon James",
+    "country": "ジャマイカ",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": "A Brief History of Seven Killings",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "書誌要確認"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2016,
+    "session": null,
+    "author_id": "paul-beatty",
+    "author_ja": "ポール・ビーティ",
+    "author_en": "Paul Beatty",
+    "country": "アメリカ",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": "The Sellout",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "書誌要確認"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2017,
+    "session": null,
+    "author_id": "george-saunders",
+    "author_ja": "ジョージ・ソーンダーズ",
+    "author_en": "George Saunders",
+    "country": "アメリカ",
+    "language": "英語",
+    "work_ja": "リンカーンとさまよえる霊魂たち",
+    "work_original": "Lincoln in the Bardo",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "リンカーンとさまよえる霊魂たち",
+      "translator": "上岡伸雄",
+      "publisher": "河出書房新社",
+      "year": 2018,
+      "note": null
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2018,
+    "session": null,
+    "author_id": "anna-burns",
+    "author_ja": "アンナ・バーンズ",
+    "author_en": "Anna Burns",
+    "country": "イギリス(北アイルランド)",
+    "language": "英語",
+    "work_ja": "ミルクマン",
+    "work_original": "Milkman",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "ミルクマン",
+      "translator": "栩木玲子",
+      "publisher": "河出書房新社",
+      "year": 2020,
+      "note": "刊行年は要確認"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2019,
+    "session": null,
+    "author_id": "margaret-atwood",
+    "author_ja": "マーガレット・アトウッド",
+    "author_en": "Margaret Atwood",
+    "country": "カナダ",
+    "language": "英語",
+    "work_ja": "誓願",
+    "work_original": "The Testaments",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "誓願",
+      "translator": "鴻巣友季子",
+      "publisher": "早川書房",
+      "year": 2020,
+      "note": null
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": "2019年は共同受賞"
+  },
+  {
+    "year": 2019,
+    "session": null,
+    "author_id": "bernardine-evaristo",
+    "author_ja": "バーナディン・エヴァリスト",
+    "author_en": "Bernardine Evaristo",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": "少女、女、ほか",
+    "work_original": "Girl, Woman, Other",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "少女、女、ほか",
+      "translator": "渡辺佐智江",
+      "publisher": "白水社",
+      "year": 2023,
+      "note": null
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": "2019年は共同受賞"
+  },
+  {
+    "year": 2020,
+    "session": null,
+    "author_id": "douglas-stuart",
+    "author_ja": "ダグラス・スチュアート",
+    "author_en": "Douglas Stuart",
+    "country": "イギリス(スコットランド)/アメリカ",
+    "language": "英語",
+    "work_ja": "シャギー・ベイン",
+    "work_original": "Shuggie Bain",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "シャギー・ベイン",
+      "translator": "黒原敏行",
+      "publisher": "早川書房",
+      "year": 2022,
+      "note": null
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2021,
+    "session": null,
+    "author_id": "damon-galgut",
+    "author_ja": "デイモン・ガルガット",
+    "author_en": "Damon Galgut",
+    "country": "南アフリカ",
+    "language": "英語",
+    "work_ja": "約束",
+    "work_original": "The Promise",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "約束",
+      "translator": "宇佐川晶子",
+      "publisher": "早川書房",
+      "year": 2024,
+      "note": null
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2022,
+    "session": null,
+    "author_id": "shehan-karunatilaka",
+    "author_ja": "シェハン・カルナティラカ",
+    "author_en": "Shehan Karunatilaka",
+    "country": "スリランカ",
+    "language": "英語",
+    "work_ja": "マーリ・アルメイダの七つの月",
+    "work_original": "The Seven Moons of Maali Almeida",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "マーリ・アルメイダの七つの月",
+      "translator": "山北めぐみ",
+      "publisher": "河出書房新社",
+      "year": 2023,
+      "note": null
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2023,
+    "session": null,
+    "author_id": "paul-lynch",
+    "author_ja": "ポール・リンチ",
+    "author_en": "Paul Lynch",
+    "country": "アイルランド",
+    "language": "英語",
+    "work_ja": "預言者の歌",
+    "work_original": "Prophet Song",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "預言者の歌",
+      "translator": "栩木伸明",
+      "publisher": "早川書房",
+      "year": 2026,
+      "note": "受賞から邦訳刊行まで約2年半のタイムラグがある"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2024,
+    "session": null,
+    "author_id": "samantha-harvey",
+    "author_ja": "サマンサ・ハーヴィー",
+    "author_en": "Samantha Harvey",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": "オービタル ある一日の16回の夜明け",
+    "work_original": "Orbital",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "available",
+      "title_ja": "オービタル ある一日の16回の夜明け",
+      "translator": "小澤身和子",
+      "publisher": "早川書房",
+      "year": 2026,
+      "note": "受賞から邦訳刊行まで約1年半のタイムラグがある"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2025,
+    "session": null,
+    "author_id": "david-szalay",
+    "author_ja": "デイヴィッド・サライ",
+    "author_en": "David Szalay",
+    "country": "イギリス/ハンガリー",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": "Flesh",
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "unavailable",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "2025年11月受賞のため邦訳はまだ刊行されていないとみられる(2026年時点)"
+    },
+    "source_urls": [
+      "https://thebookerprizes.com/",
+      "https://en.wikipedia.org/wiki/Booker_Prize"
+    ],
+    "notes": "カナダ生まれ、ハンガリー系。「ハンガリー系イギリス人作家」と紹介されることが多い"
+  }
+]

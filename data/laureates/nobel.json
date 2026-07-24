@@ -1,0 +1,3356 @@
+[
+  {
+    "year": 1901,
+    "session": null,
+    "author_id": "sully-prudhomme",
+    "author_ja": "シュリ・プリュドム",
+    "author_en": "Sully Prudhomme",
+    "country": "フランス",
+    "language": "フランス語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "高い理想主義と芸術的完成度を示す詩作に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1901/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1901/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1902,
+    "session": null,
+    "author_id": "theodor-mommsen",
+    "author_ja": "テオドール・モムゼン",
+    "author_en": "Theodor Mommsen",
+    "country": "ドイツ",
+    "language": "ドイツ語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "『ローマ史』をはじめとする歴史記述の巨匠としての業績に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1902/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1902/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1903,
+    "session": null,
+    "author_id": "bjornstjerne-bjornson",
+    "author_ja": "ビョルンスティエルネ・ビョルンソン",
+    "author_en": "Bjørnstjerne Bjørnson",
+    "country": "ノルウェー",
+    "language": "ノルウェー語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "清新さと自由な精神に満ちた高貴な詩業に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1903/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1903/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1904,
+    "session": null,
+    "author_id": "frederic-mistral",
+    "author_ja": "フレデリック・ミストラル",
+    "author_en": "Frédéric Mistral",
+    "country": "フランス",
+    "language": "プロヴァンス語(オック語)",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "プロヴァンス語詩の独創性と真の霊感に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1904/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1904/summary/"
+    ],
+    "notes": "1904年は共同受賞"
+  },
+  {
+    "year": 1904,
+    "session": null,
+    "author_id": "jose-echegaray",
+    "author_ja": "ホセ・エチェガライ",
+    "author_en": "José Echegaray",
+    "country": "スペイン",
+    "language": "スペイン語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "スペイン演劇の伝統を独創的な形で復興させた劇作群に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1904/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1904/summary/"
+    ],
+    "notes": "1904年は共同受賞"
+  },
+  {
+    "year": 1905,
+    "session": null,
+    "author_id": "henryk-sienkiewicz",
+    "author_ja": "ヘンリク・シェンキェヴィチ",
+    "author_en": "Henryk Sienkiewicz",
+    "country": "ポーランド",
+    "language": "ポーランド語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "叙事詩作家としての卓越した業績に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1905/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1905/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1906,
+    "session": null,
+    "author_id": "giosue-carducci",
+    "author_ja": "ジョズエ・カルドゥッチ",
+    "author_en": "Giosuè Carducci",
+    "country": "イタリア",
+    "language": "イタリア語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "深い学識と批評的探求、そして創造的なエネルギーへの敬意として(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1906/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1906/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1907,
+    "session": null,
+    "author_id": "rudyard-kipling",
+    "author_ja": "ラドヤード・キプリング",
+    "author_en": "Rudyard Kipling",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "卓越した観察力、独創的な想像力、力強い着想と語りの才能に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1907/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1907/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1908,
+    "session": null,
+    "author_id": "rudolf-eucken",
+    "author_ja": "ルドルフ・オイケン",
+    "author_en": "Rudolf Christoph Eucken",
+    "country": "ドイツ",
+    "language": "ドイツ語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "真理への真摯な探求と広い視野に立つ思想に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1908/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1908/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1909,
+    "session": null,
+    "author_id": "selma-lagerlof",
+    "author_ja": "セルマ・ラーゲルレーヴ",
+    "author_en": "Selma Lagerlöf",
+    "country": "スウェーデン",
+    "language": "スウェーデン語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "気高い理想主義と豊かな想像力、精神的洞察に満ちた作品に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1909/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1909/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1910,
+    "session": null,
+    "author_id": "paul-heyse",
+    "author_ja": "パウル・ハイゼ",
+    "author_en": "Paul von Heyse",
+    "country": "ドイツ",
+    "language": "ドイツ語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "理想主義に貫かれた円熟した芸術性への敬意として(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1910/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1910/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1911,
+    "session": null,
+    "author_id": "maurice-maeterlinck",
+    "author_ja": "モーリス・メーテルリンク",
+    "author_en": "Maurice Maeterlinck",
+    "country": "ベルギー",
+    "language": "フランス語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "多面的な文学活動、とりわけ豊かな想像力に満ちた戯曲作品に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1911/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1911/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1912,
+    "session": null,
+    "author_id": "gerhart-hauptmann",
+    "author_ja": "ゲアハルト・ハウプトマン",
+    "author_en": "Gerhart Hauptmann",
+    "country": "ドイツ",
+    "language": "ドイツ語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "戯曲芸術における多産で卓越した業績に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1912/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1912/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1913,
+    "session": null,
+    "author_id": "rabindranath-tagore",
+    "author_ja": "ラビンドラナート・タゴール",
+    "author_en": "Rabindranath Tagore",
+    "country": "インド(英領インド)",
+    "language": "ベンガル語/英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "深い感受性、清新さ、美しさを湛えた詩に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1913/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1913/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1914,
+    "session": null,
+    "author_id": null,
+    "author_ja": null,
+    "author_en": null,
+    "country": null,
+    "language": null,
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": null
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1914/summary/"
+    ],
+    "notes": "第一次世界大戦の影響で授賞なし"
+  },
+  {
+    "year": 1915,
+    "session": null,
+    "author_id": "romain-rolland",
+    "author_ja": "ロマン・ロラン",
+    "author_en": "Romain Rolland",
+    "country": "フランス",
+    "language": "フランス語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "文学作品に貫かれた高い理想主義と、真実への愛と共感に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1915/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1915/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1916,
+    "session": null,
+    "author_id": "verner-von-heidenstam",
+    "author_ja": "ヴェルネル・フォン・ヘイデンスタム",
+    "author_en": "Verner von Heidenstam",
+    "country": "スウェーデン",
+    "language": "スウェーデン語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "スウェーデン文学における新時代の代表者としての意義に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1916/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1916/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1917,
+    "session": null,
+    "author_id": "karl-gjellerup",
+    "author_ja": "カール・イェレルップ",
+    "author_en": "Karl Adolph Gjellerup",
+    "country": "デンマーク",
+    "language": "デンマーク語/ドイツ語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "高い理想に裏打ちされた多彩で豊かな詩作に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1917/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1917/summary/"
+    ],
+    "notes": "1917年は共同受賞"
+  },
+  {
+    "year": 1917,
+    "session": null,
+    "author_id": "henrik-pontoppidan",
+    "author_ja": "ヘンリク・ポントピダン",
+    "author_en": "Henrik Pontoppidan",
+    "country": "デンマーク",
+    "language": "デンマーク語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "当代デンマークの生活を描いた真実味ある作品群に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1917/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1917/summary/"
+    ],
+    "notes": "1917年は共同受賞"
+  },
+  {
+    "year": 1918,
+    "session": null,
+    "author_id": null,
+    "author_ja": null,
+    "author_en": null,
+    "country": null,
+    "language": null,
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": null
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1918/summary/"
+    ],
+    "notes": "第一次世界大戦の影響で授賞なし"
+  },
+  {
+    "year": 1919,
+    "session": null,
+    "author_id": "carl-spitteler",
+    "author_ja": "カール・シュピッテラー",
+    "author_en": "Carl Spitteler",
+    "country": "スイス",
+    "language": "ドイツ語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "叙事詩『オリンピアの春』への特別な評価として(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1919/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1919/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1920,
+    "session": null,
+    "author_id": "knut-hamsun",
+    "author_ja": "クヌート・ハムスン",
+    "author_en": "Knut Hamsun",
+    "country": "ノルウェー",
+    "language": "ノルウェー語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "代表作『土の恵み』をはじめとする記念碑的作品に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1920/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1920/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1921,
+    "session": null,
+    "author_id": "anatole-france",
+    "author_ja": "アナトール・フランス",
+    "author_en": "Anatole France",
+    "country": "フランス",
+    "language": "フランス語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "高貴な様式と深い人間味に彩られた輝かしい文学的業績に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1921/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1921/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1922,
+    "session": null,
+    "author_id": "jacinto-benavente",
+    "author_ja": "ハシント・ベナベンテ",
+    "author_en": "Jacinto Benavente",
+    "country": "スペイン",
+    "language": "スペイン語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "スペイン演劇の輝かしい伝統を見事に継承した功績に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1922/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1922/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1923,
+    "session": null,
+    "author_id": "william-butler-yeats",
+    "author_ja": "ウィリアム・バトラー・イェイツ",
+    "author_en": "William Butler Yeats",
+    "country": "アイルランド",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "高度に芸術的な形式で国民全体の精神を表現した、常に霊感に満ちた詩に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1923/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1923/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1924,
+    "session": null,
+    "author_id": "wladyslaw-reymont",
+    "author_ja": "ヴワディスワフ・レイモント",
+    "author_en": "Władysław Reymont",
+    "country": "ポーランド",
+    "language": "ポーランド語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "国民的叙事詩『農民』に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1924/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1924/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1925,
+    "session": null,
+    "author_id": "george-bernard-shaw",
+    "author_ja": "ジョージ・バーナード・ショー",
+    "author_en": "George Bernard Shaw",
+    "country": "イギリス/アイルランド",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "理想主義と人間性、そして刺激的な風刺に彩られた作品に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1925/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1925/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1926,
+    "session": null,
+    "author_id": "grazia-deledda",
+    "author_ja": "グラツィア・デレッダ",
+    "author_en": "Grazia Deledda",
+    "country": "イタリア",
+    "language": "イタリア語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "故郷サルデーニャの生活を鮮やかに描いた理想主義的な作品に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1926/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1926/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1927,
+    "session": null,
+    "author_id": "henri-bergson",
+    "author_ja": "アンリ・ベルクソン",
+    "author_en": "Henri Bergson",
+    "country": "フランス",
+    "language": "フランス語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "豊かで生命力ある思想と、それを表現する見事な筆致に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1927/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1927/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1928,
+    "session": null,
+    "author_id": "sigrid-undset",
+    "author_ja": "シグリッド・ウンセット",
+    "author_en": "Sigrid Undset",
+    "country": "ノルウェー",
+    "language": "ノルウェー語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "中世北欧の生活を力強く描いた作品群に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1928/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1928/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1929,
+    "session": null,
+    "author_id": "thomas-mann",
+    "author_ja": "トーマス・マン",
+    "author_en": "Thomas Mann",
+    "country": "ドイツ",
+    "language": "ドイツ語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "現代文学の古典として評価を高め続ける大作『ブッデンブローク家の人々』を中心とする業績に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1929/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1929/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1930,
+    "session": null,
+    "author_id": "sinclair-lewis",
+    "author_ja": "シンクレア・ルイス",
+    "author_en": "Sinclair Lewis",
+    "country": "アメリカ",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "力強く生き生きとした描写力と、機知とユーモアをもって新しい人物像を創造する才能に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1930/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1930/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1931,
+    "session": null,
+    "author_id": "erik-axel-karlfeldt",
+    "author_ja": "エリック・アクセル・カールフェルト",
+    "author_en": "Erik Axel Karlfeldt",
+    "country": "スウェーデン",
+    "language": "スウェーデン語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "その詩業全体に対して(没後受賞)(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1931/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1931/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1932,
+    "session": null,
+    "author_id": "john-galsworthy",
+    "author_ja": "ジョン・ゴールズワージー",
+    "author_en": "John Galsworthy",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "代表作『フォーサイト・サーガ』に結実した卓越した語りの芸術に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1932/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1932/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1933,
+    "session": null,
+    "author_id": "ivan-bunin",
+    "author_ja": "イワン・ブーニン",
+    "author_en": "Ivan Bunin",
+    "country": "無国籍(旧ロシア帝国)",
+    "language": "ロシア語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "古典的ロシア散文の伝統を厳密な芸術性をもって継承した業績に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1933/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1933/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1934,
+    "session": null,
+    "author_id": "luigi-pirandello",
+    "author_ja": "ルイジ・ピランデッロ",
+    "author_en": "Luigi Pirandello",
+    "country": "イタリア",
+    "language": "イタリア語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "大胆かつ独創的に戯曲芸術と舞台芸術を革新した功績に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1934/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1934/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1935,
+    "session": null,
+    "author_id": null,
+    "author_ja": null,
+    "author_en": null,
+    "country": null,
+    "language": null,
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": null
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1935/summary/"
+    ],
+    "notes": "適格候補者なしとして授賞なし"
+  },
+  {
+    "year": 1936,
+    "session": null,
+    "author_id": "eugene-oneill",
+    "author_ja": "ユージン・オニール",
+    "author_en": "Eugene O'Neill",
+    "country": "アメリカ",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "悲劇の概念を独自に体現した力強く誠実な戯曲作品に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1936/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1936/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1937,
+    "session": null,
+    "author_id": "roger-martin-du-gard",
+    "author_ja": "ロジェ・マルタン・デュ・ガール",
+    "author_en": "Roger Martin du Gard",
+    "country": "フランス",
+    "language": "フランス語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "大河小説『チボー家の人々』に見られる人間の対立を描く芸術的な力と真実性に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1937/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1937/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1938,
+    "session": null,
+    "author_id": "pearl-buck",
+    "author_ja": "パール・バック",
+    "author_en": "Pearl S. Buck",
+    "country": "アメリカ",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "中国の農民生活を豊かに描いた叙事的作品と伝記的傑作に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1938/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1938/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1939,
+    "session": null,
+    "author_id": "frans-eemil-sillanpaa",
+    "author_ja": "フランス・エーミル・シランペー",
+    "author_en": "Frans Eemil Sillanpää",
+    "country": "フィンランド",
+    "language": "フィンランド語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "故国の農民の暮らしへの深い理解と、それを描く卓越した芸術性に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1939/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1939/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1940,
+    "session": null,
+    "author_id": null,
+    "author_ja": null,
+    "author_en": null,
+    "country": null,
+    "language": null,
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": null
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1940/summary/"
+    ],
+    "notes": "第二次世界大戦の影響で授賞なし"
+  },
+  {
+    "year": 1941,
+    "session": null,
+    "author_id": null,
+    "author_ja": null,
+    "author_en": null,
+    "country": null,
+    "language": null,
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": null
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1941/summary/"
+    ],
+    "notes": "第二次世界大戦の影響で授賞なし"
+  },
+  {
+    "year": 1942,
+    "session": null,
+    "author_id": null,
+    "author_ja": null,
+    "author_en": null,
+    "country": null,
+    "language": null,
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": null
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1942/summary/"
+    ],
+    "notes": "第二次世界大戦の影響で授賞なし"
+  },
+  {
+    "year": 1943,
+    "session": null,
+    "author_id": null,
+    "author_ja": null,
+    "author_en": null,
+    "country": null,
+    "language": null,
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": null,
+    "lecture_title": null,
+    "lecture_url": null,
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": null
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1943/summary/"
+    ],
+    "notes": "第二次世界大戦の影響で授賞なし"
+  },
+  {
+    "year": 1944,
+    "session": null,
+    "author_id": "johannes-v-jensen",
+    "author_ja": "ヨハネス・V・イェンセン",
+    "author_en": "Johannes Vilhelm Jensen",
+    "country": "デンマーク",
+    "language": "デンマーク語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "詩的想像力の稀な力強さと、それに結びついた知的好奇心に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1944/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1944/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1945,
+    "session": null,
+    "author_id": "gabriela-mistral",
+    "author_ja": "ガブリエラ・ミストラル",
+    "author_en": "Gabriela Mistral",
+    "country": "チリ",
+    "language": "スペイン語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "力強い感情に裏打ちされた叙情詩によりラテンアメリカの理想を象徴する存在となった功績に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1945/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1945/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1946,
+    "session": null,
+    "author_id": "hermann-hesse",
+    "author_ja": "ヘルマン・ヘッセ",
+    "author_en": "Hermann Hesse",
+    "country": "スイス(ドイツ生まれ)",
+    "language": "ドイツ語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "大胆さと深い洞察を増しながら古典的な人道精神を体現し続けた作品群に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1946/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1946/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1947,
+    "session": null,
+    "author_id": "andre-gide",
+    "author_ja": "アンドレ・ジッド",
+    "author_en": "André Gide",
+    "country": "フランス",
+    "language": "フランス語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "人間の問題と条件を、恐れを知らぬ真実への愛と鋭い心理的洞察をもって描いた包括的な作品に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1947/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1947/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1948,
+    "session": null,
+    "author_id": "t-s-eliot",
+    "author_ja": "T・S・エリオット",
+    "author_en": "T. S. Eliot",
+    "country": "イギリス(アメリカ生まれ)",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "現代詩に対する卓越した先駆的貢献に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1948/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1948/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1949,
+    "session": null,
+    "author_id": "william-faulkner",
+    "author_ja": "ウィリアム・フォークナー",
+    "author_en": "William Faulkner",
+    "country": "アメリカ",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "現代アメリカ小説への力強く芸術的に独自な貢献に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1949/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1949/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1950,
+    "session": null,
+    "author_id": "bertrand-russell",
+    "author_ja": "バートランド・ラッセル",
+    "author_en": "Bertrand Russell",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "人道的理想と思想の自由を擁護した多彩で意義深い著作に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1950/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1950/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1951,
+    "session": null,
+    "author_id": "par-lagerkvist",
+    "author_ja": "パール・ラーゲルクヴィスト",
+    "author_en": "Pär Lagerkvist",
+    "country": "スウェーデン",
+    "language": "スウェーデン語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "詩において人類が直面する永遠の問いへの答えを追求する芸術的な力強さと独立精神に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1951/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1951/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1952,
+    "session": null,
+    "author_id": "francois-mauriac",
+    "author_ja": "フランソワ・モーリヤック",
+    "author_en": "François Mauriac",
+    "country": "フランス",
+    "language": "フランス語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "小説において人間の内面生活を鋭い精神的洞察と芸術的強度をもって描いた功績に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1952/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1952/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1953,
+    "session": null,
+    "author_id": "winston-churchill",
+    "author_ja": "ウィンストン・チャーチル",
+    "author_en": "Winston Churchill",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "歴史・伝記に関する叙述の巧みさと、卓越した弁舌による人間的価値の擁護に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1953/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1953/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1954,
+    "session": null,
+    "author_id": "ernest-hemingway",
+    "author_ja": "アーネスト・ヘミングウェイ",
+    "author_en": "Ernest Hemingway",
+    "country": "アメリカ",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "代表作『老人と海』に示された物語芸術の巧みさに対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1954/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1954/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1955,
+    "session": null,
+    "author_id": "halldor-laxness",
+    "author_ja": "ハルドル・ラクスネス",
+    "author_en": "Halldór Laxness",
+    "country": "アイスランド",
+    "language": "アイスランド語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "アイスランドの偉大な叙事文学の伝統を刷新した鮮烈な叙事的力に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1955/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1955/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1956,
+    "session": null,
+    "author_id": "juan-ramon-jimenez",
+    "author_ja": "フアン・ラモン・ヒメネス",
+    "author_en": "Juan Ramón Jiménez",
+    "country": "スペイン",
+    "language": "スペイン語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "スペイン語詩における高い精神性と芸術性を示す叙情詩に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1956/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1956/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1957,
+    "session": null,
+    "author_id": "albert-camus",
+    "author_ja": "アルベール・カミュ",
+    "author_en": "Albert Camus",
+    "country": "フランス(仏領アルジェリア生まれ)",
+    "language": "フランス語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "現代人の良心の問題を明晰な真摯さで照らし出した重要な文学的業績に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1957/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1957/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1958,
+    "session": null,
+    "author_id": "boris-pasternak",
+    "author_ja": "ボリス・パステルナーク",
+    "author_en": "Boris Pasternak",
+    "country": "ソビエト連邦",
+    "language": "ロシア語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "現代抒情詩とロシアの偉大な叙事文学の伝統における重要な功績に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1958/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1958/summary/"
+    ],
+    "notes": "ソ連当局の圧力により受賞を辞退(のち1989年に息子が代理受領)"
+  },
+  {
+    "year": 1959,
+    "session": null,
+    "author_id": "salvatore-quasimodo",
+    "author_ja": "サルヴァトーレ・クァジーモド",
+    "author_en": "Salvatore Quasimodo",
+    "country": "イタリア",
+    "language": "イタリア語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "古典的な情熱をもって現代の悲劇的な生の経験を表現した叙情詩に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1959/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1959/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1960,
+    "session": null,
+    "author_id": "saint-john-perse",
+    "author_ja": "サン=ジョン・ペルス",
+    "author_en": "Saint-John Perse",
+    "country": "フランス(グアドループ生まれ)",
+    "language": "フランス語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "時代を幻視的に映し出す、飛翔感と喚起力に満ちた詩業に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1960/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1960/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1961,
+    "session": null,
+    "author_id": "ivo-andric",
+    "author_ja": "イヴォ・アンドリッチ",
+    "author_en": "Ivo Andrić",
+    "country": "ユーゴスラビア",
+    "language": "セルビア・クロアチア語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "祖国の歴史から題材を得た人間の運命を描く叙事的な力に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1961/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1961/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1962,
+    "session": null,
+    "author_id": "john-steinbeck",
+    "author_ja": "ジョン・スタインベック",
+    "author_en": "John Steinbeck",
+    "country": "アメリカ",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "写実的想像力と、共感に満ちたユーモア、鋭い社会観察を兼ね備えた作品に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1962/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1962/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1963,
+    "session": null,
+    "author_id": "giorgos-seferis",
+    "author_ja": "ヨルゴス・セフェリス",
+    "author_en": "Giorgos Seferis",
+    "country": "ギリシャ",
+    "language": "ギリシャ語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "ギリシャ文化の世界への深い共感に裏打ちされた卓越した抒情詩に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1963/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1963/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1964,
+    "session": null,
+    "author_id": "jean-paul-sartre",
+    "author_ja": "ジャン=ポール・サルトル",
+    "author_en": "Jean-Paul Sartre",
+    "country": "フランス",
+    "language": "フランス語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "思想に富み自由の精神と真理への探究に満ちた作品に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1964/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1964/summary/"
+    ],
+    "notes": "サルトル本人は受賞を辞退"
+  },
+  {
+    "year": 1965,
+    "session": null,
+    "author_id": "mikhail-sholokhov",
+    "author_ja": "ミハイル・ショーロホフ",
+    "author_en": "Mikhail Sholokhov",
+    "country": "ソビエト連邦",
+    "language": "ロシア語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "ドン河をめぐる叙事詩において示された芸術的な力と誠実さに対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1965/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1965/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1966,
+    "session": null,
+    "author_id": "shmuel-yosef-agnon",
+    "author_ja": "シュムエル・ヨセフ・アグノン",
+    "author_en": "Shmuel Yosef Agnon",
+    "country": "イスラエル",
+    "language": "ヘブライ語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "ユダヤ民族の生活に取材した、深く特徴的な物語芸術に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1966/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1966/summary/"
+    ],
+    "notes": "1966年は共同受賞"
+  },
+  {
+    "year": 1966,
+    "session": null,
+    "author_id": "nelly-sachs",
+    "author_ja": "ネリー・ザックス",
+    "author_en": "Nelly Sachs",
+    "country": "西ドイツ/スウェーデン",
+    "language": "ドイツ語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "イスラエルの運命を感動的な力をもって解釈した卓越した抒情・戯曲作品に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1966/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1966/summary/"
+    ],
+    "notes": "1966年は共同受賞"
+  },
+  {
+    "year": 1967,
+    "session": null,
+    "author_id": "miguel-angel-asturias",
+    "author_ja": "ミゲル・アンヘル・アストゥリアス",
+    "author_en": "Miguel Ángel Asturias",
+    "country": "グアテマラ",
+    "language": "スペイン語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "ラテンアメリカ先住民の伝統に深く根ざした鮮烈な文学的業績に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1967/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1967/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1968,
+    "session": null,
+    "author_id": "yasunari-kawabata",
+    "author_ja": "川端康成",
+    "author_en": "Yasunari Kawabata",
+    "country": "日本",
+    "language": "日本語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "日本人の心の本質を鋭敏に表現した卓越した語りの芸術に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1968/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1968/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1969,
+    "session": null,
+    "author_id": "samuel-beckett",
+    "author_ja": "サミュエル・ベケット",
+    "author_en": "Samuel Beckett",
+    "country": "アイルランド",
+    "language": "フランス語/英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "現代人の窮状の中に高みを見出す、小説と演劇の新しい形式による作品に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1969/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1969/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1970,
+    "session": null,
+    "author_id": "aleksandr-solzhenitsyn",
+    "author_ja": "アレクサンドル・ソルジェニーツィン",
+    "author_en": "Aleksandr Solzhenitsyn",
+    "country": "ソビエト連邦",
+    "language": "ロシア語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "ロシア文学の不可欠な伝統を追求した倫理的な力に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1970/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1970/summary/"
+    ],
+    "notes": "ソ連当局への懸念から授賞式には出席せず"
+  },
+  {
+    "year": 1971,
+    "session": null,
+    "author_id": "pablo-neruda",
+    "author_ja": "パブロ・ネルーダ",
+    "author_en": "Pablo Neruda",
+    "country": "チリ",
+    "language": "スペイン語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "一大陸の運命と夢を生き生きと蘇らせる、根源的な力を備えた詩に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1971/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1971/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1972,
+    "session": null,
+    "author_id": "heinrich-boll",
+    "author_ja": "ハインリヒ・ベル",
+    "author_en": "Heinrich Böll",
+    "country": "西ドイツ",
+    "language": "ドイツ語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "時代を広く見渡す視野と繊細な人物造形の技巧を兼ね備えた作品に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1972/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1972/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1973,
+    "session": null,
+    "author_id": "patrick-white",
+    "author_ja": "パトリック・ホワイト",
+    "author_en": "Patrick White",
+    "country": "オーストラリア",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "文学に新たな大陸をもたらした叙事的かつ心理的な語りの芸術に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1973/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1973/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1974,
+    "session": null,
+    "author_id": "eyvind-johnson",
+    "author_ja": "エイヴィンド・ヨンソン",
+    "author_en": "Eyvind Johnson",
+    "country": "スウェーデン",
+    "language": "スウェーデン語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "自由に奉仕する、時代と土地を見渡す語りの芸術に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1974/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1974/summary/"
+    ],
+    "notes": "1974年は共同受賞。両者ともスウェーデン・アカデミー会員であったため選考の公正性が議論となった"
+  },
+  {
+    "year": 1974,
+    "session": null,
+    "author_id": "harry-martinson",
+    "author_ja": "ハリー・マーティンソン",
+    "author_en": "Harry Martinson",
+    "country": "スウェーデン",
+    "language": "スウェーデン語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "露のしずくを捉え宇宙を映し出す作品に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1974/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1974/summary/"
+    ],
+    "notes": "1974年は共同受賞。両者ともスウェーデン・アカデミー会員であったため選考の公正性が議論となった"
+  },
+  {
+    "year": 1975,
+    "session": null,
+    "author_id": "eugenio-montale",
+    "author_ja": "エウジェニオ・モンターレ",
+    "author_en": "Eugenio Montale",
+    "country": "イタリア",
+    "language": "イタリア語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "人間的価値を深い芸術的感受性をもって解釈した独自性ある詩に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1975/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1975/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1976,
+    "session": null,
+    "author_id": "saul-bellow",
+    "author_ja": "ソール・ベロー",
+    "author_en": "Saul Bellow",
+    "country": "アメリカ",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "人間理解と現代文化への繊細な分析を融合させた作品に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1976/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1976/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1977,
+    "session": null,
+    "author_id": "vicente-aleixandre",
+    "author_ja": "ビセンテ・アレイクサンドレ",
+    "author_en": "Vicente Aleixandre",
+    "country": "スペイン",
+    "language": "スペイン語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "宇宙と現代社会における人間の条件を照らし出す創造的な詩作に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1977/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1977/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1978,
+    "session": null,
+    "author_id": "isaac-bashevis-singer",
+    "author_ja": "アイザック・バシェヴィス・シンガー",
+    "author_en": "Isaac Bashevis Singer",
+    "country": "ポーランド/アメリカ",
+    "language": "イディッシュ語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "ポーランド系ユダヤ文化の伝統に根ざし、普遍的な人間の条件を生き生きと描く物語芸術に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1978/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1978/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1979,
+    "session": null,
+    "author_id": "odysseas-elytis",
+    "author_ja": "オデュッセアス・エリティス",
+    "author_en": "Odysseas Elytis",
+    "country": "ギリシャ",
+    "language": "ギリシャ語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "ギリシャの伝統を背景に、感覚的な力と知的な明晰さをもって現代人の闘いを描いた詩に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1979/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1979/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1980,
+    "session": null,
+    "author_id": "czeslaw-milosz",
+    "author_ja": "チェスワフ・ミウォシュ",
+    "author_en": "Czesław Miłosz",
+    "country": "ポーランド",
+    "language": "ポーランド語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "苛烈な対立に晒された世界における人間の状況を、妥協なき明晰さで語った功績に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1980/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1980/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1981,
+    "session": null,
+    "author_id": "elias-canetti",
+    "author_ja": "エリアス・カネッティ",
+    "author_en": "Elias Canetti",
+    "country": "イギリス(ブルガリア生まれ)",
+    "language": "ドイツ語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "広い視野と豊かな思想、芸術的な力に彩られた著作に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1981/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1981/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1982,
+    "session": null,
+    "author_id": "gabriel-garcia-marquez",
+    "author_ja": "ガブリエル・ガルシア=マルケス",
+    "author_en": "Gabriel García Márquez",
+    "country": "コロンビア",
+    "language": "スペイン語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "幻想と現実を豊かに融合させた長編・短編小説に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1982/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1982/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1983,
+    "session": null,
+    "author_id": "william-golding",
+    "author_ja": "ウィリアム・ゴールディング",
+    "author_en": "William Golding",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "明晰な写実的語りの技法と、今日の人間の条件を照らす神話の多様性・普遍性を兼ね備えた小説群に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1983/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1983/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1984,
+    "session": null,
+    "author_id": "jaroslav-seifert",
+    "author_ja": "ヤロスラフ・サイフェルト",
+    "author_en": "Jaroslav Seifert",
+    "country": "チェコスロバキア",
+    "language": "チェコ語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "清新さと豊かな発想力に満ち、人間の不屈の精神を解き放つイメージを与える詩業に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1984/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1984/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1985,
+    "session": null,
+    "author_id": "claude-simon",
+    "author_ja": "クロード・シモン",
+    "author_en": "Claude Simon",
+    "country": "フランス(仏領マダガスカル生まれ)",
+    "language": "フランス語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "詩人と画家の創造性を融合させ、時の経過を人間の条件の深い自覚とともに描いた作品に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1985/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1985/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1986,
+    "session": null,
+    "author_id": "wole-soyinka",
+    "author_ja": "ウォーレ・ショインカ",
+    "author_en": "Wole Soyinka",
+    "country": "ナイジェリア",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "広い文化的視野と詩的な響きをもって存在の劇を形作った功績に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1986/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1986/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1987,
+    "session": null,
+    "author_id": "joseph-brodsky",
+    "author_ja": "ヨシフ・ブロツキー",
+    "author_en": "Joseph Brodsky",
+    "country": "アメリカ/ソビエト連邦",
+    "language": "ロシア語/英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "思考の明晰さと詩的な強度に満ちた包括的な著作に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1987/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1987/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1988,
+    "session": null,
+    "author_id": "naguib-mahfouz",
+    "author_ja": "ナギーブ・マフフーズ",
+    "author_en": "Naguib Mahfouz",
+    "country": "エジプト",
+    "language": "アラビア語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "写実性と多義性を併せ持つ豊かなニュアンスに富んだ作品群を通じ、アラビア語の物語芸術を形作った功績に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1988/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1988/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1989,
+    "session": null,
+    "author_id": "camilo-jose-cela",
+    "author_ja": "カミロ・ホセ・セラ",
+    "author_en": "Camilo José Cela",
+    "country": "スペイン",
+    "language": "スペイン語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "抑制の効いた同情心をもって人間の脆さに挑む豊かで濃密な散文に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1989/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1989/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1990,
+    "session": null,
+    "author_id": "octavio-paz",
+    "author_ja": "オクタビオ・パス",
+    "author_en": "Octavio Paz",
+    "country": "メキシコ",
+    "language": "スペイン語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "感覚的な知性とヒューマニズムに満ちた、広い視野を持つ情熱的な著作に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1990/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1990/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1991,
+    "session": null,
+    "author_id": "nadine-gordimer",
+    "author_ja": "ナディン・ゴーディマー",
+    "author_en": "Nadine Gordimer",
+    "country": "南アフリカ",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "壮大な叙事的作品を通じ、人類に大きな恩恵をもたらした功績に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1991/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1991/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1992,
+    "session": null,
+    "author_id": "derek-walcott",
+    "author_ja": "デレック・ウォルコット",
+    "author_en": "Derek Walcott",
+    "country": "セントルシア",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "歴史的な視座に支えられ、多文化的な献身の帰結である輝きに満ちた詩業に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1992/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1992/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1993,
+    "session": null,
+    "author_id": "toni-morrison",
+    "author_ja": "トニ・モリスン",
+    "author_en": "Toni Morrison",
+    "country": "アメリカ",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "幻視的な力と詩的な含蓄をもってアメリカの現実の本質的な側面に命を吹き込んだ小説群に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1993/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1993/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1994,
+    "session": null,
+    "author_id": "kenzaburo-oe",
+    "author_ja": "大江健三郎",
+    "author_en": "Kenzaburō Ōe",
+    "country": "日本",
+    "language": "日本語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "詩的な力によって、生と神話が凝縮し今日の人間の苦境を映し出す想像世界を創造した功績に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1994/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1994/summary/"
+    ],
+    "notes": "1958年に『飼育』で芥川賞を受賞済み。ノーベル賞・芥川賞の双方を受けた代表例"
+  },
+  {
+    "year": 1995,
+    "session": null,
+    "author_id": "seamus-heaney",
+    "author_ja": "シェイマス・ヒーニー",
+    "author_en": "Seamus Heaney",
+    "country": "アイルランド",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "日常の奇跡と生き続ける過去を称える、抒情的な美しさと倫理的深みに満ちた作品に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1995/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1995/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1996,
+    "session": null,
+    "author_id": "wislawa-szymborska",
+    "author_ja": "ヴィスワヴァ・シンボルスカ",
+    "author_en": "Wisława Szymborska",
+    "country": "ポーランド",
+    "language": "ポーランド語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "歴史的・生物学的文脈を断片の中に浮かび上がらせる、アイロニカルな精緻さを備えた詩に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1996/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1996/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1997,
+    "session": null,
+    "author_id": "dario-fo",
+    "author_ja": "ダリオ・フォ",
+    "author_en": "Dario Fo",
+    "country": "イタリア",
+    "language": "イタリア語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "中世の道化師の伝統を受け継ぎ、権威を鞭打ち虐げられた者の尊厳を擁護した功績に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1997/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1997/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1998,
+    "session": null,
+    "author_id": "jose-saramago",
+    "author_ja": "ジョゼ・サラマーゴ",
+    "author_en": "José Saramago",
+    "country": "ポルトガル",
+    "language": "ポルトガル語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "想像力・共感・アイロニーに支えられた寓話によって、捉えがたい現実を繰り返し把握させる作品に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1998/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1998/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 1999,
+    "session": null,
+    "author_id": "gunter-grass",
+    "author_ja": "ギュンター・グラス",
+    "author_en": "Günter Grass",
+    "country": "ドイツ",
+    "language": "ドイツ語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "忘れられた歴史の顔を描き出す、諧謔に満ちた暗い寓話に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/1999/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/1999/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2000,
+    "session": null,
+    "author_id": "gao-xingjian",
+    "author_ja": "高行健",
+    "author_en": "Gao Xingjian",
+    "country": "フランス(中国生まれ)",
+    "language": "中国語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "普遍的な妥当性、痛烈な洞察、そして言語的独創性を備え、中国の小説と演劇に新たな道を開いた作品に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/2000/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/2000/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2001,
+    "session": null,
+    "author_id": "v-s-naipaul",
+    "author_ja": "V・S・ナイポール",
+    "author_en": "V. S. Naipaul",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "抑圧された歴史の存在を直視させる、鋭敏な語りと厳格な洞察を融合させた作品に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/2001/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/2001/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2002,
+    "session": null,
+    "author_id": "imre-kertesz",
+    "author_ja": "インレ・ケルテース",
+    "author_en": "Imre Kertész",
+    "country": "ハンガリー",
+    "language": "ハンガリー語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "歴史の野蛮な恣意性に対抗する個人の脆い経験を描き続ける著作に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/2002/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/2002/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2003,
+    "session": null,
+    "author_id": "jm-coetzee",
+    "author_ja": "J・M・クッツェー",
+    "author_en": "J. M. Coetzee",
+    "country": "南アフリカ",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "無数の仮面をまとってアウトサイダーの意外な関わりを描いた作品に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/2003/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/2003/summary/"
+    ],
+    "notes": "ブッカー賞を1983年・1999年の2度受賞済み。ブッカー賞・ノーベル賞双方を受けた代表例"
+  },
+  {
+    "year": 2004,
+    "session": null,
+    "author_id": "elfriede-jelinek",
+    "author_ja": "エルフリーデ・イェリネク",
+    "author_en": "Elfriede Jelinek",
+    "country": "オーストリア",
+    "language": "ドイツ語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "小説と戯曲における声と反声の音楽的な流れによって、社会の紋切り型とその支配力の不条理を暴いた功績に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/2004/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/2004/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2005,
+    "session": null,
+    "author_id": "harold-pinter",
+    "author_ja": "ハロルド・ピンター",
+    "author_en": "Harold Pinter",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "日常の会話の下に潜む深淵を暴き、抑圧の閉ざされた部屋に踏み込んだ戯曲作品に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/2005/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/2005/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2006,
+    "session": null,
+    "author_id": "orhan-pamuk",
+    "author_ja": "オルハン・パムク",
+    "author_en": "Orhan Pamuk",
+    "country": "トルコ",
+    "language": "トルコ語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "故郷の街の憂鬱な魂を探求する中で、文化の衝突と絡み合いを表す新たな象徴を見出した功績に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/2006/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/2006/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2007,
+    "session": null,
+    "author_id": "doris-lessing",
+    "author_ja": "ドリス・レッシング",
+    "author_en": "Doris Lessing",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "懐疑と情熱、幻視的な力をもって分断された文明を検証した、女性経験の叙事詩人としての功績に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/2007/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/2007/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2008,
+    "session": null,
+    "author_id": "jmg-le-clezio",
+    "author_ja": "J・M・G・ル・クレジオ",
+    "author_en": "J.M.G. Le Clézio",
+    "country": "フランス",
+    "language": "フランス語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "新たな出発、詩的な冒険、感覚的恍惚の作者であり、支配的文明の彼方と底辺を探る人間性の探求者として(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/2008/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/2008/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2009,
+    "session": null,
+    "author_id": "herta-muller",
+    "author_ja": "ヘルタ・ミュラー",
+    "author_en": "Herta Müller",
+    "country": "ドイツ(ルーマニア生まれ)",
+    "language": "ドイツ語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "詩の凝縮力と散文の率直さをもって、追放された者たちの風景を描いた功績に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/2009/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/2009/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2010,
+    "session": null,
+    "author_id": "mario-vargas-llosa",
+    "author_ja": "マリオ・バルガス・リョサ",
+    "author_en": "Mario Vargas Llosa",
+    "country": "ペルー",
+    "language": "スペイン語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "権力構造の地図を描き、個人の抵抗・反抗・敗北を鋭く描き出した功績に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/2010/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/2010/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2011,
+    "session": null,
+    "author_id": "tomas-transtromer",
+    "author_ja": "トーマス・トランストロンメル",
+    "author_en": "Tomas Tranströmer",
+    "country": "スウェーデン",
+    "language": "スウェーデン語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "凝縮され透明感あるイメージを通じて、現実への新たな道を与える詩業に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/2011/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/2011/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2012,
+    "session": null,
+    "author_id": "mo-yan",
+    "author_ja": "莫言",
+    "author_en": "Mo Yan",
+    "country": "中国",
+    "language": "中国語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "幻覚的写実主義によって民話・歴史・現代を融合させた作品に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/2012/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/2012/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2013,
+    "session": null,
+    "author_id": "alice-munro",
+    "author_ja": "アリス・マンロー",
+    "author_en": "Alice Munro",
+    "country": "カナダ",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "現代短編小説の巨匠として(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/2013/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/2013/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2014,
+    "session": null,
+    "author_id": "patrick-modiano",
+    "author_ja": "パトリック・モディアノ",
+    "author_en": "Patrick Modiano",
+    "country": "フランス",
+    "language": "フランス語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "最も捉えがたい人間の運命を呼び起こし、占領下の生活世界を描き出した記憶の芸術に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/2014/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/2014/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2015,
+    "session": null,
+    "author_id": "svetlana-alexievich",
+    "author_ja": "スヴェトラーナ・アレクシエービッチ",
+    "author_en": "Svetlana Alexievich",
+    "country": "ベラルーシ",
+    "language": "ロシア語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "わたしたちの時代の苦難と勇気を刻む記念碑となる、多声的な作品に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/2015/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/2015/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2016,
+    "session": null,
+    "author_id": "bob-dylan",
+    "author_ja": "ボブ・ディラン",
+    "author_en": "Bob Dylan",
+    "country": "アメリカ",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "偉大なアメリカの歌の伝統の中に新たな詩的表現を創造した功績に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/2016/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/2016/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2017,
+    "session": null,
+    "author_id": "kazuo-ishiguro",
+    "author_ja": "カズオ・イシグロ",
+    "author_en": "Kazuo Ishiguro",
+    "country": "イギリス",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "壮大な感情の力をもつ小説群により、世界と結びついているという我々の幻想の下に広がる深淵を暴いた(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/2017/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/2017/summary/"
+    ],
+    "notes": "1989年に『日の名残り』でブッカー賞を受賞済み。ブッカー賞・ノーベル賞双方を受けた代表例"
+  },
+  {
+    "year": 2018,
+    "session": null,
+    "author_id": "olga-tokarczuk",
+    "author_ja": "オルガ・トカルチュク",
+    "author_en": "Olga Tokarczuk",
+    "country": "ポーランド",
+    "language": "ポーランド語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "百科事典的な情熱をもって、境界を越えることを生の一形態として描く物語的想像力に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/2018/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/2018/summary/"
+    ],
+    "notes": "スウェーデン・アカデミーの不祥事により発表が2019年に延期され、2019年発表分と同時に発表された(いわゆる2018年枠)"
+  },
+  {
+    "year": 2019,
+    "session": null,
+    "author_id": "peter-handke",
+    "author_ja": "ペーター・ハントケ",
+    "author_en": "Peter Handke",
+    "country": "オーストリア",
+    "language": "ドイツ語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "言語的独創性をもって人間経験の周縁と特異性を探求した影響力ある作品に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/2019/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/2019/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2020,
+    "session": null,
+    "author_id": "louise-gluck",
+    "author_ja": "ルイーズ・グリュック",
+    "author_en": "Louise Glück",
+    "country": "アメリカ",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "個人の実存を普遍のものとする、飾り気のない美しさを備えた紛れもない詩的声に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/2020/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/2020/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2021,
+    "session": null,
+    "author_id": "abdulrazak-gurnah",
+    "author_ja": "アブドゥルラザク・グルナ",
+    "author_en": "Abdulrazak Gurnah",
+    "country": "タンザニア/イギリス",
+    "language": "英語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "植民地主義の影響と、文化・大陸の狭間にある難民の運命を、妥協なく思いやりをもって描いた功績に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/2021/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/2021/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2022,
+    "session": null,
+    "author_id": "annie-ernaux",
+    "author_ja": "アニー・エルノー",
+    "author_en": "Annie Ernaux",
+    "country": "フランス",
+    "language": "フランス語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "個人的記憶の根源・疎外・集団的な制約を暴く勇気と鋭い観察眼に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/2022/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/2022/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2023,
+    "session": null,
+    "author_id": "jon-fosse",
+    "author_ja": "ヨン・フォッセ",
+    "author_en": "Jon Fosse",
+    "country": "ノルウェー",
+    "language": "ノルウェー語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "言葉にならないものに声を与える、革新的な戯曲と散文に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/2023/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/2023/summary/"
+    ],
+    "notes": null
+  },
+  {
+    "year": 2024,
+    "session": null,
+    "author_id": "han-kang",
+    "author_ja": "ハン・ガン",
+    "author_en": "Han Kang",
+    "country": "韓国",
+    "language": "韓国語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "歴史的トラウマと向き合い、人間の生の脆さを暴く濃密な詩的散文に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/2024/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/2024/summary/"
+    ],
+    "notes": "2016年に『菜食主義者』で国際ブッカー賞を受賞済み。国際ブッカー賞・ノーベル賞双方を受けた代表例"
+  },
+  {
+    "year": 2025,
+    "session": null,
+    "author_id": "laszlo-krasznahorkai",
+    "author_ja": "ラースロー・クラスナホルカイ",
+    "author_en": "László Krasznahorkai",
+    "country": "ハンガリー",
+    "language": "ハンガリー語",
+    "work_ja": null,
+    "work_original": null,
+    "citation_ja": "黙示録的な恐怖の只中にあってなお芸術の力を再確認させる、説得力に満ちた幻視的な作品群に対して(要旨)",
+    "lecture_title": null,
+    "lecture_url": "https://www.nobelprize.org/prizes/literature/2025/summary/",
+    "jp_translation": {
+      "status": "n/a",
+      "title_ja": null,
+      "translator": null,
+      "publisher": null,
+      "year": null,
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+    },
+    "source_urls": [
+      "https://www.nobelprize.org/prizes/literature/2025/summary/"
+    ],
+    "notes": null
+  }
+]
