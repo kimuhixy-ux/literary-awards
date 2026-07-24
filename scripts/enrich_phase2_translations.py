@@ -67,7 +67,9 @@ def parse_records(payload):
             "originals": originals,
             "creators": creators,
             "publisher": (vals("publisher") or [None])[0],
-            "year": int((vals("issued") or ["0"])[0][:4]) or None,
+            "year": (lambda m: int(m.group()) if m else None)(
+                re.search(r"(?:18|19|20)\d{2}", (vals("issued") or [""])[0])
+            ),
             "url": url,
         }
 

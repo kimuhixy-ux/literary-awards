@@ -23,7 +23,7 @@ literary-awards/
 └── data/
     ├── awards.json               8賞のマスタデータ(名称・国・創設年・関連賞など)
     ├── authors.json              全受賞者を作家単位で名寄せしたクロスリファレンス(複数受賞の検出に使用、scripts/gen_authors.pyで自動生成)
-    ├── major_works.json          ノーベル賞・ブッカー賞・国際ブッカー賞受賞作家(186名)の代表作リスト(受賞作以外の主要著作)
+    ├── major_works.json          全登録作家をキーにした受賞作以外の作品リスト(公開書誌で著者を確認できた作品)
     └── laureates/
         ├── nobel.json            ノーベル文学賞(1901-2025、129件)
         ├── booker.json            ブッカー賞(1969-2025、60件)
@@ -41,13 +41,13 @@ scripts/
 
 全8賞を収録済みです。合計795レコード、684作家を収録し、40名の複数賞受賞作家を自動検出します。ピュリッツァー賞の「該当なし」10年、ゴンクール賞1906年・セルバンテス賞1979年の共同受賞、全米図書賞の部門分割期も保持しています。
 
-フェーズ2の邦訳情報は国立国会図書館サーチで原題・著者を照合し、確認できた124件に邦題・訳者・出版社・刊行年・個別書誌URLを収録しています。確認できないものは未邦訳と断定せず「書誌要確認」と表示します。年代、国・地域、言語、邦訳あり・未邦訳・書誌要確認で絞り込めます。
+フェーズ2の邦訳情報は国立国会図書館サーチで原題・著者を照合し、確認できた受賞作に邦題・訳者・出版社・刊行年・個別書誌URLを収録しています。受賞作以外も全684作家をデータ上の対象とし、Wikidataで著者関係を確認できた作品を収録しています。受賞作以外はNDL Searchの著者書誌と原題を完全照合し、確認できた961作品を「邦訳あり」として収録しています。個別書誌を確認できない作品は未邦訳と断定せず「邦訳: 書誌未確認（未邦訳とは限りません）」、日本語原著は「日本語原著」と表示します。
 
 ## データ設計の要点
 
 - **`author_id`**: 英語名ベースのスラッグ(例: `kazuo-ishiguro`)。同一人物であれば全ファイルで必ず同じ値を使うこと。これが賞をまたいだ名寄せ(関連性マップ)を支える唯一の仕組みです。新しい賞のデータを追加する際、既存ファイルに同名の作家がいないか`data/authors.json`で必ず確認してください。
-- **`data/major_works.json`**: ノーベル賞・ブッカー賞・国際ブッカー賞受賞作家(芥川賞のみの受賞者は対象外)について、受賞作以外の代表作(原題・判明していれば邦題・発表年)を`author_id`をキーに記録したもの。`jp_translation_title`と同様、邦題は確証がある場合のみ記載し、不確かな場合は`null`のままにしています(捏造防止)。新しい対象作家を追加する場合はこのファイルにエントリを足してから`scripts/gen_authors.py`を再実行してください。
-- **`theme_summary_ja`**: 各作品(受賞作・major_works双方)につけた3〜4文程度の日本語テーマ・あらすじ要約。既存の紹介文・書評・ジャケット文の言い換えではなく独自の日本語表現で記述したもので、内容を確認できなかった作品は`null`のままにしています(全984作品中933作品に付与、51作品はnull)。受賞作側は`data/laureates/*.json`の各レコードに直接持たせ、`scripts/gen_authors.py`実行時に`representative_works`へ伝播します。major_works側は`data/major_works.json`の各作品エントリに直接持たせます。
+- **`data/major_works.json`**: 全登録作家について、受賞作を除く著作(原題・判明していれば邦題・発表年・出典)を`author_id`をキーに記録したもの。公開書誌で作品を確認できなかった作家も空配列で保持します。`jp_translation.status`は`available` / `original-ja` / `unverified`のいずれかで、確認できない場合は未邦訳と断定しません。`python3 scripts/enrich_author_works.py --fetch`でWikidataから再取得し、続けて`scripts/gen_authors.py`を実行します。
+- **`theme_summary_ja`**: 受賞作と一部の主要作品につけた3〜4文程度の日本語テーマ・あらすじ要約。既存の紹介文・書評・ジャケット文の言い換えではなく独自の日本語表現で記述し、内容を確認できない作品は`null`のままにしています。受賞作側は`data/laureates/*.json`から`representative_works`へ伝播し、受賞作以外は`major_works.json`に保持します。
 - **`jp_translation.status`**: `available` / `unavailable` / `original-ja`(芥川賞は常にこれ) / `n/a`(ノーベル賞や該当作品なしの回など、対象作品が存在しない場合)のいずれか。
 - **著作権への配慮**: `citation_ja`は受賞理由の要約であり、末尾に「(要旨)」を付けた意訳・要約のみを収録。ノーベル賞受賞記念講演の本文は一切収録せず、タイトルと公式サイトへのリンクのみ。作品本文の引用も行っていません。
 - **不確実な情報の扱い**: 訳者・出版社などの書誌情報が確認できない場合は、`status`のみ記録し`translator`/`publisher`は`null`のまま`note`に「書誌要確認」等を残しています。断定できない情報を推測で埋めていません。
@@ -83,6 +83,8 @@ scripts/
 4. 新しい賞の`laureates/*.json`を`scripts/gen_authors.py`の`AWARD_FILES`辞書に追加し、`python3 scripts/gen_authors.py`を実行して`data/authors.json`を再生成する。
 
 Phase 2の邦訳書誌は `python3 scripts/enrich_phase2_translations.py --fetch --apply` で照合・再適用できます。原題と著者が一致し、邦題・訳者・出版社を確認できたNDLレコードだけを採用します。
+
+受賞作以外の邦訳書誌は `python3 scripts/enrich_author_work_translations.py` で全作家をNDL Searchと照合し、`data/author_work_translations.json`へ保存します。その後 `python3 scripts/enrich_author_works.py` と `python3 scripts/gen_authors.py` を順に実行して表示データへ反映します。
 
 ## ローカルでの動作確認
 

@@ -40,7 +40,21 @@ function translationBadge(jpt) {
   if (jpt.status === 'unavailable' && jpt.note && jpt.note.includes('書誌')) return h('span', { class: 'badge' }, '書誌要確認');
   if (jpt.status === 'unavailable') return h('span', { class: 'badge badge-unavailable' }, '未邦訳');
   if (jpt.status === 'original-ja') return h('span', { class: 'badge badge-available' }, '日本語原文');
+  if (jpt.status === 'unverified') return h('span', { class: 'badge badge-unverified' }, '邦訳未確認');
   return null;
+}
+function workTranslationInfo(jpt) {
+  if (!jpt) return h('div', { class: 'work-translation is-unverified' }, '邦訳: 情報なし');
+  if (jpt.status === 'available') {
+    const bibliography = [jpt.translator, jpt.publisher, jpt.year].filter(Boolean).join(' / ');
+    return h('div', { class: 'work-translation is-available' }, [
+      `邦訳あり${jpt.title_ja ? `: 『${jpt.title_ja}』` : ''}`,
+      bibliography ? ` — ${bibliography}` : '',
+    ]);
+  }
+  if (jpt.status === 'original-ja') return h('div', { class: 'work-translation is-available' }, '邦訳: 日本語原著');
+  if (jpt.status === 'unavailable') return h('div', { class: 'work-translation is-unavailable' }, '邦訳なし（書誌確認済み）');
+  return h('div', { class: 'work-translation is-unverified' }, '邦訳: 書誌未確認（未邦訳とは限りません）');
 }
 function awardShortName(award) {
   return award ? award.name_ja : '';
@@ -433,20 +447,27 @@ async function viewAuthor(app, authorId) {
     }
   }
 
+  app.appendChild(h('h3', { class: 'page-title', style: 'font-size:1.05rem;' }, '受賞作以外の収録作品'));
   if (author.major_works && author.major_works.length) {
-    app.appendChild(h('h3', { class: 'page-title', style: 'font-size:1.05rem;' }, 'その他の主要作品'));
+    app.appendChild(h('p', { class: 'page-subtitle' }, `${author.major_works.length}作品（公開書誌で著者を確認できた作品）`));
     const list = h('ul', { class: 'major-works-list' });
     for (const w of author.major_works) {
       list.appendChild(h('li', {}, [
         h('div', {}, [
           h('span', { class: 'work-title' }, w.title_original || ''),
-          w.title_ja ? h('span', { class: 'work-meta' }, ` 『${w.title_ja}』`) : null,
           w.year ? h('span', { class: 'work-meta' }, ` (${w.year})`) : null,
+          translationBadge(w.jp_translation),
         ]),
+        workTranslationInfo(w.jp_translation),
         w.theme_summary_ja ? h('p', { class: 'work-summary' }, w.theme_summary_ja) : null,
+        w.source_urls && w.source_urls.length
+          ? h('a', { class: 'work-source', href: w.source_urls[0], target: '_blank', rel: 'noopener' }, '書誌出典')
+          : null,
       ]));
     }
     app.appendChild(list);
+  } else {
+    app.appendChild(h('div', { class: 'empty-state' }, '公開書誌で受賞作以外の作品を確認できませんでした。'));
   }
 }
 
@@ -555,7 +576,7 @@ async function viewStats(app) {
 /* ---------- service worker registration ---------- */
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
-    navigator.serviceWorker.register(`${APP_ROOT}sw.js?v=6-phase2-panel`, { updateViaCache: 'none' })
+    navigator.serviceWorker.register(`${APP_ROOT}sw.js?v=10-verified-author-translations`, { updateViaCache: 'none' })
       .then((registration) => registration.update())
       .catch(() => {});
   });

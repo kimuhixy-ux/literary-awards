@@ -20,6 +20,21 @@ for award in awards:
 duplicates={name:ids for name,ids in names.items() if len(ids)>1}
 if duplicates: errors.append(f"same author has multiple ids: {duplicates}")
 authors=json.loads((DATA/"authors.json").read_text()); print(f"8 awards / {sum(x[0] for x in expected.values())} records / {len(authors)} authors / {sum(a['is_multi_award'] for a in authors)} multi-award authors")
+major=json.loads((DATA/"major_works.json").read_text()); major_statuses={"available","original-ja","unverified"}
+author_ids={a["author_id"] for a in authors}
+if set(major) != author_ids: errors.append("major_works must contain every registered author")
+for aid, works in major.items():
+    awarded={w.get("work_original") for a in authors if a["author_id"] == aid for w in a.get("representative_works", [])}
+    for i, work in enumerate(works):
+        status=(work.get("jp_translation") or {}).get("status")
+        if status not in major_statuses: errors.append(f"major_works[{aid}][{i}]: bad translation status")
+        if status == "available":
+            jpt=work["jp_translation"]
+            if not all(jpt.get(k) for k in ("title_ja","translator","publisher")):
+                errors.append(f"major_works[{aid}][{i}]: incomplete verified bibliography")
+            if not any("ndlsearch.ndl.go.jp/" in u for u in work.get("source_urls", [])):
+                errors.append(f"major_works[{aid}][{i}]: verified bibliography lacks NDL source")
+        if work.get("title_original") in awarded: errors.append(f"major_works[{aid}][{i}]: award work duplicated")
 if errors:
     print("\n".join("ERROR: "+e for e in errors)); raise SystemExit(1)
 print("validation: OK")

@@ -11,6 +11,8 @@
   --color-badge-available-text: #3f5142;
   --color-badge-unavailable-bg: #f0e2df;
   --color-badge-unavailable-text: #8a4a3b;
+  --color-badge-unverified-bg: #eee7d5;
+  --color-badge-unverified-text: #665523;
   --color-header-bg: #3a3226;
   --color-header-text: #f4efe4;
   --shadow-card: 0 1px 3px rgba(58, 50, 38, 0.15);
@@ -34,6 +36,8 @@
     --color-badge-available-text: #b6d6ae;
     --color-badge-unavailable-bg: #3a2b26;
     --color-badge-unavailable-text: #d9a08e;
+    --color-badge-unverified-bg: #403922;
+    --color-badge-unverified-text: #e1cd8a;
     --color-header-bg: #14120d;
     --color-header-text: #e8dfc8;
     --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.4);
@@ -334,6 +338,11 @@ a:hover, a:focus {
   color: var(--color-badge-unavailable-text);
 }
 
+.badge-unverified {
+  background: var(--color-badge-unverified-bg);
+  color: var(--color-badge-unverified-text);
+}
+
 .laureate-detail {
   padding: 0 0.9rem 0.9rem;
   border-top: 1px solid var(--color-border);
@@ -446,6 +455,13 @@ a:hover, a:focus {
   color: var(--color-text-muted);
   font-size: 0.85rem;
 }
+
+.major-works-list .badge { margin-left: 0.5rem; }
+.work-source { display: inline-block; margin-top: 0.25rem; font-size: 0.78rem; }
+.work-translation { margin-top: 0.2rem; font-size: 0.82rem; font-weight: 600; }
+.work-translation.is-available { color: var(--color-badge-available-text); }
+.work-translation.is-unavailable { color: var(--color-badge-unavailable-text); }
+.work-translation.is-unverified { color: var(--color-badge-unverified-text); }
 
 /* Connections table */
 .connections-table-wrap {

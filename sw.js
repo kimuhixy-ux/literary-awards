@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'v7-phase2-bibliography';
+const CACHE_VERSION = 'v10-verified-author-translations';
 const CACHE_NAME = `literary-awards-${CACHE_VERSION}`;
 
 const PRECACHE_URLS = [
