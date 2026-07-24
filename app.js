@@ -37,6 +37,7 @@ function esc(s) {
 function translationBadge(jpt) {
   if (!jpt) return null;
   if (jpt.status === 'available') return h('span', { class: 'badge badge-available' }, '邦訳あり');
+  if (jpt.status === 'unavailable' && jpt.note && jpt.note.includes('書誌')) return h('span', { class: 'badge' }, '書誌要確認');
   if (jpt.status === 'unavailable') return h('span', { class: 'badge badge-unavailable' }, '未邦訳');
   if (jpt.status === 'original-ja') return h('span', { class: 'badge badge-available' }, '日本語原文');
   return null;
@@ -185,6 +186,12 @@ async function viewAward(app, awardId) {
   const filterBar = h('div', { class: 'filter-bar' });
   const countries = [...new Set(laureates.map((r) => r.country).filter(Boolean))].sort();
   const languages = [...new Set(laureates.map((r) => r.language).filter(Boolean))].sort();
+  const decades = [...new Set(laureates.map((r) => Math.floor(r.year / 10) * 10))].sort((a, b) => b - a);
+
+  const decadeSel = h('select', {}, [
+    h('option', { value: '' }, '年代: すべて'),
+    ...decades.map((d) => h('option', { value: String(d) }, `${d}年代`)),
+  ]);
 
   const countrySel = h('select', {}, [
     h('option', { value: '' }, '国・地域: すべて'),
@@ -194,25 +201,30 @@ async function viewAward(app, awardId) {
     h('option', { value: '' }, '言語: すべて'),
     ...languages.map((l) => h('option', { value: l }, l)),
   ]);
-  const transToggle = h('label', { class: 'filter-toggle' }, [
-    h('input', { type: 'checkbox' }),
-    '邦訳ありのみ',
+  const transSel = h('select', {}, [
+    h('option', { value: '' }, '邦訳: すべて'),
+    h('option', { value: 'available' }, '邦訳ありのみ'),
+    h('option', { value: 'unavailable' }, '未邦訳のみ'),
+    h('option', { value: 'unverified' }, '書誌要確認のみ'),
   ]);
+  filterBar.appendChild(decadeSel);
   filterBar.appendChild(countrySel);
   filterBar.appendChild(langSel);
-  filterBar.appendChild(transToggle);
+  filterBar.appendChild(transSel);
   app.appendChild(filterBar);
 
   const list = h('div', { class: 'laureate-list' });
   app.appendChild(list);
 
   function matchesFilter(r) {
+    if (decadeSel.value && Math.floor(r.year / 10) * 10 !== Number(decadeSel.value)) return false;
     if (countrySel.value && r.country !== countrySel.value) return false;
     if (langSel.value && r.language !== langSel.value) return false;
-    if (transToggle.querySelector('input').checked) {
-      const st = r.jp_translation && r.jp_translation.status;
-      if (!(st === 'available' || st === 'original-ja')) return false;
-    }
+    const jpt = r.jp_translation || {};
+    const unverified = jpt.status === 'unavailable' && jpt.note && jpt.note.includes('書誌');
+    if (transSel.value === 'available' && !(jpt.status === 'available' || jpt.status === 'original-ja')) return false;
+    if (transSel.value === 'unavailable' && !(jpt.status === 'unavailable' && !unverified)) return false;
+    if (transSel.value === 'unverified' && !unverified) return false;
     return true;
   }
 
@@ -232,9 +244,10 @@ async function viewAward(app, awardId) {
       list.appendChild(renderLaureateItem(r, award, authorMap, awards));
     }
   }
+  decadeSel.addEventListener('change', render);
   countrySel.addEventListener('change', render);
   langSel.addEventListener('change', render);
-  transToggle.querySelector('input').addEventListener('change', render);
+  transSel.addEventListener('change', render);
   render();
 
   renderRelated(app, award, awards);
@@ -534,7 +547,7 @@ async function viewStats(app) {
     numLabel.textContent = String(c.count);
     svg.appendChild(numLabel);
   });
-  app.appendChild(h('p', { class: 'page-subtitle' }, '各賞の受賞者数(Phase 1データのみ集計)。'));
+  app.appendChild(h('p', { class: 'page-subtitle' }, '収録する全8賞の受賞者数を集計。共同受賞は個別に数えています。'));
   app.appendChild(svg);
 }
 

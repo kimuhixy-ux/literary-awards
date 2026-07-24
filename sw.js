@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'v3';
+const CACHE_VERSION = 'v4-phase2';
 const CACHE_NAME = `literary-awards-${CACHE_VERSION}`;
 
 const PRECACHE_URLS = [
@@ -15,6 +15,10 @@ const PRECACHE_URLS = [
   './data/laureates/booker.json',
   './data/laureates/intl-booker.json',
   './data/laureates/akutagawa.json'
+  ,'./data/laureates/goncourt.json'
+  ,'./data/laureates/pulitzer-fiction.json'
+  ,'./data/laureates/national-book.json'
+  ,'./data/laureates/cervantes.json'
 ];
 
 self.addEventListener('install', (event) => {

@@ -71,7 +71,7 @@
     "founded": 1903,
     "organizer": "アカデミー・ゴンクール",
     "phase": 2,
-    "data_file": null,
+    "data_file": "laureates/goncourt.json",
     "description": "フランス語で書かれたその年最も優れた「想像力豊かな散文作品」に贈られる、フランスで最も権威ある文学賞。副賞は象徴的に10ユーロのみ。",
     "official_url": "https://www.academie-goncourt.fr/",
     "related_awards": [
@@ -86,7 +86,7 @@
     "founded": 1918,
     "organizer": "コロンビア大学(ピュリッツァー賞委員会)",
     "phase": 2,
-    "data_file": null,
+    "data_file": "laureates/pulitzer-fiction.json",
     "description": "アメリカ人作家によるその年最も優れた小説に贈られる。該当作品なしと判断された年もある。",
     "official_url": "https://www.pulitzer.org/prize-categories/fiction",
     "related_awards": [
@@ -101,7 +101,7 @@
     "founded": 1950,
     "organizer": "全米図書財団(National Book Foundation)",
     "phase": 2,
-    "data_file": null,
+    "data_file": "laureates/national-book.json",
     "description": "アメリカで出版されたその年最も優れたフィクション作品に贈られる。",
     "official_url": "https://www.nationalbook.org/",
     "related_awards": [
@@ -116,7 +116,7 @@
     "founded": 1976,
     "organizer": "スペイン文化省",
     "phase": 2,
-    "data_file": null,
+    "data_file": "laureates/cervantes.json",
     "description": "スペイン語(カスティーリャ語)文学に対する業績に贈られる、スペイン語圏で最も権威ある文学賞。スペイン国王が授与する。",
     "official_url": "https://www.cultura.gob.es/cultura/areas/libro/mc/premio-cervantes.html",
     "related_awards": [

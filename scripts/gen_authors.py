@@ -10,6 +10,10 @@ AWARD_FILES = {
     "booker": "laureates/booker.json",
     "intl-booker": "laureates/intl-booker.json",
     "akutagawa": "laureates/akutagawa.json",
+    "goncourt": "laureates/goncourt.json",
+    "pulitzer-fiction": "laureates/pulitzer-fiction.json",
+    "national-book": "laureates/national-book.json",
+    "cervantes": "laureates/cervantes.json",
 }
 
 with open(f"{BASE}/major_works.json", encoding="utf-8") as f:
