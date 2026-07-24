@@ -152,7 +152,8 @@ async function viewHome(app) {
       h('h3', {}, award.name_ja),
       h('p', { class: 'organizer' }, `${award.country} / ${award.founded}年〜`),
     ]);
-    if (award.phase === 2 || !award.data_file) {
+    // 開発フェーズ番号ではなく、実データの有無だけで準備中を判定する。
+    if (!award.data_file) {
       card.appendChild(h('p', { class: 'phase-note' }, '準備中(Phase 2)'));
     }
     grid.appendChild(card);
@@ -554,7 +555,7 @@ async function viewStats(app) {
 /* ---------- service worker registration ---------- */
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
-    navigator.serviceWorker.register(`${APP_ROOT}sw.js?v=5-cache-refresh`, { updateViaCache: 'none' })
+    navigator.serviceWorker.register(`${APP_ROOT}sw.js?v=6-phase2-panel`, { updateViaCache: 'none' })
       .then((registration) => registration.update())
       .catch(() => {});
   });

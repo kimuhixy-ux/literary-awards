@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'v5-cache-refresh';
+const CACHE_VERSION = 'v6-phase2-panel';
 const CACHE_NAME = `literary-awards-${CACHE_VERSION}`;
 
 const PRECACHE_URLS = [
