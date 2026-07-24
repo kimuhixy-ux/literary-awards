@@ -452,6 +452,8 @@ async function viewAuthor(app, authorId) {
     app.appendChild(h('p', { class: 'page-subtitle' }, `${author.major_works.length}作品（公開書誌で著者を確認できた作品）`));
     const list = h('ul', { class: 'major-works-list' });
     for (const w of author.major_works) {
+      const source = (w.source_urls || []).find((url) => url.includes('ndlsearch.ndl.go.jp'))
+        || (w.source_urls || [])[0];
       list.appendChild(h('li', {}, [
         h('div', {}, [
           h('span', { class: 'work-title' }, w.title_original || ''),
@@ -460,8 +462,8 @@ async function viewAuthor(app, authorId) {
         ]),
         workTranslationInfo(w.jp_translation),
         w.theme_summary_ja ? h('p', { class: 'work-summary' }, w.theme_summary_ja) : null,
-        w.source_urls && w.source_urls.length
-          ? h('a', { class: 'work-source', href: w.source_urls[0], target: '_blank', rel: 'noopener' }, '書誌出典')
+        source
+          ? h('a', { class: 'work-source', href: source, target: '_blank', rel: 'noopener' }, '書誌出典')
           : null,
       ]));
     }
@@ -576,7 +578,7 @@ async function viewStats(app) {
 /* ---------- service worker registration ---------- */
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
-    navigator.serviceWorker.register(`${APP_ROOT}sw.js?v=10-verified-author-translations`, { updateViaCache: 'none' })
+    navigator.serviceWorker.register(`${APP_ROOT}sw.js?v=11-multilingual-work-matching`, { updateViaCache: 'none' })
       .then((registration) => registration.update())
       .catch(() => {});
   });

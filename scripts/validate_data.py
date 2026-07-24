@@ -21,6 +21,9 @@ duplicates={name:ids for name,ids in names.items() if len(ids)>1}
 if duplicates: errors.append(f"same author has multiple ids: {duplicates}")
 authors=json.loads((DATA/"authors.json").read_text()); print(f"8 awards / {sum(x[0] for x in expected.values())} records / {len(authors)} authors / {sum(a['is_multi_award'] for a in authors)} multi-award authors")
 major=json.loads((DATA/"major_works.json").read_text()); major_statuses={"available","original-ja","unverified"}
+overrides=json.loads((DATA/"author_work_translations.json").read_text())
+aliases=json.loads((DATA/"work_aliases.json").read_text())
+exclusions=json.loads((DATA/"work_exclusions.json").read_text())
 author_ids={a["author_id"] for a in authors}
 if set(major) != author_ids: errors.append("major_works must contain every registered author")
 for aid, works in major.items():
@@ -35,6 +38,18 @@ for aid, works in major.items():
             if not any("ndlsearch.ndl.go.jp/" in u for u in work.get("source_urls", [])):
                 errors.append(f"major_works[{aid}][{i}]: verified bibliography lacks NDL source")
         if work.get("title_original") in awarded: errors.append(f"major_works[{aid}][{i}]: award work duplicated")
+        qids={u.rsplit("/",1)[-1] for u in work.get("source_urls",[]) if "wikidata.org/wiki/Q" in u}
+        if qids & set(exclusions.get(aid,[])): errors.append(f"major_works[{aid}][{i}]: excluded work present")
+work_keys={f"{aid}:{work['title_original']}" for aid,works in major.items() for work in works}
+if set(overrides)-work_keys: errors.append(f"orphan translation overrides: {sorted(set(overrides)-work_keys)}")
+work_qids={u.rsplit("/",1)[-1] for works in major.values() for work in works for u in work.get("source_urls",[]) if "wikidata.org/wiki/Q" in u}
+if work_qids-set(aliases): errors.append(f"work aliases missing: {len(work_qids-set(aliases))}")
+mo_works={work["title_original"]:work for work in major.get("mo-yan",[])}
+if (mo_works.get("Hong gaoliang jiazu",{}).get("jp_translation") or {}).get("title_ja") != "赤い高粱":
+    errors.append("multilingual regression: Hong gaoliang jiazu must resolve to 赤い高粱")
+if "Red Sorghum" in mo_works: errors.append("equivalence regression: Red Sorghum duplicate remains")
+if any(work.get("title_original")=="A General History of the Pyrates" for work in major.get("charles-johnson",[])):
+    errors.append("author identity regression: Captain Charles Johnson work present")
 if errors:
     print("\n".join("ERROR: "+e for e in errors)); raise SystemExit(1)
 print("validation: OK")

@@ -41,7 +41,7 @@ scripts/
 
 全8賞を収録済みです。合計795レコード、684作家を収録し、40名の複数賞受賞作家を自動検出します。ピュリッツァー賞の「該当なし」10年、ゴンクール賞1906年・セルバンテス賞1979年の共同受賞、全米図書賞の部門分割期も保持しています。
 
-フェーズ2の邦訳情報は国立国会図書館サーチで原題・著者を照合し、確認できた受賞作に邦題・訳者・出版社・刊行年・個別書誌URLを収録しています。受賞作以外も全684作家をデータ上の対象とし、Wikidataで著者関係を確認できた作品を収録しています。受賞作以外はNDL Searchの著者書誌と原題を完全照合し、確認できた961作品を「邦訳あり」として収録しています。個別書誌を確認できない作品は未邦訳と断定せず「邦訳: 書誌未確認（未邦訳とは限りません）」、日本語原著は「日本語原著」と表示します。
+フェーズ2の邦訳情報は国立国会図書館サーチで原題・著者を照合し、確認できた受賞作に邦題・訳者・出版社・刊行年・個別書誌URLを収録しています。受賞作以外も全684作家をデータ上の対象とし、Wikidataで著者関係を確認できた作品を収録しています。受賞作以外はWikidataの多言語作品名・別名と、NDL Searchの英語名・日本語／原語名による作家書誌および作品単位検索を照合し、確認できた1,588作品を「邦訳あり」として収録しています。個別書誌を確認できない作品は未邦訳と断定せず「邦訳: 書誌未確認（未邦訳とは限りません）」、日本語原著は「日本語原著」と表示します。同一作品の原語題・ローマ字題・英訳題は`data/work_equivalences.json`により統合します。
 
 ## データ設計の要点
 
@@ -84,7 +84,7 @@ scripts/
 
 Phase 2の邦訳書誌は `python3 scripts/enrich_phase2_translations.py --fetch --apply` で照合・再適用できます。原題と著者が一致し、邦題・訳者・出版社を確認できたNDLレコードだけを採用します。
 
-受賞作以外の邦訳書誌は `python3 scripts/enrich_author_work_translations.py` で全作家をNDL Searchと照合し、`data/author_work_translations.json`へ保存します。その後 `python3 scripts/enrich_author_works.py` と `python3 scripts/gen_authors.py` を順に実行して表示データへ反映します。
+受賞作以外の邦訳書誌は、まず `python3 scripts/fetch_work_aliases.py` でWikidataから多言語作品名を取得します。続いて `python3 scripts/enrich_author_work_translations.py` で全作家の多言語書誌を照合し、`--direct --japanese-title-only` を付けて日本語題が判明している未確認作品を作品単位で再検索します。結果は `data/author_work_translations.json`、再開用の照合履歴は `data/author_work_translation_checks.json` に保存されます。その後 `python3 scripts/enrich_author_works.py` と `python3 scripts/gen_authors.py` を順に実行して表示データへ反映します。
 
 ## ローカルでの動作確認
 
