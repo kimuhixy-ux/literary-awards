@@ -1234,7 +1234,8 @@
         "award_id": "pulitzer-fiction",
         "year": 1926,
         "work_original": "Arrowsmith",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ドクターアロースミス"
       },
       {
         "award_id": "nobel",
@@ -1253,8 +1254,8 @@
         "work_original": "Arrowsmith",
         "award_id": "pulitzer-fiction",
         "year": 1926,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ドクターアロースミス",
         "theme_summary_ja": null
       }
     ],
@@ -1553,7 +1554,8 @@
         "award_id": "pulitzer-fiction",
         "year": 1932,
         "work_original": "The Good Earth",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "大地"
       },
       {
         "award_id": "nobel",
@@ -1572,8 +1574,8 @@
         "work_original": "The Good Earth",
         "award_id": "pulitzer-fiction",
         "year": 1932,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "大地",
         "theme_summary_ja": null
       }
     ],
@@ -1901,13 +1903,15 @@
         "award_id": "pulitzer-fiction",
         "year": 1955,
         "work_original": "A Fable",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "寓話"
       },
       {
         "award_id": "national-book",
         "year": 1955,
         "work_original": "A Fable",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "寓話"
       },
       {
         "award_id": "pulitzer-fiction",
@@ -1937,8 +1941,8 @@
         "work_original": "A Fable",
         "award_id": "pulitzer-fiction",
         "year": 1955,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "寓話",
         "theme_summary_ja": null
       },
       {
@@ -2503,7 +2507,8 @@
         "award_id": "pulitzer-fiction",
         "year": 1940,
         "work_original": "The Grapes of Wrath",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "怒りの葡萄"
       },
       {
         "award_id": "nobel",
@@ -2522,8 +2527,8 @@
         "work_original": "The Grapes of Wrath",
         "award_id": "pulitzer-fiction",
         "year": 1940,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "怒りの葡萄",
         "theme_summary_ja": null
       }
     ],
@@ -3206,13 +3211,15 @@
         "award_id": "national-book",
         "year": 1954,
         "work_original": "The Adventures of Augie March",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "オーギー・マーチの冒険 . サン・ペドロ号の遭難"
       },
       {
         "award_id": "national-book",
         "year": 1965,
         "work_original": "Herzog",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ハーツォグ 上"
       },
       {
         "award_id": "national-book",
@@ -3229,7 +3236,8 @@
         "award_id": "pulitzer-fiction",
         "year": 1976,
         "work_original": "Humboldt's Gift",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "フンボルトの贈り物"
       }
     ],
     "is_multi_award": true,
@@ -3244,8 +3252,8 @@
         "work_original": "The Adventures of Augie March",
         "award_id": "national-book",
         "year": 1954,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "オーギー・マーチの冒険 . サン・ペドロ号の遭難",
         "theme_summary_ja": null
       },
       {
@@ -3253,8 +3261,8 @@
         "work_original": "Herzog",
         "award_id": "national-book",
         "year": 1965,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ハーツォグ 上",
         "theme_summary_ja": null
       },
       {
@@ -3271,8 +3279,8 @@
         "work_original": "Humboldt's Gift",
         "award_id": "pulitzer-fiction",
         "year": 1976,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "フンボルトの贈り物",
         "theme_summary_ja": null
       }
     ],
@@ -4126,7 +4134,8 @@
         "award_id": "pulitzer-fiction",
         "year": 1988,
         "work_original": "Beloved",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ビラヴド(愛されし者). 上"
       },
       {
         "award_id": "nobel",
@@ -4145,8 +4154,8 @@
         "work_original": "Beloved",
         "award_id": "pulitzer-fiction",
         "year": 1988,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ビラヴド(愛されし者). 上",
         "theme_summary_ja": null
       }
     ],
@@ -5150,7 +5159,8 @@
         "award_id": "goncourt",
         "year": 1978,
         "work_original": "Rue des boutiques obscures",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "暗いブティック通り"
       },
       {
         "award_id": "nobel",
@@ -5169,8 +5179,8 @@
         "work_original": "Rue des boutiques obscures",
         "award_id": "goncourt",
         "year": 1978,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "暗いブティック通り",
         "theme_summary_ja": null
       }
     ],
@@ -8781,7 +8791,8 @@
         "award_id": "national-book",
         "year": 1960,
         "work_original": "Goodbye, Columbus",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "もう一つの国 . さようなら コロンバス"
       },
       {
         "award_id": "national-book",
@@ -8813,8 +8824,8 @@
         "work_original": "Goodbye, Columbus",
         "award_id": "national-book",
         "year": 1960,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "もう一つの国 . さようなら コロンバス",
         "theme_summary_ja": null
       },
       {
@@ -15855,7 +15866,8 @@
         "award_id": "goncourt",
         "year": 1919,
         "work_original": "A l'ombre des jeunes filles en fleurs",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "花咲ける乙女の陰に"
       }
     ],
     "is_multi_award": false,
@@ -15868,8 +15880,8 @@
         "work_original": "A l'ombre des jeunes filles en fleurs",
         "award_id": "goncourt",
         "year": 1919,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "花咲ける乙女の陰に",
         "theme_summary_ja": null
       }
     ]
@@ -16261,7 +16273,8 @@
         "award_id": "goncourt",
         "year": 1933,
         "work_original": "La Condition humaine",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "人間の条件 ; 王道"
       }
     ],
     "is_multi_award": false,
@@ -16274,8 +16287,8 @@
         "work_original": "La Condition humaine",
         "award_id": "goncourt",
         "year": 1933,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "人間の条件 ; 王道",
         "theme_summary_ja": null
       }
     ]
@@ -16406,7 +16419,8 @@
         "award_id": "goncourt",
         "year": 1938,
         "work_original": "L'Araigne",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "蜘蛛"
       }
     ],
     "is_multi_award": false,
@@ -16419,8 +16433,8 @@
         "work_original": "L'Araigne",
         "award_id": "goncourt",
         "year": 1938,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "蜘蛛",
         "theme_summary_ja": null
       }
     ]
@@ -16783,7 +16797,8 @@
         "award_id": "goncourt",
         "year": 1951,
         "work_original": "Le Rivage des Syrtes",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ブランショ/グラック"
       }
     ],
     "is_multi_award": false,
@@ -16796,8 +16811,8 @@
         "work_original": "Le Rivage des Syrtes",
         "award_id": "goncourt",
         "year": 1951,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ブランショ/グラック",
         "theme_summary_ja": null
       }
     ]
@@ -16841,7 +16856,8 @@
         "award_id": "goncourt",
         "year": 1953,
         "work_original": "Les Bêtes",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "けものたち ; 死者の時"
       }
     ],
     "is_multi_award": false,
@@ -16854,8 +16870,8 @@
         "work_original": "Les Bêtes",
         "award_id": "goncourt",
         "year": 1953,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "けものたち ; 死者の時",
         "theme_summary_ja": null
       }
     ]
@@ -16870,7 +16886,8 @@
         "award_id": "goncourt",
         "year": 1954,
         "work_original": "Les Mandarins",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "レ・マンダラン"
       }
     ],
     "is_multi_award": false,
@@ -16883,8 +16900,8 @@
         "work_original": "Les Mandarins",
         "award_id": "goncourt",
         "year": 1954,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "レ・マンダラン",
         "theme_summary_ja": null
       }
     ]
@@ -16928,7 +16945,8 @@
         "award_id": "goncourt",
         "year": 1956,
         "work_original": "Les racines du ciel",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "自由の大地 : 天国の根"
       }
     ],
     "is_multi_award": false,
@@ -16941,8 +16959,8 @@
         "work_original": "Les racines du ciel",
         "award_id": "goncourt",
         "year": 1956,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "自由の大地 : 天国の根",
         "theme_summary_ja": null
       }
     ]
@@ -16957,7 +16975,8 @@
         "award_id": "goncourt",
         "year": 1957,
         "work_original": "La Loi",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "掟"
       }
     ],
     "is_multi_award": false,
@@ -16970,8 +16989,8 @@
         "work_original": "La Loi",
         "award_id": "goncourt",
         "year": 1957,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "掟",
         "theme_summary_ja": null
       }
     ]
@@ -17247,7 +17266,8 @@
         "award_id": "goncourt",
         "year": 1967,
         "work_original": "La Marge",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "余白の街 新装版"
       }
     ],
     "is_multi_award": false,
@@ -17260,8 +17280,8 @@
         "work_original": "La Marge",
         "award_id": "goncourt",
         "year": 1967,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "余白の街 新装版",
         "theme_summary_ja": null
       }
     ]
@@ -17334,7 +17354,8 @@
         "award_id": "goncourt",
         "year": 1970,
         "work_original": "Le Roi des Aulnes",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "魔王. 上"
       }
     ],
     "is_multi_award": false,
@@ -17347,8 +17368,8 @@
         "work_original": "Le Roi des Aulnes",
         "award_id": "goncourt",
         "year": 1970,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "魔王. 上",
         "theme_summary_ja": null
       }
     ]
@@ -17421,7 +17442,8 @@
         "award_id": "goncourt",
         "year": 1973,
         "work_original": "L'Ogre",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "鬼"
       }
     ],
     "is_multi_award": false,
@@ -17434,8 +17456,8 @@
         "work_original": "L'Ogre",
         "award_id": "goncourt",
         "year": 1973,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "鬼",
         "theme_summary_ja": null
       }
     ]
@@ -17508,7 +17530,8 @@
         "award_id": "goncourt",
         "year": 1976,
         "work_original": "Les Flamboyants",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "火炎樹"
       }
     ],
     "is_multi_award": false,
@@ -17521,8 +17544,8 @@
         "work_original": "Les Flamboyants",
         "award_id": "goncourt",
         "year": 1976,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "火炎樹",
         "theme_summary_ja": null
       }
     ]
@@ -17711,7 +17734,8 @@
         "award_id": "goncourt",
         "year": 1984,
         "work_original": "L'Amant",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "愛人"
       }
     ],
     "is_multi_award": false,
@@ -17724,8 +17748,8 @@
         "work_original": "L'Amant",
         "award_id": "goncourt",
         "year": 1984,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "愛人",
         "theme_summary_ja": null
       }
     ]
@@ -17885,7 +17909,8 @@
         "award_id": "goncourt",
         "year": 1990,
         "work_original": "Les Champs d'honneur",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "名誉の戦場"
       }
     ],
     "is_multi_award": false,
@@ -17898,8 +17923,8 @@
         "work_original": "Les Champs d'honneur",
         "award_id": "goncourt",
         "year": 1990,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "名誉の戦場",
         "theme_summary_ja": null
       }
     ]
@@ -17943,7 +17968,8 @@
         "award_id": "goncourt",
         "year": 1992,
         "work_original": "Texaco",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "テキサコ. 上"
       }
     ],
     "is_multi_award": false,
@@ -17956,8 +17982,8 @@
         "work_original": "Texaco",
         "award_id": "goncourt",
         "year": 1992,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "テキサコ. 上",
         "theme_summary_ja": null
       }
     ]
@@ -18001,7 +18027,8 @@
         "award_id": "goncourt",
         "year": 1994,
         "work_original": "Un Aller simple",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "片道切符"
       }
     ],
     "is_multi_award": false,
@@ -18014,8 +18041,8 @@
         "work_original": "Un Aller simple",
         "award_id": "goncourt",
         "year": 1994,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "片道切符",
         "theme_summary_ja": null
       }
     ]
@@ -18030,7 +18057,8 @@
         "award_id": "goncourt",
         "year": 1995,
         "work_original": "Le Testament français",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "フランスの遺言書"
       }
     ],
     "is_multi_award": false,
@@ -18043,8 +18071,8 @@
         "work_original": "Le Testament français",
         "award_id": "goncourt",
         "year": 1995,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "フランスの遺言書",
         "theme_summary_ja": null
       }
     ]
@@ -18059,7 +18087,8 @@
         "award_id": "goncourt",
         "year": 1996,
         "work_original": "Le Chasseur Zéro",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ゼロ戦 : 沖縄・パリ・幻の愛"
       }
     ],
     "is_multi_award": false,
@@ -18072,8 +18101,8 @@
         "work_original": "Le Chasseur Zéro",
         "award_id": "goncourt",
         "year": 1996,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ゼロ戦 : 沖縄・パリ・幻の愛",
         "theme_summary_ja": null
       }
     ]
@@ -18117,7 +18146,8 @@
         "award_id": "goncourt",
         "year": 1998,
         "work_original": "Confidence pour confidence",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "うちあけ話"
       }
     ],
     "is_multi_award": false,
@@ -18130,8 +18160,8 @@
         "work_original": "Confidence pour confidence",
         "award_id": "goncourt",
         "year": 1998,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "うちあけ話",
         "theme_summary_ja": null
       }
     ]
@@ -18146,7 +18176,8 @@
         "award_id": "goncourt",
         "year": 1999,
         "work_original": "Je m'en vais",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ぼくは行くよ"
       }
     ],
     "is_multi_award": false,
@@ -18159,8 +18190,8 @@
         "work_original": "Je m'en vais",
         "award_id": "goncourt",
         "year": 1999,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ぼくは行くよ",
         "theme_summary_ja": null
       }
     ]
@@ -18175,7 +18206,8 @@
         "award_id": "goncourt",
         "year": 2000,
         "work_original": "Ingrid Caven",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "黄金の声の少女"
       }
     ],
     "is_multi_award": false,
@@ -18188,8 +18220,8 @@
         "work_original": "Ingrid Caven",
         "award_id": "goncourt",
         "year": 2000,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "黄金の声の少女",
         "theme_summary_ja": null
       }
     ]
@@ -18204,7 +18236,8 @@
         "award_id": "goncourt",
         "year": 2001,
         "work_original": "Rouge Brésil",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ブラジルの赤"
       }
     ],
     "is_multi_award": false,
@@ -18217,8 +18250,8 @@
         "work_original": "Rouge Brésil",
         "award_id": "goncourt",
         "year": 2001,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ブラジルの赤",
         "theme_summary_ja": null
       }
     ]
@@ -18233,7 +18266,8 @@
         "award_id": "goncourt",
         "year": 2002,
         "work_original": "Les Ombres errantes",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "さまよえる影"
       }
     ],
     "is_multi_award": false,
@@ -18246,8 +18280,8 @@
         "work_original": "Les Ombres errantes",
         "award_id": "goncourt",
         "year": 2002,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "さまよえる影",
         "theme_summary_ja": null
       }
     ]
@@ -18291,7 +18325,8 @@
         "award_id": "goncourt",
         "year": 2004,
         "work_original": "Le Soleil des Scorta",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "スコルタの太陽"
       }
     ],
     "is_multi_award": false,
@@ -18304,8 +18339,8 @@
         "work_original": "Le Soleil des Scorta",
         "award_id": "goncourt",
         "year": 2004,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "スコルタの太陽",
         "theme_summary_ja": null
       }
     ]
@@ -18349,7 +18384,8 @@
         "award_id": "goncourt",
         "year": 2006,
         "work_original": "Les Bienveillantes",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "慈しみの女神たち. 上"
       }
     ],
     "is_multi_award": false,
@@ -18362,8 +18398,8 @@
         "work_original": "Les Bienveillantes",
         "award_id": "goncourt",
         "year": 2006,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "慈しみの女神たち. 上",
         "theme_summary_ja": null
       }
     ]
@@ -18378,7 +18414,8 @@
         "award_id": "goncourt",
         "year": 2007,
         "work_original": "Alabama Song",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ゼルダ最後のロマンティシスト"
       }
     ],
     "is_multi_award": false,
@@ -18391,8 +18428,8 @@
         "work_original": "Alabama Song",
         "award_id": "goncourt",
         "year": 2007,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ゼルダ最後のロマンティシスト",
         "theme_summary_ja": null
       }
     ]
@@ -18436,7 +18473,8 @@
         "award_id": "goncourt",
         "year": 2009,
         "work_original": "Trois femmes puissantes",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "三人の逞しい女"
       }
     ],
     "is_multi_award": false,
@@ -18449,8 +18487,8 @@
         "work_original": "Trois femmes puissantes",
         "award_id": "goncourt",
         "year": 2009,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "三人の逞しい女",
         "theme_summary_ja": null
       }
     ]
@@ -18465,7 +18503,8 @@
         "award_id": "goncourt",
         "year": 2010,
         "work_original": "La Carte et le territoire",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "地図と領土"
       }
     ],
     "is_multi_award": false,
@@ -18478,8 +18517,8 @@
         "work_original": "La Carte et le territoire",
         "award_id": "goncourt",
         "year": 2010,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "地図と領土",
         "theme_summary_ja": null
       }
     ]
@@ -18552,7 +18591,8 @@
         "award_id": "goncourt",
         "year": 2013,
         "work_original": "Au revoir là-haut",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "天国でまた会おう"
       }
     ],
     "is_multi_award": false,
@@ -18565,8 +18605,8 @@
         "work_original": "Au revoir là-haut",
         "award_id": "goncourt",
         "year": 2013,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "天国でまた会おう",
         "theme_summary_ja": null
       }
     ]
@@ -18639,7 +18679,8 @@
         "award_id": "goncourt",
         "year": 2016,
         "work_original": "Chanson douce",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ヌヌ完璧なベビーシッター"
       }
     ],
     "is_multi_award": false,
@@ -18652,8 +18693,8 @@
         "work_original": "Chanson douce",
         "award_id": "goncourt",
         "year": 2016,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ヌヌ完璧なベビーシッター",
         "theme_summary_ja": null
       }
     ]
@@ -18668,7 +18709,8 @@
         "award_id": "goncourt",
         "year": 2017,
         "work_original": "L'Ordre du jour",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "その日の予定 : 事実にもとづく物語"
       }
     ],
     "is_multi_award": false,
@@ -18681,8 +18723,8 @@
         "work_original": "L'Ordre du jour",
         "award_id": "goncourt",
         "year": 2017,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "その日の予定 : 事実にもとづく物語",
         "theme_summary_ja": null
       }
     ]
@@ -18697,7 +18739,8 @@
         "award_id": "goncourt",
         "year": 2018,
         "work_original": "Leurs enfants après eux",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "最果ての子供たち"
       }
     ],
     "is_multi_award": false,
@@ -18710,8 +18753,8 @@
         "work_original": "Leurs enfants après eux",
         "award_id": "goncourt",
         "year": 2018,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "最果ての子供たち",
         "theme_summary_ja": null
       }
     ]
@@ -18755,7 +18798,8 @@
         "award_id": "goncourt",
         "year": 2020,
         "work_original": "L'Anomalie",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "異常(アノマリー)"
       }
     ],
     "is_multi_award": false,
@@ -18768,8 +18812,8 @@
         "work_original": "L'Anomalie",
         "award_id": "goncourt",
         "year": 2020,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "異常(アノマリー)",
         "theme_summary_ja": null
       }
     ]
@@ -18784,7 +18828,8 @@
         "award_id": "goncourt",
         "year": 2021,
         "work_original": "La plus secrète mémoire des hommes",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "人類の深奥に秘められた記憶"
       }
     ],
     "is_multi_award": false,
@@ -18797,8 +18842,8 @@
         "work_original": "La plus secrète mémoire des hommes",
         "award_id": "goncourt",
         "year": 2021,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "人類の深奥に秘められた記憶",
         "theme_summary_ja": null
       }
     ]
@@ -18813,7 +18858,8 @@
         "award_id": "goncourt",
         "year": 2022,
         "work_original": "Vivre Vite",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "生き急ぐ"
       }
     ],
     "is_multi_award": false,
@@ -18826,8 +18872,8 @@
         "work_original": "Vivre Vite",
         "award_id": "goncourt",
         "year": 2022,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "生き急ぐ",
         "theme_summary_ja": null
       }
     ]
@@ -18842,7 +18888,8 @@
         "award_id": "goncourt",
         "year": 2023,
         "work_original": "Veiller sur elle",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "彼女を見守る"
       }
     ],
     "is_multi_award": false,
@@ -18855,8 +18902,8 @@
         "work_original": "Veiller sur elle",
         "award_id": "goncourt",
         "year": 2023,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "彼女を見守る",
         "theme_summary_ja": null
       }
     ]
@@ -19002,7 +19049,8 @@
         "award_id": "pulitzer-fiction",
         "year": 1921,
         "work_original": "The Age of Innocence",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "エイジ・オブ・イノセンス : 汚れなき情事"
       }
     ],
     "is_multi_award": false,
@@ -19015,8 +19063,8 @@
         "work_original": "The Age of Innocence",
         "award_id": "pulitzer-fiction",
         "year": 1921,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "エイジ・オブ・イノセンス : 汚れなき情事",
         "theme_summary_ja": null
       }
     ]
@@ -19147,7 +19195,8 @@
         "award_id": "pulitzer-fiction",
         "year": 1928,
         "work_original": "The Bridge of San Luis Rey",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ワインズバーグ物語 ; 貧乏白人 . サン・ルイス・レイの橋"
       },
       {
         "award_id": "national-book",
@@ -19167,8 +19216,8 @@
         "work_original": "The Bridge of San Luis Rey",
         "award_id": "pulitzer-fiction",
         "year": 1928,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ワインズバーグ物語 ; 貧乏白人 . サン・ルイス・レイの橋",
         "theme_summary_ja": null
       },
       {
@@ -19395,7 +19444,8 @@
         "award_id": "pulitzer-fiction",
         "year": 1937,
         "work_original": "Gone with the Wind",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "風と共に去りぬ"
       }
     ],
     "is_multi_award": false,
@@ -19408,8 +19458,8 @@
         "work_original": "Gone with the Wind",
         "award_id": "pulitzer-fiction",
         "year": 1937,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "風と共に去りぬ",
         "theme_summary_ja": null
       }
     ]
@@ -19453,7 +19503,8 @@
         "award_id": "pulitzer-fiction",
         "year": 1939,
         "work_original": "The Yearling",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "イアリング"
       }
     ],
     "is_multi_award": false,
@@ -19466,8 +19517,8 @@
         "work_original": "The Yearling",
         "award_id": "pulitzer-fiction",
         "year": 1939,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "イアリング",
         "theme_summary_ja": null
       }
     ]
@@ -19511,7 +19562,8 @@
         "award_id": "pulitzer-fiction",
         "year": 1943,
         "work_original": "Dragon's Teeth",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ラニー・バッドの巡礼 : ラニー・バッド第3部"
       }
     ],
     "is_multi_award": false,
@@ -19524,8 +19576,8 @@
         "work_original": "Dragon's Teeth",
         "award_id": "pulitzer-fiction",
         "year": 1943,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ラニー・バッドの巡礼 : ラニー・バッド第3部",
         "theme_summary_ja": null
       }
     ]
@@ -19598,7 +19650,8 @@
         "award_id": "pulitzer-fiction",
         "year": 1947,
         "work_original": "All the King's Men",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "すべて王の臣"
       }
     ],
     "is_multi_award": false,
@@ -19611,8 +19664,8 @@
         "work_original": "All the King's Men",
         "award_id": "pulitzer-fiction",
         "year": 1947,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "すべて王の臣",
         "theme_summary_ja": null
       }
     ]
@@ -19685,7 +19738,8 @@
         "award_id": "pulitzer-fiction",
         "year": 1950,
         "work_original": "The Way West",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "四季の変化 . 西部への道"
       }
     ],
     "is_multi_award": false,
@@ -19698,8 +19752,8 @@
         "work_original": "The Way West",
         "award_id": "pulitzer-fiction",
         "year": 1950,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "四季の変化 . 西部への道",
         "theme_summary_ja": null
       }
     ]
@@ -19759,7 +19813,8 @@
         "award_id": "pulitzer-fiction",
         "year": 1952,
         "work_original": "The Caine Mutiny",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ケイン号の叛乱"
       }
     ],
     "is_multi_award": false,
@@ -19772,8 +19827,8 @@
         "work_original": "The Caine Mutiny",
         "award_id": "pulitzer-fiction",
         "year": 1952,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ケイン号の叛乱",
         "theme_summary_ja": null
       }
     ]
@@ -19904,7 +19959,8 @@
         "award_id": "pulitzer-fiction",
         "year": 1961,
         "work_original": "To Kill a Mockingbird",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "アラバマ物語"
       }
     ],
     "is_multi_award": false,
@@ -19917,8 +19973,8 @@
         "work_original": "To Kill a Mockingbird",
         "award_id": "pulitzer-fiction",
         "year": 1961,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "アラバマ物語",
         "theme_summary_ja": null
       }
     ]
@@ -19962,7 +20018,8 @@
         "award_id": "pulitzer-fiction",
         "year": 1965,
         "work_original": "The Keepers of the House",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ハウランド家の人びと"
       }
     ],
     "is_multi_award": false,
@@ -19975,8 +20032,8 @@
         "work_original": "The Keepers of the House",
         "award_id": "pulitzer-fiction",
         "year": 1965,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ハウランド家の人びと",
         "theme_summary_ja": null
       }
     ]
@@ -19997,7 +20054,8 @@
         "award_id": "national-book",
         "year": 1966,
         "work_original": "The Collected Stories of Katherine Anne Porter",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "蒼ざめた馬、蒼ざめた騎手 : キャサリン・A・ポーター物語集"
       }
     ],
     "is_multi_award": true,
@@ -20020,8 +20078,8 @@
         "work_original": "The Collected Stories of Katherine Anne Porter",
         "award_id": "national-book",
         "year": 1966,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "蒼ざめた馬、蒼ざめた騎手 : キャサリン・A・ポーター物語集",
         "theme_summary_ja": null
       }
     ]
@@ -20036,7 +20094,8 @@
         "award_id": "national-book",
         "year": 1959,
         "work_original": "The Magic Barrel",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "マラマッド/ベロー/ボールドウィン"
       },
       {
         "award_id": "pulitzer-fiction",
@@ -20062,8 +20121,8 @@
         "work_original": "The Magic Barrel",
         "award_id": "national-book",
         "year": 1959,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "マラマッド/ベロー/ボールドウィン",
         "theme_summary_ja": null
       },
       {
@@ -20087,13 +20146,15 @@
         "award_id": "pulitzer-fiction",
         "year": 1968,
         "work_original": "The Confessions of Nat Turner",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ナット・ターナーの告白"
       },
       {
         "award_id": "national-book",
         "year": 1980,
         "work_original": "Sophie's Choice",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ソフィーの選択. 上巻"
       }
     ],
     "is_multi_award": true,
@@ -20107,8 +20168,8 @@
         "work_original": "The Confessions of Nat Turner",
         "award_id": "pulitzer-fiction",
         "year": 1968,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ナット・ターナーの告白",
         "theme_summary_ja": null
       },
       {
@@ -20116,8 +20177,8 @@
         "work_original": "Sophie's Choice",
         "award_id": "national-book",
         "year": 1980,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ソフィーの選択. 上巻",
         "theme_summary_ja": null
       }
     ]
@@ -20344,13 +20405,15 @@
         "award_id": "pulitzer-fiction",
         "year": 1979,
         "work_original": "The Stories of John Cheever",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "巨大なラジオ/泳ぐ人 = THE ENORMOUS RADIO/THE SWIMMER"
       },
       {
         "award_id": "national-book",
         "year": 1981,
         "work_original": "The Stories of John Cheever",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "巨大なラジオ/泳ぐ人 = THE ENORMOUS RADIO/THE SWIMMER"
       }
     ],
     "is_multi_award": true,
@@ -20373,8 +20436,8 @@
         "work_original": "The Stories of John Cheever",
         "award_id": "pulitzer-fiction",
         "year": 1979,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "巨大なラジオ/泳ぐ人 = THE ENORMOUS RADIO/THE SWIMMER",
         "theme_summary_ja": null
       }
     ]
@@ -20389,7 +20452,8 @@
         "award_id": "pulitzer-fiction",
         "year": 1980,
         "work_original": "The Executioner's Song",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "死刑執行人の歌 : 殺人者ゲイリー・ギルモアの物語. 上巻"
       }
     ],
     "is_multi_award": false,
@@ -20402,8 +20466,8 @@
         "work_original": "The Executioner's Song",
         "award_id": "pulitzer-fiction",
         "year": 1980,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "死刑執行人の歌 : 殺人者ゲイリー・ギルモアの物語. 上巻",
         "theme_summary_ja": null
       }
     ]
@@ -20447,25 +20511,29 @@
         "award_id": "national-book",
         "year": 1964,
         "work_original": "The Centaur",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ケンタウロス"
       },
       {
         "award_id": "pulitzer-fiction",
         "year": 1982,
         "work_original": "Rabbit Is Rich",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "金持になったウサギ. 1"
       },
       {
         "award_id": "national-book",
         "year": 1982,
         "work_original": "Rabbit is Rich",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "金持になったウサギ. 1"
       },
       {
         "award_id": "pulitzer-fiction",
         "year": 1991,
         "work_original": "Rabbit at Rest",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "さようならウサギ. 1"
       }
     ],
     "is_multi_award": true,
@@ -20479,8 +20547,8 @@
         "work_original": "The Centaur",
         "award_id": "national-book",
         "year": 1964,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ケンタウロス",
         "theme_summary_ja": null
       },
       {
@@ -20488,8 +20556,8 @@
         "work_original": "Rabbit Is Rich",
         "award_id": "pulitzer-fiction",
         "year": 1982,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "金持になったウサギ. 1",
         "theme_summary_ja": null
       },
       {
@@ -20497,8 +20565,8 @@
         "work_original": "Rabbit is Rich",
         "award_id": "national-book",
         "year": 1982,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "金持になったウサギ. 1",
         "theme_summary_ja": null
       },
       {
@@ -20506,8 +20574,8 @@
         "work_original": "Rabbit at Rest",
         "award_id": "pulitzer-fiction",
         "year": 1991,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "さようならウサギ. 1",
         "theme_summary_ja": null
       }
     ]
@@ -20645,7 +20713,8 @@
         "award_id": "pulitzer-fiction",
         "year": 1987,
         "work_original": "A Summons to Memphis",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "メンフィスへ帰る"
       }
     ],
     "is_multi_award": false,
@@ -20658,8 +20727,8 @@
         "work_original": "A Summons to Memphis",
         "award_id": "pulitzer-fiction",
         "year": 1987,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "メンフィスへ帰る",
         "theme_summary_ja": null
       }
     ]
@@ -20674,7 +20743,8 @@
         "award_id": "pulitzer-fiction",
         "year": 1989,
         "work_original": "Breathing Lessons",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ブリージング・レッスン"
       }
     ],
     "is_multi_award": false,
@@ -20687,8 +20757,8 @@
         "work_original": "Breathing Lessons",
         "award_id": "pulitzer-fiction",
         "year": 1989,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ブリージング・レッスン",
         "theme_summary_ja": null
       }
     ]
@@ -20703,7 +20773,8 @@
         "award_id": "pulitzer-fiction",
         "year": 1990,
         "work_original": "The Mambo Kings Play Songs of Love",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "マンボ・キングズ、愛のうたを歌う. 上"
       }
     ],
     "is_multi_award": false,
@@ -20716,8 +20787,8 @@
         "work_original": "The Mambo Kings Play Songs of Love",
         "award_id": "pulitzer-fiction",
         "year": 1990,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "マンボ・キングズ、愛のうたを歌う. 上",
         "theme_summary_ja": null
       }
     ]
@@ -20732,7 +20803,8 @@
         "award_id": "pulitzer-fiction",
         "year": 1992,
         "work_original": "A Thousand Acres",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "大農場"
       }
     ],
     "is_multi_award": false,
@@ -20745,8 +20817,8 @@
         "work_original": "A Thousand Acres",
         "award_id": "pulitzer-fiction",
         "year": 1992,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "大農場",
         "theme_summary_ja": null
       }
     ]
@@ -20761,7 +20833,8 @@
         "award_id": "pulitzer-fiction",
         "year": 1993,
         "work_original": "A Good Scent from a Strange Mountain",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ふしぎな山からの香り"
       }
     ],
     "is_multi_award": false,
@@ -20774,8 +20847,8 @@
         "work_original": "A Good Scent from a Strange Mountain",
         "award_id": "pulitzer-fiction",
         "year": 1993,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ふしぎな山からの香り",
         "theme_summary_ja": null
       }
     ]
@@ -20790,13 +20863,15 @@
         "award_id": "national-book",
         "year": 1993,
         "work_original": "The Shipping News",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "港湾ニュース"
       },
       {
         "award_id": "pulitzer-fiction",
         "year": 1994,
         "work_original": "The Shipping News",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "港湾ニュース"
       }
     ],
     "is_multi_award": true,
@@ -20810,8 +20885,8 @@
         "work_original": "The Shipping News",
         "award_id": "national-book",
         "year": 1993,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "港湾ニュース",
         "theme_summary_ja": null
       }
     ]
@@ -20826,7 +20901,8 @@
         "award_id": "pulitzer-fiction",
         "year": 1995,
         "work_original": "The Stone Diaries",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ストーン・ダイアリー"
       }
     ],
     "is_multi_award": false,
@@ -20839,8 +20915,8 @@
         "work_original": "The Stone Diaries",
         "award_id": "pulitzer-fiction",
         "year": 1995,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ストーン・ダイアリー",
         "theme_summary_ja": null
       }
     ]
@@ -20913,7 +20989,8 @@
         "award_id": "pulitzer-fiction",
         "year": 1999,
         "work_original": "The Hours",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "めぐりあう時間たち : 三人のダロウェイ夫人"
       }
     ],
     "is_multi_award": false,
@@ -20926,8 +21003,8 @@
         "work_original": "The Hours",
         "award_id": "pulitzer-fiction",
         "year": 1999,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "めぐりあう時間たち : 三人のダロウェイ夫人",
         "theme_summary_ja": null
       }
     ]
@@ -20942,7 +21019,8 @@
         "award_id": "pulitzer-fiction",
         "year": 2000,
         "work_original": "Interpreter of Maladies",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "停電の夜に"
       }
     ],
     "is_multi_award": false,
@@ -20955,8 +21033,8 @@
         "work_original": "Interpreter of Maladies",
         "award_id": "pulitzer-fiction",
         "year": 2000,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "停電の夜に",
         "theme_summary_ja": null
       }
     ]
@@ -21029,7 +21107,8 @@
         "award_id": "pulitzer-fiction",
         "year": 2003,
         "work_original": "Middlesex",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ミドルセックス"
       }
     ],
     "is_multi_award": false,
@@ -21042,8 +21121,8 @@
         "work_original": "Middlesex",
         "award_id": "pulitzer-fiction",
         "year": 2003,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ミドルセックス",
         "theme_summary_ja": null
       }
     ]
@@ -21058,7 +21137,8 @@
         "award_id": "pulitzer-fiction",
         "year": 2004,
         "work_original": "The Known World",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "地図になかった世界"
       }
     ],
     "is_multi_award": false,
@@ -21071,8 +21151,8 @@
         "work_original": "The Known World",
         "award_id": "pulitzer-fiction",
         "year": 2004,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "地図になかった世界",
         "theme_summary_ja": null
       }
     ]
@@ -21087,7 +21167,8 @@
         "award_id": "pulitzer-fiction",
         "year": 2005,
         "work_original": "Gilead",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ギレアド"
       }
     ],
     "is_multi_award": false,
@@ -21100,8 +21181,8 @@
         "work_original": "Gilead",
         "award_id": "pulitzer-fiction",
         "year": 2005,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ギレアド",
         "theme_summary_ja": null
       }
     ]
@@ -21116,7 +21197,8 @@
         "award_id": "pulitzer-fiction",
         "year": 2006,
         "work_original": "March",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "マーチ家の父 : もうひとつの若草物語"
       }
     ],
     "is_multi_award": false,
@@ -21129,8 +21211,8 @@
         "work_original": "March",
         "award_id": "pulitzer-fiction",
         "year": 2006,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "マーチ家の父 : もうひとつの若草物語",
         "theme_summary_ja": null
       }
     ]
@@ -21145,13 +21227,15 @@
         "award_id": "national-book",
         "year": 1992,
         "work_original": "All the Pretty Horses",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "すべての美しい馬"
       },
       {
         "award_id": "pulitzer-fiction",
         "year": 2007,
         "work_original": "The Road",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ザ・ロード"
       }
     ],
     "is_multi_award": true,
@@ -21165,8 +21249,8 @@
         "work_original": "All the Pretty Horses",
         "award_id": "national-book",
         "year": 1992,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "すべての美しい馬",
         "theme_summary_ja": null
       },
       {
@@ -21174,8 +21258,8 @@
         "work_original": "The Road",
         "award_id": "pulitzer-fiction",
         "year": 2007,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ザ・ロード",
         "theme_summary_ja": null
       }
     ]
@@ -21190,7 +21274,8 @@
         "award_id": "pulitzer-fiction",
         "year": 2008,
         "work_original": "The Brief Wondrous Life of Oscar Wao",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "オスカー・ワオの短く凄まじい人生"
       }
     ],
     "is_multi_award": false,
@@ -21203,8 +21288,8 @@
         "work_original": "The Brief Wondrous Life of Oscar Wao",
         "award_id": "pulitzer-fiction",
         "year": 2008,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "オスカー・ワオの短く凄まじい人生",
         "theme_summary_ja": null
       }
     ]
@@ -21219,7 +21304,8 @@
         "award_id": "pulitzer-fiction",
         "year": 2009,
         "work_original": "Olive Kitteridge",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "オリーヴ・キタリッジの生活"
       }
     ],
     "is_multi_award": false,
@@ -21232,8 +21318,8 @@
         "work_original": "Olive Kitteridge",
         "award_id": "pulitzer-fiction",
         "year": 2009,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "オリーヴ・キタリッジの生活",
         "theme_summary_ja": null
       }
     ]
@@ -21248,7 +21334,8 @@
         "award_id": "pulitzer-fiction",
         "year": 2010,
         "work_original": "Tinkers",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ティンカーズ"
       }
     ],
     "is_multi_award": false,
@@ -21261,8 +21348,8 @@
         "work_original": "Tinkers",
         "award_id": "pulitzer-fiction",
         "year": 2010,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ティンカーズ",
         "theme_summary_ja": null
       }
     ]
@@ -21277,7 +21364,8 @@
         "award_id": "pulitzer-fiction",
         "year": 2011,
         "work_original": "A Visit from the Goon Squad",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ならずものがやってくる"
       }
     ],
     "is_multi_award": false,
@@ -21290,8 +21378,8 @@
         "work_original": "A Visit from the Goon Squad",
         "award_id": "pulitzer-fiction",
         "year": 2011,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ならずものがやってくる",
         "theme_summary_ja": null
       }
     ]
@@ -21351,7 +21439,8 @@
         "award_id": "pulitzer-fiction",
         "year": 2014,
         "work_original": "The Goldfinch",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ゴールドフィンチ. 1"
       }
     ],
     "is_multi_award": false,
@@ -21364,8 +21453,8 @@
         "work_original": "The Goldfinch",
         "award_id": "pulitzer-fiction",
         "year": 2014,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ゴールドフィンチ. 1",
         "theme_summary_ja": null
       }
     ]
@@ -21409,7 +21498,8 @@
         "award_id": "pulitzer-fiction",
         "year": 2016,
         "work_original": "The Sympathizer",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "シンパサイザー"
       }
     ],
     "is_multi_award": false,
@@ -21422,8 +21512,8 @@
         "work_original": "The Sympathizer",
         "award_id": "pulitzer-fiction",
         "year": 2016,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "シンパサイザー",
         "theme_summary_ja": null
       }
     ]
@@ -21438,19 +21528,22 @@
         "award_id": "national-book",
         "year": 2016,
         "work_original": "The Underground Railroad",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "地下鉄道"
       },
       {
         "award_id": "pulitzer-fiction",
         "year": 2017,
         "work_original": "The Underground Railroad",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "地下鉄道"
       },
       {
         "award_id": "pulitzer-fiction",
         "year": 2020,
         "work_original": "The Nickel Boys",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ニッケル・ボーイズ"
       }
     ],
     "is_multi_award": true,
@@ -21464,8 +21557,8 @@
         "work_original": "The Underground Railroad",
         "award_id": "national-book",
         "year": 2016,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "地下鉄道",
         "theme_summary_ja": null
       },
       {
@@ -21473,8 +21566,8 @@
         "work_original": "The Nickel Boys",
         "award_id": "pulitzer-fiction",
         "year": 2020,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ニッケル・ボーイズ",
         "theme_summary_ja": null
       }
     ]
@@ -21489,7 +21582,8 @@
         "award_id": "pulitzer-fiction",
         "year": 2018,
         "work_original": "Less",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "レス"
       }
     ],
     "is_multi_award": false,
@@ -21502,8 +21596,8 @@
         "work_original": "Less",
         "award_id": "pulitzer-fiction",
         "year": 2018,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "レス",
         "theme_summary_ja": null
       }
     ]
@@ -21518,13 +21612,15 @@
         "award_id": "national-book",
         "year": 2006,
         "work_original": "The Echo Maker",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "エコー・メイカー"
       },
       {
         "award_id": "pulitzer-fiction",
         "year": 2019,
         "work_original": "The Overstory",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "オーバーストーリー"
       }
     ],
     "is_multi_award": true,
@@ -21538,8 +21634,8 @@
         "work_original": "The Echo Maker",
         "award_id": "national-book",
         "year": 2006,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "エコー・メイカー",
         "theme_summary_ja": null
       },
       {
@@ -21547,8 +21643,8 @@
         "work_original": "The Overstory",
         "award_id": "pulitzer-fiction",
         "year": 2019,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "オーバーストーリー",
         "theme_summary_ja": null
       }
     ]
@@ -21695,13 +21791,15 @@
         "award_id": "national-book",
         "year": 2024,
         "work_original": "James",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ジェイムズ"
       },
       {
         "award_id": "pulitzer-fiction",
         "year": 2025,
         "work_original": "James",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ジェイムズ"
       }
     ],
     "is_multi_award": true,
@@ -21715,8 +21813,8 @@
         "work_original": "James",
         "award_id": "national-book",
         "year": 2024,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ジェイムズ",
         "theme_summary_ja": null
       }
     ]
@@ -21789,7 +21887,8 @@
         "award_id": "national-book",
         "year": 1952,
         "work_original": "From Here to Eternity",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "地上より永遠に"
       }
     ],
     "is_multi_award": false,
@@ -21802,8 +21901,8 @@
         "work_original": "From Here to Eternity",
         "award_id": "national-book",
         "year": 1952,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "地上より永遠に",
         "theme_summary_ja": null
       }
     ]
@@ -21818,7 +21917,8 @@
         "award_id": "national-book",
         "year": 1953,
         "work_original": "Invisible Man",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "見えない人間"
       }
     ],
     "is_multi_award": false,
@@ -21831,8 +21931,8 @@
         "work_original": "Invisible Man",
         "award_id": "national-book",
         "year": 1953,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "見えない人間",
         "theme_summary_ja": null
       }
     ]
@@ -21876,7 +21976,8 @@
         "award_id": "national-book",
         "year": 1957,
         "work_original": "The Field of Vision",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "視界"
       },
       {
         "award_id": "national-book",
@@ -21895,8 +21996,8 @@
         "work_original": "The Field of Vision",
         "award_id": "national-book",
         "year": 1957,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "視界",
         "theme_summary_ja": null
       },
       {
@@ -21920,7 +22021,8 @@
         "award_id": "national-book",
         "year": 1962,
         "work_original": "The Moviegoer",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "映画狂時代"
       }
     ],
     "is_multi_award": false,
@@ -21933,8 +22035,8 @@
         "work_original": "The Moviegoer",
         "award_id": "national-book",
         "year": 1962,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "映画狂時代",
         "theme_summary_ja": null
       }
     ]
@@ -22007,7 +22109,8 @@
         "award_id": "national-book",
         "year": 1970,
         "work_original": "them",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "かれら"
       }
     ],
     "is_multi_award": false,
@@ -22020,8 +22123,8 @@
         "work_original": "them",
         "award_id": "national-book",
         "year": 1970,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "かれら",
         "theme_summary_ja": null
       }
     ]
@@ -22094,7 +22197,8 @@
         "award_id": "national-book",
         "year": 1973,
         "work_original": "Augustus",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "アウグストゥス"
       }
     ],
     "is_multi_award": false,
@@ -22107,8 +22211,8 @@
         "work_original": "Augustus",
         "award_id": "national-book",
         "year": 1973,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "アウグストゥス",
         "theme_summary_ja": null
       }
     ]
@@ -22123,7 +22227,8 @@
         "award_id": "national-book",
         "year": 1974,
         "work_original": "Gravity's Rainbow",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "重力の虹. 1"
       }
     ],
     "is_multi_award": false,
@@ -22136,8 +22241,8 @@
         "work_original": "Gravity's Rainbow",
         "award_id": "national-book",
         "year": 1974,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "重力の虹. 1",
         "theme_summary_ja": null
       }
     ]
@@ -22210,7 +22315,8 @@
         "award_id": "national-book",
         "year": 1976,
         "work_original": "J R",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "JR : JR FAMILY OF COMPANIES"
       },
       {
         "award_id": "national-book",
@@ -22229,8 +22335,8 @@
         "work_original": "J R",
         "award_id": "national-book",
         "year": 1976,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "JR : JR FAMILY OF COMPANIES",
         "theme_summary_ja": null
       },
       {
@@ -22283,7 +22389,8 @@
         "award_id": "national-book",
         "year": 1979,
         "work_original": "Going After Cacciato",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "カチアートを追跡して. 1"
       }
     ],
     "is_multi_award": false,
@@ -22296,8 +22403,8 @@
         "work_original": "Going After Cacciato",
         "award_id": "national-book",
         "year": 1979,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "カチアートを追跡して. 1",
         "theme_summary_ja": null
       }
     ]
@@ -22312,7 +22419,8 @@
         "award_id": "national-book",
         "year": 1980,
         "work_original": "The World According to Garp",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ガープの世界 上"
       }
     ],
     "is_multi_award": false,
@@ -22325,8 +22433,8 @@
         "work_original": "The World According to Garp",
         "award_id": "national-book",
         "year": 1980,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ガープの世界 上",
         "theme_summary_ja": null
       }
     ]
@@ -22399,7 +22507,8 @@
         "award_id": "national-book",
         "year": 1985,
         "work_original": "White Noise",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "ホワイト・ノイズ"
       }
     ],
     "is_multi_award": false,
@@ -22412,8 +22521,8 @@
         "work_original": "White Noise",
         "award_id": "national-book",
         "year": 1985,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "ホワイト・ノイズ",
         "theme_summary_ja": null
       }
     ]
@@ -22428,7 +22537,8 @@
         "award_id": "national-book",
         "year": 1986,
         "work_original": "World's Fair",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "紐育万国博覧会"
       }
     ],
     "is_multi_award": false,
@@ -22441,8 +22551,8 @@
         "work_original": "World's Fair",
         "award_id": "national-book",
         "year": 1986,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "紐育万国博覧会",
         "theme_summary_ja": null
       }
     ]
@@ -22486,7 +22596,8 @@
         "award_id": "national-book",
         "year": 1988,
         "work_original": "Paris Trout",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "パリス・トラウト"
       }
     ],
     "is_multi_award": false,
@@ -22499,8 +22610,8 @@
         "work_original": "Paris Trout",
         "award_id": "national-book",
         "year": 1988,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "パリス・トラウト",
         "theme_summary_ja": null
       }
     ]
@@ -22544,7 +22655,8 @@
         "award_id": "national-book",
         "year": 1990,
         "work_original": "Middle Passage",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "中間航路"
       }
     ],
     "is_multi_award": false,
@@ -22557,8 +22669,8 @@
         "work_original": "Middle Passage",
         "award_id": "national-book",
         "year": 1990,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "中間航路",
         "theme_summary_ja": null
       }
     ]
@@ -22631,7 +22743,8 @@
         "award_id": "national-book",
         "year": 1997,
         "work_original": "Cold Mountain",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "コールドマウンテン"
       }
     ],
     "is_multi_award": false,
@@ -22644,8 +22757,8 @@
         "work_original": "Cold Mountain",
         "award_id": "national-book",
         "year": 1997,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "コールドマウンテン",
         "theme_summary_ja": null
       }
     ]
@@ -22660,7 +22773,8 @@
         "award_id": "national-book",
         "year": 1998,
         "work_original": "Charming Billy",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "チャーミング・ビリー"
       }
     ],
     "is_multi_award": false,
@@ -22673,8 +22787,8 @@
         "work_original": "Charming Billy",
         "award_id": "national-book",
         "year": 1998,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "チャーミング・ビリー",
         "theme_summary_ja": null
       }
     ]
@@ -22689,7 +22803,8 @@
         "award_id": "national-book",
         "year": 1999,
         "work_original": "Waiting",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "待ち暮らし"
       }
     ],
     "is_multi_award": false,
@@ -22702,8 +22817,8 @@
         "work_original": "Waiting",
         "award_id": "national-book",
         "year": 1999,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "待ち暮らし",
         "theme_summary_ja": null
       }
     ]
@@ -22718,7 +22833,8 @@
         "award_id": "national-book",
         "year": 2000,
         "work_original": "In America",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "イン・アメリカ"
       }
     ],
     "is_multi_award": false,
@@ -22731,8 +22847,8 @@
         "work_original": "In America",
         "award_id": "national-book",
         "year": 2000,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "イン・アメリカ",
         "theme_summary_ja": null
       }
     ]
@@ -22747,7 +22863,8 @@
         "award_id": "national-book",
         "year": 2001,
         "work_original": "The Corrections",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "コレクションズ"
       }
     ],
     "is_multi_award": false,
@@ -22760,8 +22877,8 @@
         "work_original": "The Corrections",
         "award_id": "national-book",
         "year": 2001,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "コレクションズ",
         "theme_summary_ja": null
       }
     ]
@@ -22776,7 +22893,8 @@
         "award_id": "national-book",
         "year": 2002,
         "work_original": "Three Junes",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "六月の組曲"
       }
     ],
     "is_multi_award": false,
@@ -22789,8 +22907,8 @@
         "work_original": "Three Junes",
         "award_id": "national-book",
         "year": 2002,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "六月の組曲",
         "theme_summary_ja": null
       }
     ]
@@ -22892,7 +23010,8 @@
         "award_id": "national-book",
         "year": 2007,
         "work_original": "Tree of Smoke",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "煙の樹"
       }
     ],
     "is_multi_award": false,
@@ -22905,8 +23024,8 @@
         "work_original": "Tree of Smoke",
         "award_id": "national-book",
         "year": 2007,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "煙の樹",
         "theme_summary_ja": null
       }
     ]
@@ -22950,7 +23069,8 @@
         "award_id": "national-book",
         "year": 2009,
         "work_original": "Let the Great World Spin",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "世界を回せ. 上"
       }
     ],
     "is_multi_award": false,
@@ -22963,8 +23083,8 @@
         "work_original": "Let the Great World Spin",
         "award_id": "national-book",
         "year": 2009,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "世界を回せ. 上",
         "theme_summary_ja": null
       }
     ]
@@ -23008,13 +23128,15 @@
         "award_id": "national-book",
         "year": 2011,
         "work_original": "Salvage the Bones",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "骨を引き上げろ"
       },
       {
         "award_id": "national-book",
         "year": 2017,
         "work_original": "Sing, Unburied, Sing",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "歌え、葬られぬ者たちよ、歌え"
       }
     ],
     "is_multi_award": false,
@@ -23027,8 +23149,8 @@
         "work_original": "Salvage the Bones",
         "award_id": "national-book",
         "year": 2011,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "骨を引き上げろ",
         "theme_summary_ja": null
       },
       {
@@ -23036,8 +23158,8 @@
         "work_original": "Sing, Unburied, Sing",
         "award_id": "national-book",
         "year": 2017,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "歌え、葬られぬ者たちよ、歌え",
         "theme_summary_ja": null
       }
     ]
@@ -23081,7 +23203,8 @@
         "award_id": "national-book",
         "year": 2014,
         "work_original": "Redeployment",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "一時帰還"
       }
     ],
     "is_multi_award": false,
@@ -23094,8 +23217,8 @@
         "work_original": "Redeployment",
         "award_id": "national-book",
         "year": 2014,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "一時帰還",
         "theme_summary_ja": null
       }
     ]
@@ -23110,7 +23233,8 @@
         "award_id": "national-book",
         "year": 2018,
         "work_original": "The Friend",
-        "jp_translation_status": "unavailable"
+        "jp_translation_status": "available",
+        "jp_translation_title": "友だち"
       }
     ],
     "is_multi_award": false,
@@ -23123,8 +23247,8 @@
         "work_original": "The Friend",
         "award_id": "national-book",
         "year": 2018,
-        "jp_translation_status": "unavailable",
-        "jp_translation_title": null,
+        "jp_translation_status": "available",
+        "jp_translation_title": "友だち",
         "theme_summary_ja": null
       }
     ]

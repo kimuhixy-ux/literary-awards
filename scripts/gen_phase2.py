@@ -80,3 +80,4 @@ for _,r in tables("cervantes")[1].iterrows():
 for name,rows in [("goncourt",g),("pulitzer-fiction",p),("national-book",n),("cervantes",c)]:
     (OUT/f"{name}.json").write_text(json.dumps(rows,ensure_ascii=False,indent=2)+"\n")
     print(f"{name}: {len(rows)} records, {min(x['year'] for x in rows)}-{max(x['year'] for x in rows)}")
+print("邦訳書誌を再適用するには: python3 scripts/enrich_phase2_translations.py --apply")

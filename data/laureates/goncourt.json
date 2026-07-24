@@ -489,16 +489,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "花咲ける乙女の陰に",
+      "translator": "五来達",
+      "publisher": "三笠書房",
+      "year": 1934,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809670538028"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -881,16 +882,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "人間の条件 ; 王道",
+      "translator": "新庄嘉章",
+      "publisher": "新潮社",
+      "year": 1962,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000136-I1970023484856598422"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -1021,16 +1023,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "蜘蛛",
+      "translator": "福永武彦",
+      "publisher": "新潮社",
+      "year": 1951,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859768893604"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -1385,16 +1388,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "ブランショ/グラック",
+      "translator": "安藤元雄",
+      "publisher": "集英社",
+      "year": 1978,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384780797712"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -1441,16 +1445,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "けものたち ; 死者の時",
+      "translator": "二宮敬",
+      "publisher": "岩波書店",
+      "year": 2007,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000136-I1970023484979466275"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -1469,16 +1474,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "レ・マンダラン",
+      "translator": "朝吹三吉",
+      "publisher": "新潮社",
+      "year": 1956,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809770607761"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -1525,16 +1531,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "自由の大地 : 天国の根",
+      "translator": "渋沢竜彦",
+      "publisher": "人文書院",
+      "year": 1959,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859862598040"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -1553,16 +1560,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "掟",
+      "translator": "きだみのる",
+      "publisher": "講談社",
+      "year": 1958,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434863986831"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -1833,16 +1841,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "余白の街 新装版",
+      "translator": "生田耕作",
+      "publisher": "河出書房新社",
+      "year": 1992,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000136-I1971712334833815216"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -1917,16 +1926,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "魔王. 上",
+      "translator": "植田祐次",
+      "publisher": "みすず書房",
+      "year": 2001,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I000003007948"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -2001,16 +2011,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "鬼",
+      "translator": "伊東守男",
+      "publisher": "早川書房",
+      "year": 1977,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909840752799"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -2085,16 +2096,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "火炎樹",
+      "translator": "篠田知和基",
+      "publisher": "国書刊行会",
+      "year": 1998,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I000002697241"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -2141,16 +2153,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "暗いブティック通り",
+      "translator": "平岡篤頼",
+      "publisher": "白水社",
+      "year": 2005,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I000007767615"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -2309,16 +2322,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "愛人",
+      "translator": "清水徹",
+      "publisher": "河出書房新社",
+      "year": 1992,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I000002158217"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -2477,16 +2491,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "名誉の戦場",
+      "translator": "北代美和子",
+      "publisher": "新潮社",
+      "year": 1994,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I000002360348"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -2533,16 +2548,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "テキサコ. 上",
+      "translator": "星埜守之",
+      "publisher": "平凡社",
+      "year": 1997,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I000002644044"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -2589,16 +2605,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "片道切符",
+      "translator": "高橋啓",
+      "publisher": "早川書房",
+      "year": 1995,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I000002444599"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -2617,16 +2634,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "フランスの遺言書",
+      "translator": "星埜守之",
+      "publisher": "水声社",
+      "year": 2000,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I000002857869"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -2645,16 +2663,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "ゼロ戦 : 沖縄・パリ・幻の愛",
+      "translator": "鈴村靖爾",
+      "publisher": "集英社",
+      "year": 1998,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I000002712417"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -2701,16 +2720,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "うちあけ話",
+      "translator": "藪崎利美",
+      "publisher": "人文書院",
+      "year": 2015,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I026058833"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -2729,16 +2749,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "ぼくは行くよ",
+      "translator": "青木真紀子",
+      "publisher": "集英社",
+      "year": 2002,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I000003071548"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -2757,16 +2778,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "黄金の声の少女",
+      "translator": "横川晶子",
+      "publisher": "新潮社",
+      "year": 2005,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I000007768428"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -2785,16 +2807,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "ブラジルの赤",
+      "translator": "野口雄司",
+      "publisher": "早川書房",
+      "year": 2002,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I000003999031"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -2813,16 +2836,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "さまよえる影",
+      "translator": "高橋啓",
+      "publisher": "青土社",
+      "year": 2003,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I000007372312"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -2869,16 +2893,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "スコルタの太陽",
+      "translator": "新島進",
+      "publisher": "河出書房新社",
+      "year": 2008,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I000009384741"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -2925,16 +2950,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "慈しみの女神たち. 上",
+      "translator": "有田英也",
+      "publisher": "集英社",
+      "year": 2011,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I000011194329"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -2953,16 +2979,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "ゼルダ最後のロマンティシスト",
+      "translator": "傳田温",
+      "publisher": "中央公論新社",
+      "year": 2008,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I000010002366"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -3009,16 +3036,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "三人の逞しい女",
+      "translator": "小野正嗣",
+      "publisher": "早川書房",
+      "year": 2019,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I029669702"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -3037,16 +3065,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "地図と領土",
+      "translator": "野崎歓",
+      "publisher": "筑摩書房",
+      "year": 2013,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I025005089"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -3121,16 +3150,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "天国でまた会おう",
+      "translator": "平岡敦",
+      "publisher": "早川書房",
+      "year": 2015,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I026776795"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -3205,16 +3235,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "ヌヌ完璧なベビーシッター",
+      "translator": "松本百合子",
+      "publisher": "集英社",
+      "year": 2018,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I028856002"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -3233,16 +3264,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "その日の予定 : 事実にもとづく物語",
+      "translator": "塚原史",
+      "publisher": "岩波書店",
+      "year": 2020,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I030407946"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -3261,16 +3293,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "最果ての子供たち",
+      "translator": "山木裕子",
+      "publisher": "早川書房",
+      "year": 2025,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I034216636"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -3317,16 +3350,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "異常(アノマリー)",
+      "translator": "加藤かおり",
+      "publisher": "早川書房",
+      "year": 2022,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I031933063"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -3345,16 +3379,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "人類の深奥に秘められた記憶",
+      "translator": "野崎歓",
+      "publisher": "集英社",
+      "year": 2023,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I033108530"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -3373,16 +3408,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "生き急ぐ",
+      "translator": "加藤かおり",
+      "publisher": "早川書房",
+      "year": 2024,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I033764810"
     ],
     "notes": null,
     "theme_summary_ja": null
@@ -3401,16 +3437,17 @@
     "lecture_title": null,
     "lecture_url": null,
     "jp_translation": {
-      "status": "unavailable",
-      "title_ja": null,
-      "translator": null,
-      "publisher": null,
-      "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "status": "available",
+      "title_ja": "彼女を見守る",
+      "translator": "澤田直",
+      "publisher": "早川書房",
+      "year": 2025,
+      "note": "国立国会図書館サーチで書誌確認"
     },
     "source_urls": [
       "https://www.academiegoncourt.com/",
-      "https://en.wikipedia.org/wiki/Prix_Goncourt"
+      "https://en.wikipedia.org/wiki/Prix_Goncourt",
+      "https://ndlsearch.ndl.go.jp/books/R100000002-I033957727"
     ],
     "notes": null,
     "theme_summary_ja": null
