@@ -554,6 +554,8 @@ async function viewStats(app) {
 /* ---------- service worker registration ---------- */
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
-    navigator.serviceWorker.register(`${APP_ROOT}sw.js`).catch(() => {});
+    navigator.serviceWorker.register(`${APP_ROOT}sw.js?v=5-cache-refresh`, { updateViaCache: 'none' })
+      .then((registration) => registration.update())
+      .catch(() => {});
   });
 }
