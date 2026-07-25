@@ -16,6 +16,23 @@ const loadAwards = () => loadJSON('awards.json');
 const loadAuthors = () => loadJSON('authors.json');
 const loadLaureates = (award) => loadJSON(award.data_file);
 
+let ownedCache = null;
+async function loadOwned() {
+  // data/owned.jsonは個人の蔵書照合結果でgit管理外のため、公開サイトには存在しない。
+  // 存在しない場合は空オブジェクトにフォールバックし、所蔵バッジ/フィルタを単に非表示にする。
+  if (ownedCache) return ownedCache;
+  try {
+    const res = await fetch(`${APP_ROOT}data/owned.json`);
+    ownedCache = res.ok ? await res.json() : {};
+  } catch (e) {
+    ownedCache = {};
+  }
+  return ownedCache;
+}
+function ownedKey(awardId, year, authorId) {
+  return `${awardId}|${year}|${authorId}`;
+}
+
 /* ---------- helpers ---------- */
 function h(tag, attrs = {}, children = []) {
   const el = document.createElement(tag);
@@ -58,6 +75,12 @@ function workTranslationInfo(jpt) {
 }
 function awardShortName(award) {
   return award ? award.name_ja : '';
+}
+function ownedBadge(entry) {
+  if (!entry) return null;
+  if (entry.status === 'exact') return h('span', { class: 'badge badge-owned' }, '所蔵');
+  if (entry.status === 'fuzzy') return h('span', { class: 'badge badge-owned-fuzzy' }, '所蔵?(要確認)');
+  return null;
 }
 
 /* ---------- scroll position memory ---------- */
@@ -195,8 +218,9 @@ async function viewAward(app, awardId) {
     return;
   }
 
-  const [laureates, authors] = await Promise.all([loadLaureates(award), loadAuthors()]);
+  const [laureates, authors, owned] = await Promise.all([loadLaureates(award), loadAuthors(), loadOwned()]);
   const authorMap = new Map(authors.map((a) => [a.author_id, a]));
+  const hasOwnedData = Object.keys(owned).length > 0;
 
   const filterBar = h('div', { class: 'filter-bar' });
   const countries = [...new Set(laureates.map((r) => r.country).filter(Boolean))].sort();
@@ -226,6 +250,15 @@ async function viewAward(app, awardId) {
   filterBar.appendChild(countrySel);
   filterBar.appendChild(langSel);
   filterBar.appendChild(transSel);
+  let ownedSel = null;
+  if (hasOwnedData) {
+    ownedSel = h('select', {}, [
+      h('option', { value: '' }, '所蔵: すべて'),
+      h('option', { value: 'owned' }, '所蔵のみ'),
+      h('option', { value: 'not-owned' }, '未所蔵のみ'),
+    ]);
+    filterBar.appendChild(ownedSel);
+  }
   app.appendChild(filterBar);
 
   const list = h('div', { class: 'laureate-list' });
@@ -240,6 +273,11 @@ async function viewAward(app, awardId) {
     if (transSel.value === 'available' && !(jpt.status === 'available' || jpt.status === 'original-ja')) return false;
     if (transSel.value === 'unavailable' && !(jpt.status === 'unavailable' && !unverified)) return false;
     if (transSel.value === 'unverified' && !unverified) return false;
+    if (hasOwnedData && ownedSel && ownedSel.value) {
+      const isOwned = !!owned[ownedKey(award.id, r.year, r.author_id)];
+      if (ownedSel.value === 'owned' && !isOwned) return false;
+      if (ownedSel.value === 'not-owned' && isOwned) return false;
+    }
     return true;
   }
 
@@ -256,19 +294,20 @@ async function viewAward(app, awardId) {
       return;
     }
     for (const r of filtered) {
-      list.appendChild(renderLaureateItem(r, award, authorMap, awards));
+      list.appendChild(renderLaureateItem(r, award, authorMap, awards, owned));
     }
   }
   decadeSel.addEventListener('change', render);
   countrySel.addEventListener('change', render);
   langSel.addEventListener('change', render);
   transSel.addEventListener('change', render);
+  if (ownedSel) ownedSel.addEventListener('change', render);
   render();
 
   renderRelated(app, award, awards);
 }
 
-function renderLaureateItem(r, award, authorMap, awards) {
+function renderLaureateItem(r, award, authorMap, awards, owned) {
   const isNoAward = !r.author_id;
   const item = h('div', { class: 'laureate-item' });
   const row = h('button', { class: 'laureate-row', type: 'button' });
@@ -289,6 +328,8 @@ function renderLaureateItem(r, award, authorMap, awards) {
     row.appendChild(names);
     const badge = translationBadge(r.jp_translation);
     if (badge) row.appendChild(badge);
+    const ob = ownedBadge(owned[ownedKey(award.id, r.year, r.author_id)]);
+    if (ob) row.appendChild(ob);
   }
 
   item.appendChild(row);
@@ -298,7 +339,7 @@ function renderLaureateItem(r, award, authorMap, awards) {
   row.addEventListener('click', () => {
     const hidden = detail.hasAttribute('hidden');
     if (hidden) {
-      fillDetail(detail, r, award, authorMap, awards);
+      fillDetail(detail, r, award, authorMap, awards, owned);
       detail.removeAttribute('hidden');
     } else {
       detail.setAttribute('hidden', '');
@@ -308,7 +349,7 @@ function renderLaureateItem(r, award, authorMap, awards) {
   return item;
 }
 
-function fillDetail(detail, r, award, authorMap, awards) {
+function fillDetail(detail, r, award, authorMap, awards, owned) {
   if (detail.dataset.filled) return;
   detail.dataset.filled = '1';
   detail.innerHTML = '';
@@ -348,6 +389,13 @@ function fillDetail(detail, r, award, authorMap, awards) {
       val = '対象外';
     }
     rows.push(['邦訳情報', val]);
+  }
+  if (r.author_id && owned) {
+    const entry = owned[ownedKey(award.id, r.year, r.author_id)];
+    if (entry) {
+      const label = entry.status === 'exact' ? '所蔵しています' : '所蔵の可能性があります(要確認)';
+      rows.push(['所蔵', `${label} — 蔵書vault内『${entry.matched_title}』と照合`]);
+    }
   }
   if (r.notes) rows.push(['備考', r.notes]);
   if (r.source_urls && r.source_urls.length) {
@@ -529,7 +577,7 @@ async function viewConnections(app) {
 
 /* ================= STATS (Phase 2) ================= */
 async function viewStats(app) {
-  const [awards, authors] = await Promise.all([loadAwards(), loadAuthors()]);
+  const [awards, authors, owned] = await Promise.all([loadAwards(), loadAuthors(), loadOwned()]);
   app.innerHTML = '';
   app.appendChild(h('a', { class: 'back-link', href: '#/' }, '← ホームへ戻る'));
   app.appendChild(h('h2', { class: 'page-title' }, '統計'));
@@ -573,12 +621,58 @@ async function viewStats(app) {
   });
   app.appendChild(h('p', { class: 'page-subtitle' }, '収録する全8賞の受賞者数を集計。共同受賞は個別に数えています。'));
   app.appendChild(svg);
+
+  if (Object.keys(owned).length > 0) {
+    const laureatesByAward = await Promise.all(withData.map((a) => loadLaureates(a)));
+    const ownership = withData.map((a, i) => {
+      const records = laureatesByAward[i].filter((r) => r.author_id);
+      const ownedCount = records.filter((r) => !!owned[ownedKey(a.id, r.year, r.author_id)]).length;
+      return { label: a.name_ja, total: records.length, ownedCount };
+    });
+
+    app.appendChild(h('h3', { class: 'page-title', style: 'font-size:1.05rem;' }, '各賞の所蔵率'));
+    app.appendChild(h('p', { class: 'page-subtitle' }, '蔵書vaultと照合できた受賞作の割合(ローカル閲覧時のみ表示)。'));
+
+    const barW2 = 600, barH2 = 24, gap2 = 12;
+    const svgH2 = ownership.length * (barH2 + gap2);
+    const svg2 = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+    svg2.setAttribute('viewBox', `0 0 ${barW2} ${svgH2}`);
+    svg2.setAttribute('width', '100%');
+    svg2.setAttribute('height', svgH2);
+    ownership.forEach((o, i) => {
+      const y = i * (barH2 + gap2);
+      const rate = o.total ? o.ownedCount / o.total : 0;
+      const w = Math.round(rate * (barW2 - 160));
+      const rect = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+      rect.setAttribute('x', 150);
+      rect.setAttribute('y', y);
+      rect.setAttribute('width', Math.max(w, 1));
+      rect.setAttribute('height', barH2);
+      rect.setAttribute('fill', 'var(--color-badge-available-text)');
+      svg2.appendChild(rect);
+      const label = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+      label.setAttribute('x', 0);
+      label.setAttribute('y', y + barH2 * 0.7);
+      label.setAttribute('font-size', '12');
+      label.setAttribute('fill', 'var(--color-text)');
+      label.textContent = o.label;
+      svg2.appendChild(label);
+      const numLabel = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+      numLabel.setAttribute('x', 150 + w + 6);
+      numLabel.setAttribute('y', y + barH2 * 0.7);
+      numLabel.setAttribute('font-size', '12');
+      numLabel.setAttribute('fill', 'var(--color-text)');
+      numLabel.textContent = `${o.ownedCount}/${o.total} (${Math.round(rate * 100)}%)`;
+      svg2.appendChild(numLabel);
+    });
+    app.appendChild(svg2);
+  }
 }
 
 /* ---------- service worker registration ---------- */
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
-    navigator.serviceWorker.register(`${APP_ROOT}sw.js?v=11-multilingual-work-matching`, { updateViaCache: 'none' })
+    navigator.serviceWorker.register(`${APP_ROOT}sw.js?v=12-owned-badges`, { updateViaCache: 'none' })
       .then((registration) => registration.update())
       .catch(() => {});
   });

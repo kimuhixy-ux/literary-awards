@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'v11-multilingual-work-matching';
+const CACHE_VERSION = 'v12-owned-badges';
 const CACHE_NAME = `literary-awards-${CACHE_VERSION}`;
 
 const PRECACHE_URLS = [

@@ -338,6 +338,16 @@ a:hover, a:focus {
   color: var(--color-badge-unavailable-text);
 }
 
+.badge-owned {
+  background: var(--color-badge-available-bg);
+  color: var(--color-badge-available-text);
+}
+
+.badge-owned-fuzzy {
+  background: var(--color-badge-unverified-bg);
+  color: var(--color-badge-unverified-text);
+}
+
 .badge-unverified {
   background: var(--color-badge-unverified-bg);
   color: var(--color-badge-unverified-text);
