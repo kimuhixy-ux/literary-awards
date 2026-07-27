@@ -3,3 +3,4 @@ data/owned.json
 owned-report.md
 
 .DS_Store
+.wrangler/
