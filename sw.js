@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'v13-i18n-monetization';
+const CACHE_VERSION = 'v14-locale-name-fix';
 const CACHE_NAME = `literary-awards-${CACHE_VERSION}`;
 
 const PRECACHE_URLS = [

@@ -713,7 +713,7 @@ async function viewStats(app) {
 /* ---------- service worker registration ---------- */
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
-    navigator.serviceWorker.register(`${APP_ROOT}sw.js?v=13-i18n-monetization`, { updateViaCache: 'none' })
+    navigator.serviceWorker.register(`${APP_ROOT}sw.js?v=14-locale-name-fix`, { updateViaCache: 'none' })
       .then((registration) => registration.update())
       .catch(() => {});
   });
