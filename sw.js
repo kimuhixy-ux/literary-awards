@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'v15-swfix';
+const CACHE_VERSION = 'v16-pseo';
 const CACHE_NAME = `literary-awards-${CACHE_VERSION}`;
 
 const PRECACHE_URLS = [
