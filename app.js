@@ -198,7 +198,7 @@ async function viewHome(app) {
         return aw ? awardName(aw) : id;
       }).join(' / ');
       const item = h('a', { class: 'search-result-item', href: `#/author/${a.author_id}`, style: 'display:block;' }, [
-        h('div', {}, `${a.name_ja || ''}${a.name_en ? ` (${a.name_en})` : ''}`),
+        h('div', {}, EN ? authorName(a) : `${a.name_ja || ''}${a.name_en ? ` (${a.name_en})` : ''}`),
         h('div', { class: 'meta' }, awardNames),
       ]);
       results.appendChild(item);
@@ -389,7 +389,7 @@ function fillDetail(detail, r, award, authorMap, awards, owned) {
   if (r.author_id) {
     rows.push([S.labelAuthor, h('a', { href: `#/author/${r.author_id}` }, laureateAuthorLabel(r))]);
   }
-  if (r.author_en && r.author_en !== r.author_ja) rows.push([S.labelOriginalSpelling, r.author_en]);
+  if (!EN && r.author_en && r.author_en !== r.author_ja) rows.push([S.labelOriginalSpelling, r.author_en]);
   if (r.country) rows.push([S.labelCountry, pick(r, 'country', 'country_en')]);
   if (r.work_ja || r.work_original) {
     const workVal = EN
@@ -490,7 +490,9 @@ async function viewAuthor(app, authorId) {
     return;
   }
 
-  app.appendChild(h('h2', { class: 'page-title' }, `${author.name_ja || ''}${author.name_en ? ` / ${author.name_en}` : ''}`));
+  app.appendChild(h('h2', { class: 'page-title' }, EN
+    ? `${author.name_en || author.name_ja || ''}${(author.name_en && author.name_ja) ? ` / ${author.name_ja}` : ''}`
+    : `${author.name_ja || ''}${author.name_en ? ` / ${author.name_en}` : ''}`));
   app.appendChild(h('p', { class: 'page-subtitle' }, pick(author, 'country', 'country_en') || ''));
 
   if (author.is_multi_award) {
@@ -591,7 +593,7 @@ async function viewConnections(app) {
         return h('td', { class: hit ? 'hit' : '' }, hit ? String(hit.year) : '—');
       });
       tbody.appendChild(h('tr', {}, [
-        h('td', {}, h('a', { href: `#/author/${a.author_id}` }, a.name_ja || a.name_en || a.author_id)),
+        h('td', {}, h('a', { href: `#/author/${a.author_id}` }, authorName(a))),
         ...cells,
       ]));
     }
