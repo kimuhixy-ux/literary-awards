@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'v14-locale-name-fix';
+const CACHE_VERSION = 'v15-swfix';
 const CACHE_NAME = `literary-awards-${CACHE_VERSION}`;
 
 const PRECACHE_URLS = [
@@ -33,9 +33,25 @@ const PRECACHE_URLS = [
   ,'./en/manifest.json'
 ];
 
+// Cloudflare Pagesは*.htmlパスを拡張子なしの正規URLへ308リダイレクトするため、
+// リダイレクト後のレスポンス(response.redirected === true)はキャッシュしない。
+// これをキャッシュすると、後続のナビゲーションリクエストにrespondWith()で
+// 返した際にChromeがnet::ERR_FAILEDで拒否する。
+function precache(cache, urls) {
+  return Promise.all(
+    urls.map((url) =>
+      fetch(url)
+        .then((response) => {
+          if (response.ok && !response.redirected) return cache.put(url, response);
+        })
+        .catch(() => {})
+    )
+  );
+}
+
 self.addEventListener('install', (event) => {
   event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => cache.addAll(PRECACHE_URLS)).then(() => self.skipWaiting())
+    caches.open(CACHE_NAME).then((cache) => precache(cache, PRECACHE_URLS)).then(() => self.skipWaiting())
   );
 });
 
@@ -60,7 +76,8 @@ self.addEventListener('fetch', (event) => {
   event.respondWith(
     fetch(event.request)
       .then((response) => {
-        if (response && response.status === 200) {
+        // リダイレクト先のレスポンスはキャッシュしない(理由は上記precache参照)
+        if (response && response.status === 200 && !response.redirected) {
           const clone = response.clone();
           caches.open(CACHE_NAME).then((cache) => cache.put(event.request, clone));
         }
