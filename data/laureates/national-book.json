@@ -18,14 +18,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1951,
@@ -46,14 +50,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1952,
@@ -74,7 +82,8 @@
       "translator": "山屋三郎",
       "publisher": "筑摩書房",
       "year": 1954,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -82,7 +91,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909837121448"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1953,
@@ -103,7 +115,8 @@
       "translator": "橋本福夫",
       "publisher": "書肆パトリア",
       "year": 1958,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -111,7 +124,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000136-I1970023484938972843"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1954,
@@ -132,7 +148,8 @@
       "translator": "刈田元司",
       "publisher": "荒地出版社",
       "year": 1959,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -140,7 +157,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434801716786"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1955,
@@ -161,7 +181,8 @@
       "translator": "阿部知二",
       "publisher": "岩波書店",
       "year": 1960,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -169,7 +190,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000136-I1970304959945023934"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1956,
@@ -190,14 +214,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1957,
@@ -218,7 +246,8 @@
       "translator": "武藤脩二",
       "publisher": "白水社",
       "year": 1974,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -226,7 +255,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384776463500"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1958,
@@ -247,14 +279,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1959,
@@ -275,7 +311,8 @@
       "translator": "沼澤洽治",
       "publisher": "集英社",
       "year": 1976,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -283,7 +320,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434833614336"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1960,
@@ -304,7 +344,8 @@
       "translator": "野崎孝",
       "publisher": "集英社",
       "year": 1965,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -312,7 +353,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859759036106"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1961,
@@ -333,14 +377,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1962,
@@ -361,7 +409,8 @@
       "translator": "土井仁",
       "publisher": "大阪教育図書",
       "year": 2007,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -369,7 +418,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000008579218"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1963,
@@ -390,14 +442,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1964,
@@ -418,7 +474,8 @@
       "translator": "古宮照雄",
       "publisher": "白水社",
       "year": 1968,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -426,7 +483,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909905118744"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1965,
@@ -447,7 +507,8 @@
       "translator": "宇野利泰",
       "publisher": "早川書房",
       "year": 1981,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -455,7 +516,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909906879747"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1966,
@@ -476,7 +540,8 @@
       "translator": "小林田鶴子",
       "publisher": "あぽろん社",
       "year": 1993,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -484,7 +549,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I024155227"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1967,
@@ -505,14 +573,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1968,
@@ -533,14 +605,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1969,
@@ -561,14 +637,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1970,
@@ -589,7 +669,8 @@
       "translator": "真野明裕",
       "publisher": "角川書店",
       "year": 1973,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -597,7 +678,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000136-I1970023484980132636"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1971,
@@ -618,14 +702,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1972,
@@ -646,14 +734,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1973,
@@ -674,14 +766,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1973,
@@ -702,7 +798,8 @@
       "translator": "布施由紀子",
       "publisher": "作品社",
       "year": 2020,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -710,7 +807,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I030594665"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1974,
@@ -731,14 +831,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "Poland / United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1974,
@@ -759,7 +863,8 @@
       "translator": "越川芳明 [ほか]",
       "publisher": "国書刊行会",
       "year": 1993,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -767,7 +872,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000002238921"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1975,
@@ -788,14 +896,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1975,
@@ -816,14 +928,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1976,
@@ -844,7 +960,8 @@
       "translator": "木原善彦",
       "publisher": "国書刊行会",
       "year": 2018,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -852,7 +969,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I029392495"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1977,
@@ -873,14 +993,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1978,
@@ -901,14 +1025,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1979,
@@ -929,7 +1057,8 @@
       "translator": "生井英考",
       "publisher": "国書刊行会",
       "year": 1992,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -937,7 +1066,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000002184092"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1980,
@@ -958,7 +1090,8 @@
       "translator": "筒井正明",
       "publisher": "サンリオ",
       "year": 1983,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -966,7 +1099,11 @@
       "https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859823313163"
     ],
     "notes": "部門: Paperback",
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "notes_en": "Category: Paperback.",
+    "amazon_asin": ""
   },
   {
     "year": 1980,
@@ -987,7 +1124,8 @@
       "translator": "大浦暁生",
       "publisher": "新潮社",
       "year": 1991,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -995,7 +1133,11 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000002145731"
     ],
     "notes": "部門: Hardcover",
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "notes_en": "Category: Hardcover.",
+    "amazon_asin": ""
   },
   {
     "year": 1981,
@@ -1016,7 +1158,8 @@
       "translator": "村上春樹",
       "publisher": "新潮社",
       "year": 2018,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -1024,7 +1167,11 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I029338870"
     ],
     "notes": "部門: Paperback",
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "notes_en": "Category: Paperback.",
+    "amazon_asin": ""
   },
   {
     "year": 1981,
@@ -1045,14 +1192,19 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": "部門: Hardcover",
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "notes_en": "Category: Hardcover.",
+    "amazon_asin": ""
   },
   {
     "year": 1982,
@@ -1073,7 +1225,8 @@
       "translator": "井上謙治",
       "publisher": "新潮社",
       "year": 1992,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -1081,7 +1234,11 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000002226380"
     ],
     "notes": "部門: Hardcover",
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "notes_en": "Category: Hardcover.",
+    "amazon_asin": ""
   },
   {
     "year": 1982,
@@ -1102,14 +1259,19 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": "部門: Paperback",
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "notes_en": "Category: Paperback.",
+    "amazon_asin": ""
   },
   {
     "year": 1983,
@@ -1130,14 +1292,19 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": "部門: Hardcover",
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "notes_en": "Category: Hardcover.",
+    "amazon_asin": ""
   },
   {
     "year": 1983,
@@ -1158,14 +1325,19 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": "部門: Paperback",
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "notes_en": "Category: Paperback.",
+    "amazon_asin": ""
   },
   {
     "year": 1984,
@@ -1186,14 +1358,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1985,
@@ -1214,7 +1390,8 @@
       "translator": "森川展男",
       "publisher": "集英社",
       "year": 1993,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -1222,7 +1399,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000002238930"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1986,
@@ -1243,7 +1423,8 @@
       "translator": "中野恵津子",
       "publisher": "文芸春秋",
       "year": 1994,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -1251,7 +1432,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000002350780"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1987,
@@ -1272,14 +1456,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1988,
@@ -1300,7 +1488,8 @@
       "translator": "真野明裕",
       "publisher": "早川書房",
       "year": 1989,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -1308,7 +1497,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000002016158"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1989,
@@ -1329,14 +1521,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1990,
@@ -1357,7 +1553,8 @@
       "translator": "宮本陽一郎",
       "publisher": "早川書房",
       "year": 1995,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -1365,7 +1562,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000002469364"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1991,
@@ -1386,14 +1586,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1992,
@@ -1414,7 +1618,8 @@
       "translator": "黒原敏行",
       "publisher": "早川書房",
       "year": 1994,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -1422,7 +1627,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000002326355"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1993,
@@ -1443,7 +1651,8 @@
       "translator": "上岡伸雄",
       "publisher": "集英社",
       "year": 1996,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -1451,7 +1660,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000002517993"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1994,
@@ -1472,14 +1684,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1995,
@@ -1500,14 +1716,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1996,
@@ -1528,14 +1748,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1997,
@@ -1556,7 +1780,8 @@
       "translator": "土屋政雄",
       "publisher": "新潮社",
       "year": 2000,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -1564,7 +1789,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000002866480"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1998,
@@ -1585,7 +1813,8 @@
       "translator": "鴻巣友季子",
       "publisher": "早川書房",
       "year": 1999,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -1593,7 +1822,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000002840004"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1999,
@@ -1614,7 +1846,8 @@
       "translator": "土屋京子",
       "publisher": "早川書房",
       "year": 2000,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -1622,7 +1855,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000002950403"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2000,
@@ -1643,7 +1879,8 @@
       "translator": "木幡和枝",
       "publisher": "河出書房新社",
       "year": 2016,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -1651,7 +1888,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I027296158"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2001,
@@ -1672,7 +1912,8 @@
       "translator": "黒原敏行",
       "publisher": "新潮社",
       "year": 2002,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -1680,7 +1921,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000003984836"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2002,
@@ -1701,7 +1945,8 @@
       "translator": "石山淳",
       "publisher": "DHC",
       "year": 2003,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -1709,7 +1954,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000004314443"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2003,
@@ -1730,14 +1978,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2004,
@@ -1758,14 +2010,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2005,
@@ -1786,14 +2042,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2006,
@@ -1814,7 +2074,8 @@
       "translator": "黒原敏行",
       "publisher": "新潮社",
       "year": 2012,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -1822,7 +2083,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I023941677"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2007,
@@ -1843,7 +2107,8 @@
       "translator": "藤井光",
       "publisher": "白水社",
       "year": 2010,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -1851,7 +2116,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000010706404"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2008,
@@ -1872,14 +2140,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2009,
@@ -1900,7 +2172,8 @@
       "translator": "宮本朋子",
       "publisher": "河出書房新社",
       "year": 2013,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -1908,7 +2181,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I024474726"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2010,
@@ -1929,14 +2205,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2011,
@@ -1957,7 +2237,8 @@
       "translator": "石川由美子",
       "publisher": "作品社",
       "year": 2021,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -1965,7 +2246,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I031627546"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2012,
@@ -1986,14 +2270,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2013,
@@ -2014,14 +2302,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2014,
@@ -2042,7 +2334,8 @@
       "translator": "上岡伸雄",
       "publisher": "岩波書店",
       "year": 2015,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -2050,7 +2343,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I026561052"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2015,
@@ -2071,14 +2367,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2016,
@@ -2099,7 +2399,8 @@
       "translator": "谷崎由依",
       "publisher": "早川書房",
       "year": 2017,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -2107,7 +2408,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I028664620"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2017,
@@ -2128,7 +2432,8 @@
       "translator": "石川由美子",
       "publisher": "作品社",
       "year": 2020,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -2136,7 +2441,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I030307259"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2018,
@@ -2157,7 +2465,8 @@
       "translator": "村松潔",
       "publisher": "新潮社",
       "year": 2020,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -2165,7 +2474,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I030190628"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2019,
@@ -2186,14 +2498,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2020,
@@ -2214,14 +2530,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2021,
@@ -2242,14 +2562,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2022,
@@ -2270,14 +2594,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2023,
@@ -2298,14 +2626,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2024,
@@ -2326,7 +2658,8 @@
       "translator": "木原善彦",
       "publisher": "河出書房新社",
       "year": 2025,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
@@ -2334,7 +2667,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I034142870"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2025,
@@ -2355,13 +2691,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.nationalbook.org/awards-prizes/national-book-awards-2025/",
       "https://en.wikipedia.org/wiki/National_Book_Award_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   }
 ]

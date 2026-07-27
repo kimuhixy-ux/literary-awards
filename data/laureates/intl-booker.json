@@ -25,7 +25,11 @@
       "https://thebookerprizes.com/",
       "https://en.wikipedia.org/wiki/International_Booker_Prize"
     ],
-    "notes": "全業績を対象とする隔年賞の第1回受賞者。多数の作品が日本語に翻訳されているが、本賞は特定作品を対象としないため対象作品欄は空欄とする"
+    "notes": "全業績を対象とする隔年賞の第1回受賞者。多数の作品が日本語に翻訳されているが、本賞は特定作品を対象としないため対象作品欄は空欄とする",
+    "country_en": "Albania",
+    "language_en": "Albanian",
+    "notes_en": "First winner of this biennial prize, which is awarded for a body of work. Many of the author's works have been translated into Japanese, but since this prize does not target a specific work, the featured-work field is left blank.",
+    "amazon_asin": ""
   },
   {
     "year": 2007,
@@ -53,7 +57,11 @@
       "https://thebookerprizes.com/",
       "https://en.wikipedia.org/wiki/International_Booker_Prize"
     ],
-    "notes": "代表作『崩れゆく絆』(Things Fall Apart)などは邦訳あり。本賞は全業績を対象とするため対象作品欄は空欄とする"
+    "notes": "代表作『崩れゆく絆』(Things Fall Apart)などは邦訳あり。本賞は全業績を対象とするため対象作品欄は空欄とする",
+    "country_en": "Nigeria",
+    "language_en": "English",
+    "notes_en": "His representative work \"Things Fall Apart\" and others have Japanese translations. Since this prize is awarded for a body of work, the featured-work field is left blank.",
+    "amazon_asin": ""
   },
   {
     "year": 2009,
@@ -81,7 +89,11 @@
       "https://thebookerprizes.com/",
       "https://en.wikipedia.org/wiki/International_Booker_Prize"
     ],
-    "notes": "2013年にノーベル文学賞を受賞。国際ブッカー賞・ノーベル賞双方を受けた例。本賞は全業績を対象とするため対象作品欄は空欄とする"
+    "notes": "2013年にノーベル文学賞を受賞。国際ブッカー賞・ノーベル賞双方を受けた例。本賞は全業績を対象とするため対象作品欄は空欄とする",
+    "country_en": "Canada",
+    "language_en": "English",
+    "notes_en": "Won the Nobel Prize in Literature in 2013. An example of a writer who won both the International Booker Prize and the Nobel Prize. Since this prize is awarded for a body of work, the featured-work field is left blank.",
+    "amazon_asin": ""
   },
   {
     "year": 2011,
@@ -109,7 +121,11 @@
       "https://thebookerprizes.com/",
       "https://en.wikipedia.org/wiki/International_Booker_Prize"
     ],
-    "notes": "本賞は全業績を対象とするため対象作品欄は空欄とする"
+    "notes": "本賞は全業績を対象とするため対象作品欄は空欄とする",
+    "country_en": "United States",
+    "language_en": "English",
+    "notes_en": "Since this prize is awarded for a body of work, the featured-work field is left blank.",
+    "amazon_asin": ""
   },
   {
     "year": 2013,
@@ -137,7 +153,11 @@
       "https://thebookerprizes.com/",
       "https://en.wikipedia.org/wiki/International_Booker_Prize"
     ],
-    "notes": "本賞は全業績を対象とするため対象作品欄は空欄とする"
+    "notes": "本賞は全業績を対象とするため対象作品欄は空欄とする",
+    "country_en": "United States",
+    "language_en": "English",
+    "notes_en": "Since this prize is awarded for a body of work, the featured-work field is left blank.",
+    "amazon_asin": ""
   },
   {
     "year": 2015,
@@ -165,7 +185,11 @@
       "https://thebookerprizes.com/",
       "https://en.wikipedia.org/wiki/International_Booker_Prize"
     ],
-    "notes": "2025年にノーベル文学賞を受賞。国際ブッカー賞・ノーベル賞双方を受けた例。本賞は全業績を対象とするため対象作品欄は空欄とする"
+    "notes": "2025年にノーベル文学賞を受賞。国際ブッカー賞・ノーベル賞双方を受けた例。本賞は全業績を対象とするため対象作品欄は空欄とする",
+    "country_en": "Hungary",
+    "language_en": "Hungarian",
+    "notes_en": "Won the Nobel Prize in Literature in 2025. An example of a writer who won both the International Booker Prize and the Nobel Prize. Since this prize is awarded for a body of work, the featured-work field is left blank.",
+    "amazon_asin": ""
   },
   {
     "year": 2016,
@@ -187,14 +211,20 @@
       "translator": "きむふな",
       "publisher": "クオン",
       "year": 2011,
-      "note": "日本語版は原書(韓国語)からの翻訳で、受賞対象の英訳(デボラ・スミス訳)より先に刊行"
+      "note": "日本語版は原書(韓国語)からの翻訳で、受賞対象の英訳(デボラ・スミス訳)より先に刊行",
+      "note_en": "The Japanese edition is translated directly from the original (Korean), published before the English translation by Deborah Smith that won the prize."
     },
     "source_urls": [
       "https://thebookerprizes.com/",
       "https://en.wikipedia.org/wiki/International_Booker_Prize"
     ],
     "notes": "2024年にノーベル文学賞を受賞。国際ブッカー賞・ノーベル賞双方を受けた代表例",
-    "theme_summary_ja": "韓国の平凡な主婦ヨンヘが、ある夜見た夢をきっかけに肉食を拒み、徐々に食べること自体を拒絶していく物語。夫や家族はヨンヘの変化を理解できずに追い詰めていき、その過程で彼女の姉夫婦も巻き込んだ暴力と欲望の連鎖が明らかになっていく。義兄、姉という異なる視点から語られる三部構成を通じて、暴力を拒み植物になろうとする女性の姿を描いた作品。"
+    "theme_summary_ja": "韓国の平凡な主婦ヨンヘが、ある夜見た夢をきっかけに肉食を拒み、徐々に食べること自体を拒絶していく物語。夫や家族はヨンヘの変化を理解できずに追い詰めていき、その過程で彼女の姉夫婦も巻き込んだ暴力と欲望の連鎖が明らかになっていく。義兄、姉という異なる視点から語られる三部構成を通じて、暴力を拒み植物になろうとする女性の姿を描いた作品。",
+    "country_en": "South Korea",
+    "language_en": "Korean",
+    "notes_en": "Won the Nobel Prize in Literature in 2024. A leading example of a writer who won both the International Booker Prize and the Nobel Prize.",
+    "theme_summary_en": "Yeong-hye, an ordinary South Korean housewife, refuses to eat meat after a disturbing dream one night, and gradually begins rejecting food altogether. Unable to understand the change in her, her husband and family drive her further and further into crisis, and in the process, a chain of violence and desire that entangles even her sister and brother-in-law comes to light. Told in three parts, from the perspectives of her brother-in-law and her sister among others, the novel portrays a woman who rejects violence by trying to become a plant.",
+    "amazon_asin": ""
   },
   {
     "year": 2017,
@@ -216,14 +246,19 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "著者の他作品(『死を生きながら』等)は邦訳があるが、本作の邦訳は確認できず"
+      "note": "著者の他作品(『死を生きながら』等)は邦訳があるが、本作の邦訳は確認できず",
+      "note_en": "Other works by the author (such as \"Living While Dying\") have Japanese translations, but no Japanese translation of this particular work could be confirmed."
     },
     "source_urls": [
       "https://thebookerprizes.com/",
       "https://en.wikipedia.org/wiki/International_Booker_Prize"
     ],
     "notes": null,
-    "theme_summary_ja": "イスラエルの地方都市のクラブで行われる、老いた漫談家ドヴァレの一夜限りのスタンダップコメディの舞台を、客席にいる元裁判官の視点から描く物語。冗談を重ねるうちに次第に本音が漏れ出し、彼が少年時代に経験したある悲劇的な出来事が明らかになっていく。笑いの芸を通して自らの深い傷を吐露していく一人の男の告白を描いた作品。"
+    "theme_summary_ja": "イスラエルの地方都市のクラブで行われる、老いた漫談家ドヴァレの一夜限りのスタンダップコメディの舞台を、客席にいる元裁判官の視点から描く物語。冗談を重ねるうちに次第に本音が漏れ出し、彼が少年時代に経験したある悲劇的な出来事が明らかになっていく。笑いの芸を通して自らの深い傷を吐露していく一人の男の告白を描いた作品。",
+    "country_en": "Israel",
+    "language_en": "Hebrew",
+    "theme_summary_en": "The novel unfolds over the course of a single night, at a comedy club in a provincial Israeli town, where an aging stand-up comic named Dovaleh performs, observed from the audience by a retired judge. As his jokes wear thin, his true feelings begin to surface, and a tragic event from his boyhood is gradually revealed. A confession told through the art of comedy, in which a man lays bare his deepest wound.",
+    "amazon_asin": ""
   },
   {
     "year": 2018,
@@ -245,14 +280,20 @@
       "translator": "小椋彩",
       "publisher": "白水社",
       "year": 2014,
-      "note": "日本語版は原書(ポーランド語)からの翻訳で、受賞対象の英訳(フライツ)とは独立に刊行"
+      "note": "日本語版は原書(ポーランド語)からの翻訳で、受賞対象の英訳(フライツ)とは独立に刊行",
+      "note_en": "The Japanese edition is translated directly from the original (Polish), published independently of the English translation (Flights) that won the prize."
     },
     "source_urls": [
       "https://thebookerprizes.com/",
       "https://en.wikipedia.org/wiki/International_Booker_Prize"
     ],
     "notes": "2019年にノーベル文学賞を受賞。国際ブッカー賞・ノーベル賞双方を受けた代表例",
-    "theme_summary_ja": "旅そのものをテーマに、空港や機内、身体の保存・解剖にまつわる逸話、歴史上の人物にまつわる断章など、多数の短い物語や考察を織り交ぜた形式の作品。一つの筋書きを追うのではなく、移動や越境、身体の断片化といったモチーフを通じて、現代人の落ち着きのなさや場所に縛られない生き方を探る。伝統的な小説の形式そのものに挑んだ実験的な作品。"
+    "theme_summary_ja": "旅そのものをテーマに、空港や機内、身体の保存・解剖にまつわる逸話、歴史上の人物にまつわる断章など、多数の短い物語や考察を織り交ぜた形式の作品。一つの筋書きを追うのではなく、移動や越境、身体の断片化といったモチーフを通じて、現代人の落ち着きのなさや場所に縛られない生き方を探る。伝統的な小説の形式そのものに挑んだ実験的な作品。",
+    "country_en": "Poland",
+    "language_en": "Polish",
+    "notes_en": "Won the Nobel Prize in Literature in 2019. A leading example of a writer who won both the International Booker Prize and the Nobel Prize.",
+    "theme_summary_en": "A work built entirely around the theme of travel, weaving together dozens of short narratives and reflections -- episodes set in airports and airplane cabins, anecdotes about the preservation and dissection of bodies, and fragments concerning historical figures. Rather than following a single plot, the novel explores, through motifs of movement, border-crossing, and bodily fragmentation, the restlessness of contemporary life and the possibility of a life untethered from any fixed place. An experimental work that challenges the very form of the traditional novel.",
+    "amazon_asin": ""
   },
   {
     "year": 2019,
@@ -274,14 +315,19 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "邦訳は確認できず(2026年時点)"
+      "note": "邦訳は確認できず(2026年時点)",
+      "note_en": "No Japanese translation could be confirmed (as of 2026)."
     },
     "source_urls": [
       "https://thebookerprizes.com/",
       "https://en.wikipedia.org/wiki/International_Booker_Prize"
     ],
     "notes": null,
-    "theme_summary_ja": "オマーンの村を舞台に、奴隷制の記憶が残る時代から現代に至るまで、三姉妹とその周囲の人々の結婚や恋愛、家族関係の移り変わりを描く物語。それぞれ異なる結婚の形を選んだ三姉妹の人生を通じて、急速な近代化を経験するオマーン社会における伝統と変化、身分制度の名残が描かれる。アラビア半島の女性たちの内面を丁寧にすくい取った作品。"
+    "theme_summary_ja": "オマーンの村を舞台に、奴隷制の記憶が残る時代から現代に至るまで、三姉妹とその周囲の人々の結婚や恋愛、家族関係の移り変わりを描く物語。それぞれ異なる結婚の形を選んだ三姉妹の人生を通じて、急速な近代化を経験するオマーン社会における伝統と変化、身分制度の名残が描かれる。アラビア半島の女性たちの内面を丁寧にすくい取った作品。",
+    "country_en": "Oman",
+    "language_en": "Arabic",
+    "theme_summary_en": "Set in an Omani village, the novel spans the era when the memory of slavery still lingered through to the present day, tracing the marriages, romances, and shifting family relationships of three sisters and those around them. Through the lives of three sisters, each of whom chooses a different path to marriage, the novel captures the tensions between tradition and change, and the lingering traces of a hierarchical social order, in an Omani society undergoing rapid modernization. A work that attends carefully to the inner lives of women on the Arabian Peninsula.",
+    "amazon_asin": ""
   },
   {
     "year": 2020,
@@ -310,7 +356,11 @@
       "https://en.wikipedia.org/wiki/International_Booker_Prize"
     ],
     "notes": null,
-    "theme_summary_ja": "オランダの厳格なプロテスタントの酪農家一家で、兄がスケートの事故で亡くなったことをきっかけに、幼い娘ヤスが極端な行動や強迫観念にとらわれていく物語。信仰と喪失に押しつぶされる家族が、互いに悲しみを言葉にできないまま少しずつ壊れていく様子が、子供の視点から生々しく描かれる。死と身体、宗教的抑圧が絡み合う、痛みに満ちた成長物語。"
+    "theme_summary_ja": "オランダの厳格なプロテスタントの酪農家一家で、兄がスケートの事故で亡くなったことをきっかけに、幼い娘ヤスが極端な行動や強迫観念にとらわれていく物語。信仰と喪失に押しつぶされる家族が、互いに悲しみを言葉にできないまま少しずつ壊れていく様子が、子供の視点から生々しく描かれる。死と身体、宗教的抑圧が絡み合う、痛みに満ちた成長物語。",
+    "country_en": "Netherlands",
+    "language_en": "Dutch",
+    "theme_summary_en": "In a strict Protestant dairy-farming family in the Netherlands, the death of an older brother in a skating accident sends his young sister Jas spiraling into extreme behavior and obsessive fixations. Crushed under the weight of faith and grief, the family slowly falls apart, unable to put their sorrow into words, all rendered with raw immediacy from a child's point of view. A painful coming-of-age story in which death, the body, and religious repression are inextricably entangled.",
+    "amazon_asin": ""
   },
   {
     "year": 2021,
@@ -332,14 +382,19 @@
       "translator": "加藤かおり",
       "publisher": "早川書房",
       "year": 2024,
-      "note": "フランスで高校生が選ぶゴンクール賞を受賞した原作の英訳が本賞を受賞"
+      "note": "フランスで高校生が選ぶゴンクール賞を受賞した原作の英訳が本賞を受賞",
+      "note_en": "The English translation of a work that won the Goncourt Prize des Lyceens (chosen by French high school students) went on to win this prize."
     },
     "source_urls": [
       "https://thebookerprizes.com/",
       "https://en.wikipedia.org/wiki/International_Booker_Prize"
     ],
     "notes": null,
-    "theme_summary_ja": "第一次世界大戦の西部戦線に送られたセネガル人兵士アルファが、親友の壮絶な死をきっかけに復讐心にとらわれ、敵兵を殺しては戦利品として持ち帰る行為に取り憑かれていく物語。戦友たちからも恐れられるようになっていく彼の変貌を通じて、植民地から徴用された兵士が経験した戦争の狂気と、暴力が人間を蝕んでいく過程が描かれる。アフリカ人兵士の視点から第一次大戦を捉え直した作品。"
+    "theme_summary_ja": "第一次世界大戦の西部戦線に送られたセネガル人兵士アルファが、親友の壮絶な死をきっかけに復讐心にとらわれ、敵兵を殺しては戦利品として持ち帰る行為に取り憑かれていく物語。戦友たちからも恐れられるようになっていく彼の変貌を通じて、植民地から徴用された兵士が経験した戦争の狂気と、暴力が人間を蝕んでいく過程が描かれる。アフリカ人兵士の視点から第一次大戦を捉え直した作品。",
+    "country_en": "France",
+    "language_en": "French",
+    "theme_summary_en": "Alfa, a Senegalese soldier sent to fight on the Western Front in the First World War, is consumed by a desire for revenge after witnessing his best friend's horrific death, and becomes fixated on killing enemy soldiers and bringing back their severed hands as trophies. Through his transformation, which comes to terrify even his fellow soldiers, the novel depicts the madness of war as experienced by a soldier conscripted from a colony, and the way violence corrodes a human being from within. A work that reframes the First World War through the eyes of an African soldier.",
+    "amazon_asin": ""
   },
   {
     "year": 2022,
@@ -361,14 +416,19 @@
       "translator": "藤井美佳",
       "publisher": "エトセトラブックス",
       "year": 2025,
-      "note": "日本語版は原書(ヒンディー語)からの翻訳。邦題は英題(Tomb of Sand)と異なる"
+      "note": "日本語版は原書(ヒンディー語)からの翻訳。邦題は英題(Tomb of Sand)と異なる",
+      "note_en": "The Japanese edition is translated directly from the original (Hindi). The Japanese title differs from the English title (Tomb of Sand)."
     },
     "source_urls": [
       "https://thebookerprizes.com/",
       "https://en.wikipedia.org/wiki/International_Booker_Prize"
     ],
     "notes": null,
-    "theme_summary_ja": "インドの高齢女性が、夫の死後うつ状態に陥った末に急に元気を取り戻し、インド・パキスタン分離独立の際に生き別れた過去と向き合うため、国境を越えてパキスタンへ向かおうとする物語。老いや性、国境というテーマを、言葉遊びや脱線を多用した奔放な文体で描く。分離独立の傷と、年老いた女性の自由への渇望とを結びつけた作品。"
+    "theme_summary_ja": "インドの高齢女性が、夫の死後うつ状態に陥った末に急に元気を取り戻し、インド・パキスタン分離独立の際に生き別れた過去と向き合うため、国境を越えてパキスタンへ向かおうとする物語。老いや性、国境というテーマを、言葉遊びや脱線を多用した奔放な文体で描く。分離独立の傷と、年老いた女性の自由への渇望とを結びつけた作品。",
+    "country_en": "India",
+    "language_en": "Hindi",
+    "theme_summary_en": "An elderly Indian woman, after sinking into depression following her husband's death, suddenly regains her vitality and sets out to cross the border into Pakistan in order to confront the past -- a separation from a loved one during the Partition of India and Pakistan. The themes of old age, sexuality, and national borders are rendered in an exuberant style full of wordplay and digression. A work that binds the wounds of Partition to an elderly woman's yearning for freedom.",
+    "amazon_asin": ""
   },
   {
     "year": 2023,
@@ -390,14 +450,19 @@
       "translator": "寺島憲治",
       "publisher": "早川書房",
       "year": 2026,
-      "note": "受賞から邦訳刊行まで約3年のタイムラグがある"
+      "note": "受賞から邦訳刊行まで約3年のタイムラグがある",
+      "note_en": "There is a lag of roughly three years between the award and the publication of the Japanese translation."
     },
     "source_urls": [
       "https://thebookerprizes.com/",
       "https://en.wikipedia.org/wiki/International_Booker_Prize"
     ],
     "notes": null,
-    "theme_summary_ja": "過去の記憶を失っていく認知症患者のために、各階が異なる年代を精密に再現した「過去のクリニック」を作った人物と、その施設を訪れる語り手の物語。やがてこの「過去への逃避」は施設の外にも広がり、ヨーロッパ各国が国民投票によって自国の「最良だった時代」を選び直そうとする事態にまで発展していく。個人的なノスタルジーが社会全体を覆っていく様を寓話的に描いた作品。"
+    "theme_summary_ja": "過去の記憶を失っていく認知症患者のために、各階が異なる年代を精密に再現した「過去のクリニック」を作った人物と、その施設を訪れる語り手の物語。やがてこの「過去への逃避」は施設の外にも広がり、ヨーロッパ各国が国民投票によって自国の「最良だった時代」を選び直そうとする事態にまで発展していく。個人的なノスタルジーが社会全体を覆っていく様を寓話的に描いた作品。",
+    "country_en": "Bulgaria",
+    "language_en": "Bulgarian",
+    "theme_summary_en": "A man builds a \"clinic for the past,\" with each floor meticulously recreating a different decade, to help dementia patients who are losing their memories, and the narrator visits this facility. Eventually, this flight into the past spreads beyond the clinic's walls, until European nations begin holding referendums to choose which era they consider their own \"best of times\" and return to. An allegorical work depicting how personal nostalgia comes to engulf an entire society.",
+    "amazon_asin": ""
   },
   {
     "year": 2024,
@@ -419,14 +484,19 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "著者の他作品『行く、行った、行ってしまった』(白水社)は邦訳があるが、本作『Kairos』の邦訳は確認できず(2026年時点)"
+      "note": "著者の他作品『行く、行った、行ってしまった』(白水社)は邦訳があるが、本作『Kairos』の邦訳は確認できず(2026年時点)",
+      "note_en": "The author's other work \"Go, Went, Gone\" (Hakusuisha) has a Japanese translation, but no Japanese translation of this work, \"Kairos,\" could be confirmed (as of 2026)."
     },
     "source_urls": [
       "https://thebookerprizes.com/",
       "https://en.wikipedia.org/wiki/International_Booker_Prize"
     ],
     "notes": null,
-    "theme_summary_ja": "1980年代後半の東ベルリンで出会った、19歳の女子学生と50代の既婚男性作家との激しく破壊的な恋愛関係を描く物語。二人の関係が支配と依存、裏切りを繰り返しながら壊れていく過程が、東ドイツという体制の崩壊と重ね合わせて語られる。個人的な愛の物語を通して、ある時代・体制の終焉とその後に残るものを描いた作品。"
+    "theme_summary_ja": "1980年代後半の東ベルリンで出会った、19歳の女子学生と50代の既婚男性作家との激しく破壊的な恋愛関係を描く物語。二人の関係が支配と依存、裏切りを繰り返しながら壊れていく過程が、東ドイツという体制の崩壊と重ね合わせて語られる。個人的な愛の物語を通して、ある時代・体制の終焉とその後に残るものを描いた作品。",
+    "country_en": "Germany",
+    "language_en": "German",
+    "theme_summary_en": "Set in East Berlin in the late 1980s, the novel depicts the intense and destructive affair between a nineteen-year-old female student and a married writer in his fifties. Their relationship, cycling through domination, dependency, and betrayal as it disintegrates, is narrated in parallel with the collapse of the East German state. Through this deeply personal love story, the novel portrays the end of an era and a political system, and what remains in its wake.",
+    "amazon_asin": ""
   },
   {
     "year": 2025,
@@ -448,14 +518,19 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "2025年受賞のため邦訳はまだ刊行されていないとみられる(2026年時点)"
+      "note": "2025年受賞のため邦訳はまだ刊行されていないとみられる(2026年時点)",
+      "note_en": "As the award was given in 2025, a Japanese translation does not appear to have been published yet (as of 2026)."
     },
     "source_urls": [
       "https://thebookerprizes.com/",
       "https://en.wikipedia.org/wiki/International_Booker_Prize"
     ],
     "notes": null,
-    "theme_summary_ja": "南インド・カルナータカ州のイスラム教徒コミュニティに生きる女性たちを描いた短編小説集。結婚生活における抑圧や、宗教的な規範と個人の願いとの間で板挟みになる女性たちの姿が、時にユーモアを交えながら描かれる。何十年にもわたって書き継がれてきた作品群を通じて、家父長制の中で声を上げようとする女性たちの姿を映し出す作品。"
+    "theme_summary_ja": "南インド・カルナータカ州のイスラム教徒コミュニティに生きる女性たちを描いた短編小説集。結婚生活における抑圧や、宗教的な規範と個人の願いとの間で板挟みになる女性たちの姿が、時にユーモアを交えながら描かれる。何十年にもわたって書き継がれてきた作品群を通じて、家父長制の中で声を上げようとする女性たちの姿を映し出す作品。",
+    "country_en": "India",
+    "language_en": "Kannada",
+    "theme_summary_en": "A collection of short stories depicting women living within the Muslim community of Karnataka in southern India. It portrays, sometimes with humor, women caught between the oppressions of married life and the tension between religious norms and personal desires. Drawing on stories written over the course of several decades, the collection reflects the struggle of women to make their voices heard within a patriarchal society.",
+    "amazon_asin": ""
   },
   {
     "year": 2026,
@@ -477,13 +552,18 @@
       "translator": "三浦裕子",
       "publisher": "中央公論新社",
       "year": 2023,
-      "note": "日本語版は原書(中国語)からの翻訳で、受賞対象の英訳より先に刊行。2024年全米図書賞(翻訳文学部門)・日本翻訳大賞も受賞"
+      "note": "日本語版は原書(中国語)からの翻訳で、受賞対象の英訳より先に刊行。2024年全米図書賞(翻訳文学部門)・日本翻訳大賞も受賞",
+      "note_en": "The Japanese edition is translated directly from the original (Chinese) and was published before the English translation that won the prize. It also won the 2024 National Book Award (Translated Literature) and the Japan Translation Award."
     },
     "source_urls": [
       "https://thebookerprizes.com/",
       "https://en.wikipedia.org/wiki/International_Booker_Prize"
     ],
     "notes": null,
-    "theme_summary_ja": "日本統治下の1930年代の台湾を舞台に、台湾各地を訪れる日本人女性作家と、その通訳兼案内役を務める台湾人女性との交流を描く物語。表向きは友情に見える二人の関係の裏に、支配する側とされる側という非対称な力関係が絶えず潜んでいることが、食をめぐる描写を通じて浮かび上がる。植民地時代の記憶を、現代の視点を交えた枠物語の形式で問い直す作品。"
+    "theme_summary_ja": "日本統治下の1930年代の台湾を舞台に、台湾各地を訪れる日本人女性作家と、その通訳兼案内役を務める台湾人女性との交流を描く物語。表向きは友情に見える二人の関係の裏に、支配する側とされる側という非対称な力関係が絶えず潜んでいることが、食をめぐる描写を通じて浮かび上がる。植民地時代の記憶を、現代の視点を交えた枠物語の形式で問い直す作品。",
+    "country_en": "Taiwan",
+    "language_en": "Chinese (Taiwanese Mandarin)",
+    "theme_summary_en": "Set in Taiwan under Japanese colonial rule in the 1930s, the novel depicts the relationship between a Japanese woman writer touring the island and the Taiwanese woman who serves as her interpreter and guide. Beneath their seemingly warm friendship, an asymmetrical power relationship between colonizer and colonized is constantly at work, an imbalance that surfaces repeatedly through the novel's depictions of food. A work that reexamines the memory of the colonial era through a frame narrative that incorporates a contemporary perspective.",
+    "amazon_asin": ""
   }
 ]

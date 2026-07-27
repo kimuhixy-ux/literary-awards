@@ -11,10 +11,25 @@
     "description": "作家の全業績(まれに特定作品)に対して授与される、世界で最も権威ある文学賞。毎年10月に発表。",
     "official_url": "https://www.nobelprize.org/prizes/literature/",
     "related_awards": [
-      { "id": "booker", "note": "ブッカー賞受賞後にノーベル賞を受けた作家が複数いる(イシグロ、クッツェー等)" },
-      { "id": "intl-booker", "note": "国際ブッカー賞受賞後にノーベル賞を受けた例がある(ハン・ガン)" },
-      { "id": "akutagawa", "note": "芥川賞受賞作家がのちにノーベル賞を受けた例がある(大江健三郎)" }
-    ]
+      {
+        "id": "booker",
+        "note": "ブッカー賞受賞後にノーベル賞を受けた作家が複数いる(イシグロ、クッツェー等)",
+        "note_en": "Several Booker Prize winners have gone on to win the Nobel Prize (Ishiguro, Coetzee, and others)"
+      },
+      {
+        "id": "intl-booker",
+        "note": "国際ブッカー賞受賞後にノーベル賞を受けた例がある(ハン・ガン)",
+        "note_en": "Han Kang won the Nobel Prize after previously winning the International Booker Prize"
+      },
+      {
+        "id": "akutagawa",
+        "note": "芥川賞受賞作家がのちにノーベル賞を受けた例がある(大江健三郎)",
+        "note_en": "Kenzaburo Oe later won the Nobel Prize after winning the Akutagawa Prize"
+      }
+    ],
+    "country_en": "International (Sweden)",
+    "organizer_en": "Swedish Academy",
+    "description_en": "Awarded for an author's complete body of work (rarely a specific work); the world's most prestigious literary prize. Announced every October."
   },
   {
     "id": "booker",
@@ -28,9 +43,20 @@
     "description": "英語で書かれ英国・アイルランドで出版された長編小説に授与される。1969年創設、当初は英連邦・アイルランド作家中心だったが2014年よりアメリカ人作家も対象に。",
     "official_url": "https://thebookerprizes.com/",
     "related_awards": [
-      { "id": "nobel", "note": "受賞作家が後年ノーベル文学賞を受けるケースが多い" },
-      { "id": "intl-booker", "note": "2005年創設の国際ブッカー賞が2016年に翻訳小説対象の年次賞へ改組され、姉妹賞となった" }
-    ]
+      {
+        "id": "nobel",
+        "note": "受賞作家が後年ノーベル文学賞を受けるケースが多い",
+        "note_en": "Many winners go on to receive the Nobel Prize in Literature in later years"
+      },
+      {
+        "id": "intl-booker",
+        "note": "2005年創設の国際ブッカー賞が2016年に翻訳小説対象の年次賞へ改組され、姉妹賞となった",
+        "note_en": "The International Booker Prize, founded in 2005, was reorganized in 2016 into an annual prize for translated fiction and became a sister award"
+      }
+    ],
+    "country_en": "English-speaking world",
+    "organizer_en": "The Booker Prize Foundation",
+    "description_en": "Awarded to a novel written in English and published in the UK or Ireland. Founded in 1969, originally centered on Commonwealth and Irish writers, and opened to American authors from 2014."
   },
   {
     "id": "intl-booker",
@@ -44,9 +70,20 @@
     "description": "英語に翻訳され英国・アイルランドで出版された小説に授与される。原作の著者と翻訳者に賞金が等分される。2005〜2015年は隔年で作家の全業績を対象とする賞だったが、2016年より年次・単一作品対象の賞に改組。",
     "official_url": "https://thebookerprizes.com/",
     "related_awards": [
-      { "id": "booker", "note": "ブッカー賞の姉妹賞。2016年の改組で翻訳小説の年次賞となった" },
-      { "id": "nobel", "note": "国際ブッカー賞受賞後にノーベル賞を受けた例がある(ハン・ガン、2024年)" }
-    ]
+      {
+        "id": "booker",
+        "note": "ブッカー賞の姉妹賞。2016年の改組で翻訳小説の年次賞となった",
+        "note_en": "Sister prize to the Booker Prize; became an annual award for translated fiction after the 2016 reorganization"
+      },
+      {
+        "id": "nobel",
+        "note": "国際ブッカー賞受賞後にノーベル賞を受けた例がある(ハン・ガン、2024年)",
+        "note_en": "Han Kang won the Nobel Prize (2024) after previously winning the International Booker Prize"
+      }
+    ],
+    "country_en": "Translated fiction (English translation)",
+    "organizer_en": "The Booker Prize Foundation",
+    "description_en": "Awarded to a novel translated into English and published in the UK or Ireland; the prize money is split equally between author and translator. From 2005 to 2015 it was a biennial award for a body of work, and was reorganized in 2016 into an annual award for a single work."
   },
   {
     "id": "akutagawa",
@@ -60,8 +97,15 @@
     "description": "新人・無名作家による純文学の短編・中編小説に贈られる、年2回(上期・下期)発表の賞。対をなす直木賞は大衆文学(エンターテインメント)が対象で、芥川賞とは性格が異なる。",
     "official_url": "https://prizesworld.com/akutagawa/",
     "related_awards": [
-      { "id": "nobel", "note": "大江健三郎は1958年に芥川賞(『飼育』)、1994年にノーベル文学賞を受賞" }
-    ]
+      {
+        "id": "nobel",
+        "note": "大江健三郎は1958年に芥川賞(『飼育』)、1994年にノーベル文学賞を受賞",
+        "note_en": "Kenzaburo Oe won the Akutagawa Prize in 1958 (for \"Prize Stock\") and the Nobel Prize in Literature in 1994"
+      }
+    ],
+    "country_en": "Japan",
+    "organizer_en": "The Society for the Promotion of Japanese Literature (selection entrusted to its committee)",
+    "description_en": "Awarded twice a year (first half / second half) for short or medium-length works of pure literature by new or little-known writers. Its counterpart, the Naoki Prize, covers popular (entertainment) fiction and differs in character from the Akutagawa Prize."
   },
   {
     "id": "goncourt",
@@ -75,8 +119,15 @@
     "description": "フランス語で書かれたその年最も優れた「想像力豊かな散文作品」に贈られる、フランスで最も権威ある文学賞。副賞は象徴的に10ユーロのみ。",
     "official_url": "https://www.academie-goncourt.fr/",
     "related_awards": [
-      { "id": "nobel", "note": "受賞作家が後年ノーベル文学賞を受けるケースがある(ル・クレジオ等)" }
-    ]
+      {
+        "id": "nobel",
+        "note": "受賞作家が後年ノーベル文学賞を受けるケースがある(ル・クレジオ等)",
+        "note_en": "Some winners have gone on to win the Nobel Prize in Literature in later years (e.g. Le Clézio)"
+      }
+    ],
+    "country_en": "France",
+    "organizer_en": "Académie Goncourt",
+    "description_en": "Awarded to the best \"imaginative prose work\" of the year written in French; France's most prestigious literary prize. The prize money is a symbolic 10 euros."
   },
   {
     "id": "pulitzer-fiction",
@@ -90,8 +141,15 @@
     "description": "アメリカ人作家によるその年最も優れた小説に贈られる。該当作品なしと判断された年もある。",
     "official_url": "https://www.pulitzer.org/prize-categories/fiction",
     "related_awards": [
-      { "id": "nobel", "note": "受賞作家が後年ノーベル文学賞を受けるケースがある(トニ・モリスン等)" }
-    ]
+      {
+        "id": "nobel",
+        "note": "受賞作家が後年ノーベル文学賞を受けるケースがある(トニ・モリスン等)",
+        "note_en": "Some winners have gone on to win the Nobel Prize in Literature in later years (e.g. Toni Morrison)"
+      }
+    ],
+    "country_en": "United States",
+    "organizer_en": "Columbia University (Pulitzer Prize Board)",
+    "description_en": "Awarded to the best novel of the year by an American author. In some years no award was given."
   },
   {
     "id": "national-book",
@@ -105,8 +163,15 @@
     "description": "アメリカで出版されたその年最も優れたフィクション作品に贈られる。",
     "official_url": "https://www.nationalbook.org/",
     "related_awards": [
-      { "id": "pulitzer-fiction", "note": "同一作品・作家が両賞を受賞する例が多い" }
-    ]
+      {
+        "id": "pulitzer-fiction",
+        "note": "同一作品・作家が両賞を受賞する例が多い",
+        "note_en": "The same work or author often wins both prizes"
+      }
+    ],
+    "country_en": "United States",
+    "organizer_en": "National Book Foundation",
+    "description_en": "Awarded to the best work of fiction published in the United States that year."
   },
   {
     "id": "cervantes",
@@ -120,7 +185,14 @@
     "description": "スペイン語(カスティーリャ語)文学に対する業績に贈られる、スペイン語圏で最も権威ある文学賞。スペイン国王が授与する。",
     "official_url": "https://www.cultura.gob.es/cultura/areas/libro/mc/premio-cervantes.html",
     "related_awards": [
-      { "id": "nobel", "note": "受賞作家が後年ノーベル文学賞を受けるケースがある(バルガス・リョサ等)" }
-    ]
+      {
+        "id": "nobel",
+        "note": "受賞作家が後年ノーベル文学賞を受けるケースがある(バルガス・リョサ等)",
+        "note_en": "Some winners have gone on to win the Nobel Prize in Literature in later years (e.g. Vargas Llosa)"
+      }
+    ],
+    "country_en": "Spanish-speaking world",
+    "organizer_en": "Spanish Ministry of Culture",
+    "description_en": "Awarded for a body of work in the Spanish (Castilian) language; the most prestigious literary prize in the Spanish-speaking world. Presented by the King of Spain."
   }
 ]

@@ -1,6 +1,36 @@
 'use strict';
 
-const APP_ROOT = new URL('.', location.href).pathname;
+const APP_ROOT = new URL(window.ROOT, location.href).pathname;
+const EN = window.LOCALE === 'en';
+const S = window.S;
+function pick(obj, jaKey, enKey) {
+  if (!obj) return obj;
+  if (EN && obj[enKey]) return obj[enKey];
+  return obj[jaKey];
+}
+function awardName(award) {
+  if (!award) return '';
+  return EN && award.name_en ? award.name_en : award.name_ja;
+}
+function authorName(a) {
+  if (!a) return '';
+  return EN && a.name_en ? a.name_en : (a.name_ja || a.name_en || a.author_id);
+}
+function laureateAuthorLabel(r) {
+  if (!r) return '';
+  return EN ? (r.author_en || r.author_ja || r.author_id) : (r.author_ja || r.author_en || r.author_id);
+}
+function laureateWorkLabel(r) {
+  if (!r) return '';
+  return EN ? (r.work_en || r.work_original || r.work_ja) : (r.work_ja || r.work_original);
+}
+const SESSION_EN = { '上期': 'First Half', '下期': 'Second Half' };
+function sessionLabel(r) {
+  if (!r || !r.session) return '';
+  const session = EN ? (SESSION_EN[r.session] || r.session) : r.session;
+  const round = r.round ? (EN ? ` (Round ${r.round})` : ` 第${r.round}回`) : '';
+  return `${session}${round}`;
+}
 
 /* ---------- data cache ---------- */
 const cache = {};
@@ -53,33 +83,30 @@ function esc(s) {
 }
 function translationBadge(jpt) {
   if (!jpt) return null;
-  if (jpt.status === 'available') return h('span', { class: 'badge badge-available' }, '邦訳あり');
-  if (jpt.status === 'unavailable' && jpt.note && jpt.note.includes('書誌')) return h('span', { class: 'badge' }, '書誌要確認');
-  if (jpt.status === 'unavailable') return h('span', { class: 'badge badge-unavailable' }, '未邦訳');
-  if (jpt.status === 'original-ja') return h('span', { class: 'badge badge-available' }, '日本語原文');
-  if (jpt.status === 'unverified') return h('span', { class: 'badge badge-unverified' }, '邦訳未確認');
+  if (jpt.status === 'available') return h('span', { class: 'badge badge-available' }, S.badgeTranslationAvailable);
+  if (jpt.status === 'unavailable' && jpt.note && jpt.note.includes('書誌')) return h('span', { class: 'badge' }, S.badgeBibliographyCheck);
+  if (jpt.status === 'unavailable') return h('span', { class: 'badge badge-unavailable' }, S.badgeUntranslated);
+  if (jpt.status === 'original-ja') return h('span', { class: 'badge badge-available' }, S.badgeOriginalJa);
+  if (jpt.status === 'unverified') return h('span', { class: 'badge badge-unverified' }, S.badgeTranslationUnverified);
   return null;
 }
 function workTranslationInfo(jpt) {
-  if (!jpt) return h('div', { class: 'work-translation is-unverified' }, '邦訳: 情報なし');
+  if (!jpt) return h('div', { class: 'work-translation is-unverified' }, S.workTranslationNone);
   if (jpt.status === 'available') {
     const bibliography = [jpt.translator, jpt.publisher, jpt.year].filter(Boolean).join(' / ');
     return h('div', { class: 'work-translation is-available' }, [
-      `邦訳あり${jpt.title_ja ? `: 『${jpt.title_ja}』` : ''}`,
+      `${S.workTranslationAvailablePrefix}${jpt.title_ja ? `: 『${jpt.title_ja}』` : ''}`,
       bibliography ? ` — ${bibliography}` : '',
     ]);
   }
-  if (jpt.status === 'original-ja') return h('div', { class: 'work-translation is-available' }, '邦訳: 日本語原著');
-  if (jpt.status === 'unavailable') return h('div', { class: 'work-translation is-unavailable' }, '邦訳なし（書誌確認済み）');
-  return h('div', { class: 'work-translation is-unverified' }, '邦訳: 書誌未確認（未邦訳とは限りません）');
-}
-function awardShortName(award) {
-  return award ? award.name_ja : '';
+  if (jpt.status === 'original-ja') return h('div', { class: 'work-translation is-available' }, S.workTranslationOriginalJa);
+  if (jpt.status === 'unavailable') return h('div', { class: 'work-translation is-unavailable' }, S.workTranslationUnavailable);
+  return h('div', { class: 'work-translation is-unverified' }, S.workTranslationUnverified);
 }
 function ownedBadge(entry) {
   if (!entry) return null;
-  if (entry.status === 'exact') return h('span', { class: 'badge badge-owned' }, '所蔵');
-  if (entry.status === 'fuzzy') return h('span', { class: 'badge badge-owned-fuzzy' }, '所蔵?(要確認)');
+  if (entry.status === 'exact') return h('span', { class: 'badge badge-owned' }, S.badgeOwned);
+  if (entry.status === 'fuzzy') return h('span', { class: 'badge badge-owned-fuzzy' }, S.badgeOwnedFuzzy);
   return null;
 }
 
@@ -103,7 +130,7 @@ async function router() {
   const hash = location.hash || '#/';
   const app = document.getElementById('app');
   app.innerHTML = '';
-  app.appendChild(h('div', { class: 'loading-state' }, '読み込み中...'));
+  app.appendChild(h('div', { class: 'loading-state' }, S.loading));
 
   let matched = false;
   for (const r of routes) {
@@ -115,14 +142,14 @@ async function router() {
       } catch (e) {
         console.error(e);
         app.innerHTML = '';
-        app.appendChild(h('div', { class: 'empty-state' }, 'データの読み込みに失敗しました。'));
+        app.appendChild(h('div', { class: 'empty-state' }, S.loadError));
       }
       break;
     }
   }
   if (!matched) {
     app.innerHTML = '';
-    app.appendChild(h('div', { class: 'empty-state' }, 'ページが見つかりません。'));
+    app.appendChild(h('div', { class: 'empty-state' }, S.notFound));
   }
 
   const remembered = scrollMemory.get(hash);
@@ -150,7 +177,7 @@ async function viewHome(app) {
   const search = h('input', {
     class: 'search-box',
     type: 'text',
-    placeholder: '作家名で横断検索(例: イシグロ、Ishiguro)',
+    placeholder: S.searchPlaceholder,
   });
   const results = h('div', { class: 'search-results' });
   search.addEventListener('input', () => {
@@ -162,13 +189,13 @@ async function viewHome(app) {
       (a.name_en && a.name_en.toLowerCase().includes(q))
     ).slice(0, 20);
     if (hits.length === 0) {
-      results.appendChild(h('div', { class: 'search-result-item' }, '該当する作家が見つかりません。'));
+      results.appendChild(h('div', { class: 'search-result-item' }, S.noAuthorFound));
       return;
     }
     for (const a of hits) {
       const awardNames = a.award_ids.map((id) => {
         const aw = awards.find((x) => x.id === id);
-        return aw ? aw.name_ja : id;
+        return aw ? awardName(aw) : id;
       }).join(' / ');
       const item = h('a', { class: 'search-result-item', href: `#/author/${a.author_id}`, style: 'display:block;' }, [
         h('div', {}, `${a.name_ja || ''}${a.name_en ? ` (${a.name_en})` : ''}`),
@@ -178,20 +205,19 @@ async function viewHome(app) {
     }
   });
 
-  app.appendChild(h('h2', { class: 'page-title' }, '世界文学賞総覧'));
-  app.appendChild(h('p', { class: 'page-subtitle' }, '主要な世界の文学賞の受賞者・受賞作を横断して調べられます。'));
+  app.appendChild(h('h2', { class: 'page-title' }, S.siteTitle));
+  app.appendChild(h('p', { class: 'page-subtitle' }, S.siteSubtitle));
   app.appendChild(search);
   app.appendChild(results);
 
   const grid = h('div', { class: 'award-grid' });
   for (const award of awards) {
     const card = h('a', { class: 'award-card', href: `#/award/${award.id}` }, [
-      h('h3', {}, award.name_ja),
-      h('p', { class: 'organizer' }, `${award.country} / ${award.founded}年〜`),
+      h('h3', {}, awardName(award)),
+      h('p', { class: 'organizer' }, `${pick(award, 'country', 'country_en')} / ${award.founded}${EN ? '' : '年'}〜`),
     ]);
-    // 開発フェーズ番号ではなく、実データの有無だけで準備中を判定する。
     if (!award.data_file) {
-      card.appendChild(h('p', { class: 'phase-note' }, '準備中(Phase 2)'));
+      card.appendChild(h('p', { class: 'phase-note' }, S.preparing));
     }
     grid.appendChild(card);
   }
@@ -203,17 +229,17 @@ async function viewAward(app, awardId) {
   const awards = await loadAwards();
   const award = awards.find((a) => a.id === awardId);
   app.innerHTML = '';
-  app.appendChild(h('a', { class: 'back-link', href: '#/' }, '← ホームへ戻る'));
+  app.appendChild(h('a', { class: 'back-link', href: '#/' }, S.backToHome));
 
   if (!award) {
-    app.appendChild(h('div', { class: 'empty-state' }, '賞が見つかりません。'));
+    app.appendChild(h('div', { class: 'empty-state' }, S.awardNotFound));
     return;
   }
-  app.appendChild(h('h2', { class: 'page-title' }, award.name_ja));
-  app.appendChild(h('p', { class: 'page-subtitle' }, award.description));
+  app.appendChild(h('h2', { class: 'page-title' }, awardName(award)));
+  app.appendChild(h('p', { class: 'page-subtitle' }, pick(award, 'description', 'description_en')));
 
   if (!award.data_file) {
-    app.appendChild(h('div', { class: 'empty-state' }, 'このデータは準備中です(Phase 2で追加予定)。'));
+    app.appendChild(h('div', { class: 'empty-state' }, S.dataPreparing));
     renderRelated(app, award, awards);
     return;
   }
@@ -223,28 +249,34 @@ async function viewAward(app, awardId) {
   const hasOwnedData = Object.keys(owned).length > 0;
 
   const filterBar = h('div', { class: 'filter-bar' });
-  const countries = [...new Set(laureates.map((r) => r.country).filter(Boolean))].sort();
-  const languages = [...new Set(laureates.map((r) => r.language).filter(Boolean))].sort();
+  const countryMap = new Map();
+  const languageMap = new Map();
+  for (const r of laureates) {
+    if (r.country && !countryMap.has(r.country)) countryMap.set(r.country, pick(r, 'country', 'country_en'));
+    if (r.language && !languageMap.has(r.language)) languageMap.set(r.language, pick(r, 'language', 'language_en'));
+  }
+  const countries = [...countryMap.keys()].sort();
+  const languages = [...languageMap.keys()].sort();
   const decades = [...new Set(laureates.map((r) => Math.floor(r.year / 10) * 10))].sort((a, b) => b - a);
 
   const decadeSel = h('select', {}, [
-    h('option', { value: '' }, '年代: すべて'),
-    ...decades.map((d) => h('option', { value: String(d) }, `${d}年代`)),
+    h('option', { value: '' }, S.filterDecadeAll),
+    ...decades.map((d) => h('option', { value: String(d) }, S.filterDecadeLabel(d))),
   ]);
 
   const countrySel = h('select', {}, [
-    h('option', { value: '' }, '国・地域: すべて'),
-    ...countries.map((c) => h('option', { value: c }, c)),
+    h('option', { value: '' }, S.filterCountryAll),
+    ...countries.map((c) => h('option', { value: c }, countryMap.get(c))),
   ]);
   const langSel = h('select', {}, [
-    h('option', { value: '' }, '言語: すべて'),
-    ...languages.map((l) => h('option', { value: l }, l)),
+    h('option', { value: '' }, S.filterLanguageAll),
+    ...languages.map((l) => h('option', { value: l }, languageMap.get(l))),
   ]);
   const transSel = h('select', {}, [
-    h('option', { value: '' }, '邦訳: すべて'),
-    h('option', { value: 'available' }, '邦訳ありのみ'),
-    h('option', { value: 'unavailable' }, '未邦訳のみ'),
-    h('option', { value: 'unverified' }, '書誌要確認のみ'),
+    h('option', { value: '' }, S.filterTranslationAll),
+    h('option', { value: 'available' }, S.filterTranslationAvailable),
+    h('option', { value: 'unavailable' }, S.filterTranslationUnavailable),
+    h('option', { value: 'unverified' }, S.filterTranslationUnverified),
   ]);
   filterBar.appendChild(decadeSel);
   filterBar.appendChild(countrySel);
@@ -253,9 +285,9 @@ async function viewAward(app, awardId) {
   let ownedSel = null;
   if (hasOwnedData) {
     ownedSel = h('select', {}, [
-      h('option', { value: '' }, '所蔵: すべて'),
-      h('option', { value: 'owned' }, '所蔵のみ'),
-      h('option', { value: 'not-owned' }, '未所蔵のみ'),
+      h('option', { value: '' }, S.filterOwnedAll),
+      h('option', { value: 'owned' }, S.filterOwnedOnly),
+      h('option', { value: 'not-owned' }, S.filterNotOwnedOnly),
     ]);
     filterBar.appendChild(ownedSel);
   }
@@ -290,7 +322,7 @@ async function viewAward(app, awardId) {
     });
     const filtered = sorted.filter(matchesFilter);
     if (filtered.length === 0) {
-      list.appendChild(h('div', { class: 'empty-state' }, '該当する受賞者がいません。'));
+      list.appendChild(h('div', { class: 'empty-state' }, S.noMatchingLaureates));
       return;
     }
     for (const r of filtered) {
@@ -314,16 +346,16 @@ function renderLaureateItem(r, award, authorMap, awards, owned) {
 
   const yearLabel = h('span', { class: 'year' }, [
     String(r.year),
-    r.session ? h('span', { class: 'round' }, `${r.session}${r.round ? ` 第${r.round}回` : ''}`) : null,
+    r.session ? h('span', { class: 'round' }, sessionLabel(r)) : null,
   ]);
   row.appendChild(yearLabel);
 
   if (isNoAward) {
-    row.appendChild(h('span', { class: 'names' }, h('span', { class: 'no-award' }, '該当作品なし')));
+    row.appendChild(h('span', { class: 'names' }, h('span', { class: 'no-award' }, S.noQualifyingWork)));
   } else {
     const names = h('div', { class: 'names' }, [
-      h('span', { class: 'author' }, `${r.author_ja || r.author_en || r.author_id}`),
-      (r.work_ja || r.work_original) ? h('span', { class: 'work' }, r.work_ja || r.work_original) : null,
+      h('span', { class: 'author' }, laureateAuthorLabel(r)),
+      laureateWorkLabel(r) ? h('span', { class: 'work' }, laureateWorkLabel(r)) : null,
     ]);
     row.appendChild(names);
     const badge = translationBadge(r.jp_translation);
@@ -355,22 +387,25 @@ function fillDetail(detail, r, award, authorMap, awards, owned) {
   detail.innerHTML = '';
   const rows = [];
   if (r.author_id) {
-    rows.push(['作家', h('a', { href: `#/author/${r.author_id}` }, r.author_ja || r.author_en || r.author_id)]);
+    rows.push([S.labelAuthor, h('a', { href: `#/author/${r.author_id}` }, laureateAuthorLabel(r))]);
   }
-  if (r.author_en && r.author_en !== r.author_ja) rows.push(['原綴り', r.author_en]);
-  if (r.country) rows.push(['国・地域', r.country]);
+  if (r.author_en && r.author_en !== r.author_ja) rows.push([S.labelOriginalSpelling, r.author_en]);
+  if (r.country) rows.push([S.labelCountry, pick(r, 'country', 'country_en')]);
   if (r.work_ja || r.work_original) {
-    rows.push(['受賞作', [r.work_ja, r.work_original].filter(Boolean).join(' / ')]);
+    const workVal = EN
+      ? [r.work_en, r.work_original].filter(Boolean).join(' / ') || r.work_ja
+      : [r.work_ja, r.work_original].filter(Boolean).join(' / ');
+    rows.push([S.labelWork, workVal]);
   }
-  if (r.theme_summary_ja) rows.push(['作品について', r.theme_summary_ja]);
-  if (r.translator_en) rows.push(['英訳者', r.translator_en]);
-  if (r.citation_ja) rows.push(['受賞理由(要旨)', r.citation_ja]);
+  if (r.theme_summary_ja) rows.push([S.labelAboutWork, pick(r, 'theme_summary_ja', 'theme_summary_en')]);
+  if (r.translator_en) rows.push([S.labelTranslatorEn, r.translator_en]);
+  if (r.citation_ja) rows.push([S.labelCitation, pick(r, 'citation_ja', 'citation_en')]);
   if (r.lecture_title || r.lecture_url) {
     const val = h('span', {}, [
       r.lecture_title ? `${r.lecture_title} ` : '',
-      r.lecture_url ? h('a', { href: r.lecture_url, target: '_blank', rel: 'noopener' }, '公式サイトで見る') : null,
+      r.lecture_url ? h('a', { href: r.lecture_url, target: '_blank', rel: 'noopener' }, S.viewOfficialSite) : null,
     ]);
-    rows.push(['記念講演', val]);
+    rows.push([S.labelLecture, val]);
   }
   if (r.jp_translation) {
     const jpt = r.jp_translation;
@@ -379,27 +414,31 @@ function fillDetail(detail, r, award, authorMap, awards, owned) {
       val = h('span', {}, [
         jpt.title_ja ? `『${jpt.title_ja}』 ` : '',
         [jpt.translator, jpt.publisher, jpt.year].filter(Boolean).join(' / '),
-        jpt.note ? h('div', { class: 'note' }, jpt.note) : null,
+        jpt.note ? h('div', { class: 'note' }, pick(jpt, 'note', 'note_en')) : null,
       ]);
     } else if (jpt.status === 'original-ja') {
-      val = '日本語で書かれた原文です';
+      val = S.originalJaText;
     } else if (jpt.status === 'unavailable') {
-      val = h('span', {}, jpt.note || '未邦訳');
+      val = h('span', {}, (jpt.note ? pick(jpt, 'note', 'note_en') : null) || S.untranslated);
     } else {
-      val = '対象外';
+      val = S.notApplicable;
     }
-    rows.push(['邦訳情報', val]);
+    rows.push([S.labelJapaneseTranslation, val]);
   }
   if (r.author_id && owned) {
     const entry = owned[ownedKey(award.id, r.year, r.author_id)];
     if (entry) {
-      const label = entry.status === 'exact' ? '所蔵しています' : '所蔵の可能性があります(要確認)';
-      rows.push(['所蔵', `${label} — 蔵書vault内『${entry.matched_title}』と照合`]);
+      const label = entry.status === 'exact' ? S.ownedYes : S.ownedMaybe;
+      rows.push([S.badgeOwned, `${label}${S.ownedMatch(entry.matched_title)}`]);
     }
   }
-  if (r.notes) rows.push(['備考', r.notes]);
+  const amazonUrl = window.buildAffiliateLink && window.buildAffiliateLink(r.amazon_asin);
+  if (amazonUrl) {
+    rows.push([null, h('a', { href: amazonUrl, target: '_blank', rel: 'sponsored noopener' }, [S.findOnAmazon, h('span', { class: 'pr-label' }, 'PR')])]);
+  }
+  if (r.notes) rows.push([S.labelNotes, pick(r, 'notes', 'notes_en')]);
   if (r.source_urls && r.source_urls.length) {
-    rows.push(['出典', h('span', {}, r.source_urls.map((u, i) => h('a', { href: u, target: '_blank', rel: 'noopener', style: 'display:block;' }, u)))]);
+    rows.push([S.labelSources, h('span', {}, r.source_urls.map((u, i) => h('a', { href: u, target: '_blank', rel: 'noopener', style: 'display:block;' }, u)))]);
   }
 
   // other awards for this author
@@ -411,29 +450,29 @@ function fillDetail(detail, r, award, authorMap, awards, owned) {
         const badges = h('div', { class: 'other-awards-badges' },
           others.map((e) => {
             const aw = awards.find((x) => x.id === e.award_id);
-            return h('a', { class: 'other-award-badge', href: `#/author/${r.author_id}` }, `${aw ? aw.name_ja : e.award_id} (${e.year})`);
+            return h('a', { class: 'other-award-badge', href: `#/author/${r.author_id}` }, `${aw ? awardName(aw) : e.award_id} (${e.year})`);
           })
         );
-        rows.push(['他の受賞', badges]);
+        rows.push([S.labelOtherAwards, badges]);
       }
     }
   }
 
   for (const [label, val] of rows) {
-    detail.appendChild(h('dt', {}, label));
-    detail.appendChild(h('dd', {}, typeof val === 'string' ? val : val));
+    if (label) detail.appendChild(h('dt', {}, label));
+    detail.appendChild(h('dd', {}, val));
   }
 }
 
 function renderRelated(app, award, awards) {
   if (!award.related_awards || !award.related_awards.length) return;
   const wrap = h('div', {});
-  wrap.appendChild(h('h3', { class: 'page-title', style: 'font-size:1.05rem;' }, '関連する賞'));
+  wrap.appendChild(h('h3', { class: 'page-title', style: 'font-size:1.05rem;' }, S.relatedAwards));
   for (const rel of award.related_awards) {
     const relAward = awards.find((a) => a.id === rel.id);
     wrap.appendChild(h('div', { class: 'related-note' }, [
-      h('h4', {}, h('a', { href: `#/award/${rel.id}` }, relAward ? relAward.name_ja : rel.id)),
-      h('p', { style: 'margin:0;' }, rel.note),
+      h('h4', {}, h('a', { href: `#/award/${rel.id}` }, relAward ? awardName(relAward) : rel.id)),
+      h('p', { style: 'margin:0;' }, pick(rel, 'note', 'note_en')),
     ]));
   }
   app.appendChild(wrap);
@@ -444,23 +483,23 @@ async function viewAuthor(app, authorId) {
   const [authors, awards] = await Promise.all([loadAuthors(), loadAwards()]);
   const author = authors.find((a) => a.author_id === authorId);
   app.innerHTML = '';
-  app.appendChild(h('a', { class: 'back-link', href: '#/' }, '← ホームへ戻る'));
+  app.appendChild(h('a', { class: 'back-link', href: '#/' }, S.backToHome));
 
   if (!author) {
-    app.appendChild(h('div', { class: 'empty-state' }, '作家情報が見つかりません。'));
+    app.appendChild(h('div', { class: 'empty-state' }, S.authorNotFound));
     return;
   }
 
   app.appendChild(h('h2', { class: 'page-title' }, `${author.name_ja || ''}${author.name_en ? ` / ${author.name_en}` : ''}`));
-  app.appendChild(h('p', { class: 'page-subtitle' }, author.country || ''));
+  app.appendChild(h('p', { class: 'page-subtitle' }, pick(author, 'country', 'country_en') || ''));
 
   if (author.is_multi_award) {
     app.appendChild(h('div', { class: 'related-note' }, [
-      h('h4', {}, '複数の文学賞を受賞'),
-      h('p', { style: 'margin:0;' }, `${author.award_ids.map((id) => {
+      h('h4', {}, S.multiAwardTitle),
+      h('p', { style: 'margin:0;' }, S.multiAwardText(author.award_ids.map((id) => {
         const aw = awards.find((x) => x.id === id);
-        return aw ? aw.name_ja : id;
-      }).join(' / ')} を受賞しています。`),
+        return aw ? awardName(aw) : id;
+      }).join(' / '))),
     ]));
   }
 
@@ -470,34 +509,34 @@ async function viewAuthor(app, authorId) {
     timeline.appendChild(h('li', {}, [
       h('span', { class: 'tl-year' }, String(e.year)),
       ' ',
-      h('a', { href: `#/award/${e.award_id}` }, aw ? aw.name_ja : e.award_id),
-      e.session ? ` (${e.session}${e.round ? ` 第${e.round}回` : ''})` : '',
-      (e.work_ja || e.work_original) ? h('div', {}, e.work_ja || e.work_original) : null,
+      h('a', { href: `#/award/${e.award_id}` }, aw ? awardName(aw) : e.award_id),
+      e.session ? ` (${sessionLabel(e)})` : '',
+      laureateWorkLabel(e) ? h('div', {}, laureateWorkLabel(e)) : null,
     ]));
   }
   app.appendChild(timeline);
 
   if (author.representative_works && author.representative_works.length) {
-    app.appendChild(h('h3', { class: 'page-title', style: 'font-size:1.05rem;' }, '代表作'));
+    app.appendChild(h('h3', { class: 'page-title', style: 'font-size:1.05rem;' }, S.representativeWorks));
     for (const w of author.representative_works) {
       const aw = awards.find((x) => x.id === w.award_id);
       const card = h('div', { class: 'work-card' }, [
-        h('div', { class: 'work-title' }, w.work_ja || w.work_original || ''),
-        h('div', { class: 'work-meta' }, `${aw ? aw.name_ja : w.award_id} (${w.year})`),
+        h('div', { class: 'work-title' }, laureateWorkLabel(w) || ''),
+        h('div', { class: 'work-meta' }, `${aw ? awardName(aw) : w.award_id} (${w.year})`),
       ]);
       if (w.jp_translation_status === 'available' && w.jp_translation_title) {
-        card.appendChild(h('div', { class: 'work-meta' }, `邦題: 『${w.jp_translation_title}』`));
+        card.appendChild(h('div', { class: 'work-meta' }, S.jpTitleLabel(w.jp_translation_title)));
       }
       if (w.theme_summary_ja) {
-        card.appendChild(h('p', { class: 'work-summary' }, w.theme_summary_ja));
+        card.appendChild(h('p', { class: 'work-summary' }, pick(w, 'theme_summary_ja', 'theme_summary_en')));
       }
       app.appendChild(card);
     }
   }
 
-  app.appendChild(h('h3', { class: 'page-title', style: 'font-size:1.05rem;' }, '受賞作以外の収録作品'));
+  app.appendChild(h('h3', { class: 'page-title', style: 'font-size:1.05rem;' }, S.otherWorks));
   if (author.major_works && author.major_works.length) {
-    app.appendChild(h('p', { class: 'page-subtitle' }, `${author.major_works.length}作品（公開書誌で著者を確認できた作品）`));
+    app.appendChild(h('p', { class: 'page-subtitle' }, S.otherWorksCount(author.major_works.length)));
     const list = h('ul', { class: 'major-works-list' });
     for (const w of author.major_works) {
       const source = (w.source_urls || []).find((url) => url.includes('ndlsearch.ndl.go.jp'))
@@ -509,15 +548,15 @@ async function viewAuthor(app, authorId) {
           translationBadge(w.jp_translation),
         ]),
         workTranslationInfo(w.jp_translation),
-        w.theme_summary_ja ? h('p', { class: 'work-summary' }, w.theme_summary_ja) : null,
+        w.theme_summary_ja ? h('p', { class: 'work-summary' }, pick(w, 'theme_summary_ja', 'theme_summary_en')) : null,
         source
-          ? h('a', { class: 'work-source', href: source, target: '_blank', rel: 'noopener' }, '書誌出典')
+          ? h('a', { class: 'work-source', href: source, target: '_blank', rel: 'noopener' }, S.bibliographySource)
           : null,
       ]));
     }
     app.appendChild(list);
   } else {
-    app.appendChild(h('div', { class: 'empty-state' }, '公開書誌で受賞作以外の作品を確認できませんでした。'));
+    app.appendChild(h('div', { class: 'empty-state' }, S.noOtherWorks));
   }
 }
 
@@ -525,23 +564,23 @@ async function viewAuthor(app, authorId) {
 async function viewConnections(app) {
   const [authors, awards] = await Promise.all([loadAuthors(), loadAwards()]);
   app.innerHTML = '';
-  app.appendChild(h('a', { class: 'back-link', href: '#/' }, '← ホームへ戻る'));
-  app.appendChild(h('h2', { class: 'page-title' }, '関連性マップ'));
-  app.appendChild(h('p', { class: 'page-subtitle' }, '複数の文学賞を受賞した作家の一覧です。'));
+  app.appendChild(h('a', { class: 'back-link', href: '#/' }, S.backToHome));
+  app.appendChild(h('h2', { class: 'page-title' }, S.connectionsTitle));
+  app.appendChild(h('p', { class: 'page-subtitle' }, S.connectionsSubtitle));
 
   const multi = authors.filter((a) => a.is_multi_award);
   const relevantAwardIds = awards.filter((a) => a.data_file).map((a) => a.id);
 
   if (multi.length === 0) {
-    app.appendChild(h('div', { class: 'empty-state' }, '複数受賞の作家が見つかりません。'));
+    app.appendChild(h('div', { class: 'empty-state' }, S.noMultiAwardAuthors));
   } else {
     const wrap = h('div', { class: 'connections-table-wrap' });
     const table = h('table', { class: 'connections-table' });
     const thead = h('thead', {}, h('tr', {}, [
-      h('th', {}, '作家'),
+      h('th', {}, S.tableAuthorHeader),
       ...relevantAwardIds.map((id) => {
         const aw = awards.find((x) => x.id === id);
-        return h('th', {}, aw ? aw.name_ja : id);
+        return h('th', {}, aw ? awardName(aw) : id);
       }),
     ]));
     table.appendChild(thead);
@@ -561,15 +600,15 @@ async function viewConnections(app) {
     app.appendChild(wrap);
   }
 
-  app.appendChild(h('h3', { class: 'page-title', style: 'font-size:1.05rem;' }, '賞どうしの関連'));
+  app.appendChild(h('h3', { class: 'page-title', style: 'font-size:1.05rem;' }, S.relatedAwards));
   for (const award of awards) {
     if (!award.related_awards || !award.related_awards.length) continue;
     for (const rel of award.related_awards) {
       if (award.id > rel.id) continue; // avoid duplicate pairs
       const relAward = awards.find((x) => x.id === rel.id);
       app.appendChild(h('div', { class: 'related-note' }, [
-        h('h4', {}, `${award.name_ja} × ${relAward ? relAward.name_ja : rel.id}`),
-        h('p', { style: 'margin:0;' }, rel.note),
+        h('h4', {}, `${awardName(award)} × ${relAward ? awardName(relAward) : rel.id}`),
+        h('p', { style: 'margin:0;' }, pick(rel, 'note', 'note_en')),
       ]));
     }
   }
@@ -579,12 +618,12 @@ async function viewConnections(app) {
 async function viewStats(app) {
   const [awards, authors, owned] = await Promise.all([loadAwards(), loadAuthors(), loadOwned()]);
   app.innerHTML = '';
-  app.appendChild(h('a', { class: 'back-link', href: '#/' }, '← ホームへ戻る'));
-  app.appendChild(h('h2', { class: 'page-title' }, '統計'));
+  app.appendChild(h('a', { class: 'back-link', href: '#/' }, S.backToHome));
+  app.appendChild(h('h2', { class: 'page-title' }, S.statsTitle));
 
   const withData = awards.filter((a) => a.data_file);
   const counts = withData.map((a) => ({
-    label: a.name_ja,
+    label: awardName(a),
     count: authors.filter((au) => au.award_ids.includes(a.id)).length,
   }));
   const max = Math.max(1, ...counts.map((c) => c.count));
@@ -619,7 +658,7 @@ async function viewStats(app) {
     numLabel.textContent = String(c.count);
     svg.appendChild(numLabel);
   });
-  app.appendChild(h('p', { class: 'page-subtitle' }, '収録する全8賞の受賞者数を集計。共同受賞は個別に数えています。'));
+  app.appendChild(h('p', { class: 'page-subtitle' }, S.statsSubtitle));
   app.appendChild(svg);
 
   if (Object.keys(owned).length > 0) {
@@ -627,11 +666,11 @@ async function viewStats(app) {
     const ownership = withData.map((a, i) => {
       const records = laureatesByAward[i].filter((r) => r.author_id);
       const ownedCount = records.filter((r) => !!owned[ownedKey(a.id, r.year, r.author_id)]).length;
-      return { label: a.name_ja, total: records.length, ownedCount };
+      return { label: awardName(a), total: records.length, ownedCount };
     });
 
-    app.appendChild(h('h3', { class: 'page-title', style: 'font-size:1.05rem;' }, '各賞の所蔵率'));
-    app.appendChild(h('p', { class: 'page-subtitle' }, '蔵書vaultと照合できた受賞作の割合(ローカル閲覧時のみ表示)。'));
+    app.appendChild(h('h3', { class: 'page-title', style: 'font-size:1.05rem;' }, S.ownershipRateTitle));
+    app.appendChild(h('p', { class: 'page-subtitle' }, S.ownershipRateSubtitle));
 
     const barW2 = 600, barH2 = 24, gap2 = 12;
     const svgH2 = ownership.length * (barH2 + gap2);
@@ -672,7 +711,7 @@ async function viewStats(app) {
 /* ---------- service worker registration ---------- */
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
-    navigator.serviceWorker.register(`${APP_ROOT}sw.js?v=12-owned-badges`, { updateViaCache: 'none' })
+    navigator.serviceWorker.register(`${APP_ROOT}sw.js?v=13-i18n-monetization`, { updateViaCache: 'none' })
       .then((registration) => registration.update())
       .catch(() => {});
   });

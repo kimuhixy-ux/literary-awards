@@ -1,12 +1,20 @@
-const CACHE_VERSION = 'v12-owned-badges';
+const CACHE_VERSION = 'v13-i18n-monetization';
 const CACHE_NAME = `literary-awards-${CACHE_VERSION}`;
 
 const PRECACHE_URLS = [
   './',
   './index.html',
   './style.css',
+  './config.js',
+  './i18n.js',
+  './strings.js',
+  './affiliate.js',
   './app.js',
+  './donate.js',
+  './ads.js',
   './manifest.json',
+  './about.html',
+  './privacy.html',
   './icons/icon-192.png',
   './icons/icon-512.png',
   './data/awards.json',
@@ -19,6 +27,10 @@ const PRECACHE_URLS = [
   ,'./data/laureates/pulitzer-fiction.json'
   ,'./data/laureates/national-book.json'
   ,'./data/laureates/cervantes.json'
+  ,'./en/index.html'
+  ,'./en/about.html'
+  ,'./en/privacy.html'
+  ,'./en/manifest.json'
 ];
 
 self.addEventListener('install', (event) => {

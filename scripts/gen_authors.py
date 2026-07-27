@@ -34,6 +34,7 @@ for award_id, path in AWARD_FILES.items():
                 "name_ja": r.get("author_ja"),
                 "name_en": r.get("author_en"),
                 "country": r.get("country"),
+                "country_en": r.get("country_en"),
                 "awards": []
             }
         entry = {
@@ -45,10 +46,14 @@ for award_id, path in AWARD_FILES.items():
             entry["round"] = r.get("round")
         if r.get("work_ja"):
             entry["work_ja"] = r.get("work_ja")
+        if r.get("work_en"):
+            entry["work_en"] = r.get("work_en")
         if r.get("work_original"):
             entry["work_original"] = r.get("work_original")
         if r.get("theme_summary_ja"):
             entry["theme_summary_ja"] = r.get("theme_summary_ja")
+        if r.get("theme_summary_en"):
+            entry["theme_summary_en"] = r.get("theme_summary_en")
         jpt = r.get("jp_translation") or {}
         if jpt.get("status"):
             entry["jp_translation_status"] = jpt["status"]
@@ -60,6 +65,8 @@ for award_id, path in AWARD_FILES.items():
             authors[aid]["name_en"] = r.get("author_en")
         if not authors[aid]["country"] and r.get("country"):
             authors[aid]["country"] = r.get("country")
+        if not authors[aid]["country_en"] and r.get("country_en"):
+            authors[aid]["country_en"] = r.get("country_en")
 
 # build representative_works: unique works across all award entries, in chronological order
 records_out = []
@@ -76,12 +83,14 @@ for aid, a in authors.items():
             seen.add(w)
             works.append({
                 "work_ja": e.get("work_ja"),
+                "work_en": e.get("work_en"),
                 "work_original": e.get("work_original"),
                 "award_id": e["award_id"],
                 "year": e["year"],
                 "jp_translation_status": e.get("jp_translation_status"),
                 "jp_translation_title": e.get("jp_translation_title"),
                 "theme_summary_ja": e.get("theme_summary_ja"),
+                "theme_summary_en": e.get("theme_summary_en"),
             })
     a["representative_works"] = works
     if aid in MAJOR_WORKS:

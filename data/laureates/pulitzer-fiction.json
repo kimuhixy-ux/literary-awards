@@ -18,14 +18,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1919,
@@ -46,14 +50,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1920,
@@ -74,14 +82,16 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "対象作品なし"
+      "note": "対象作品なし",
+      "note_en": "No featured work."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": "該当なし",
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "notes_en": "Not applicable."
   },
   {
     "year": 1921,
@@ -102,7 +112,8 @@
       "translator": "大社淑子",
       "publisher": "新潮社",
       "year": 1993,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -110,7 +121,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000002279781"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1922,
@@ -131,14 +145,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1923,
@@ -159,14 +177,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1924,
@@ -187,14 +209,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1925,
@@ -215,14 +241,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1926,
@@ -243,7 +273,8 @@
       "translator": "内野儀",
       "publisher": "小学館",
       "year": 1997,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -251,7 +282,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000002620246"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1927,
@@ -272,14 +306,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1928,
@@ -300,7 +338,8 @@
       "translator": "大橋吉之輔",
       "publisher": "荒地出版社",
       "year": 1957,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -308,7 +347,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000136-I1970304959953199490"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1929,
@@ -329,14 +371,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1930,
@@ -357,14 +403,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1931,
@@ -385,14 +435,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1932,
@@ -413,7 +467,8 @@
       "translator": "新居格",
       "publisher": "三笠書房",
       "year": 1952,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -421,7 +476,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809797201921"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1933,
@@ -442,14 +500,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1934,
@@ -470,14 +532,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1935,
@@ -498,14 +564,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1936,
@@ -526,14 +596,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1937,
@@ -554,7 +628,8 @@
       "translator": "大久保康雄",
       "publisher": "三笠書房",
       "year": 1950,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -562,7 +637,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000136-I1971430859840259585"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1938,
@@ -583,14 +661,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1939,
@@ -611,7 +693,8 @@
       "translator": "加藤賢蔵",
       "publisher": "青年書房",
       "year": 1939,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -619,7 +702,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000000789146"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1940,
@@ -640,7 +726,8 @@
       "translator": "大久保康雄",
       "publisher": "新潮社",
       "year": 1955,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -648,7 +735,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434860910157"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1941,
@@ -669,14 +759,16 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "対象作品なし"
+      "note": "対象作品なし",
+      "note_en": "No featured work."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": "該当なし",
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "notes_en": "Not applicable."
   },
   {
     "year": 1942,
@@ -697,14 +789,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1943,
@@ -725,7 +821,8 @@
       "translator": "並河亮",
       "publisher": "リスナー社",
       "year": 1948,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -733,7 +830,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000000693562"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1944,
@@ -754,14 +854,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1945,
@@ -782,14 +886,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1946,
@@ -810,14 +918,16 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "対象作品なし"
+      "note": "対象作品なし",
+      "note_en": "No featured work."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": "該当なし",
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "notes_en": "Not applicable."
   },
   {
     "year": 1947,
@@ -838,7 +948,8 @@
       "translator": "鈴木重吉",
       "publisher": "白水社",
       "year": 1966,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -846,7 +957,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000136-I1970304959877588143"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1948,
@@ -867,14 +981,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1949,
@@ -895,14 +1013,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1950,
@@ -923,7 +1045,8 @@
       "translator": "刈田元司",
       "publisher": "荒地出版社",
       "year": 1957,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -931,7 +1054,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000136-I1971149384780309788"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1951,
@@ -952,14 +1078,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1952,
@@ -980,7 +1110,8 @@
       "translator": "新庄哲夫",
       "publisher": "早川書房",
       "year": 1975,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -988,7 +1119,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809746407340"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1953,
@@ -1009,14 +1143,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1954,
@@ -1037,14 +1175,16 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "対象作品なし"
+      "note": "対象作品なし",
+      "note_en": "No featured work."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": "該当なし",
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "notes_en": "Not applicable."
   },
   {
     "year": 1955,
@@ -1065,7 +1205,8 @@
       "translator": "阿部知二",
       "publisher": "岩波書店",
       "year": 1960,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -1073,7 +1214,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000136-I1970304959945023934"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1956,
@@ -1094,14 +1238,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1957,
@@ -1122,14 +1270,16 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "対象作品なし"
+      "note": "対象作品なし",
+      "note_en": "No featured work."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": "該当なし",
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "notes_en": "Not applicable."
   },
   {
     "year": 1958,
@@ -1150,14 +1300,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1959,
@@ -1178,14 +1332,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1960,
@@ -1206,14 +1364,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1961,
@@ -1234,7 +1396,8 @@
       "translator": "小倉修四郎",
       "publisher": "[小倉修四郎]",
       "year": 2006,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -1242,7 +1405,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000136-I1970586434809528267"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1962,
@@ -1263,14 +1429,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1963,
@@ -1291,14 +1461,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1964,
@@ -1319,14 +1493,16 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "対象作品なし"
+      "note": "対象作品なし",
+      "note_en": "No featured work."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": "該当なし",
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "notes_en": "Not applicable."
   },
   {
     "year": 1965,
@@ -1347,7 +1523,8 @@
       "translator": "猿谷要",
       "publisher": "弘文堂",
       "year": 1967,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -1355,7 +1532,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000136-I1970304959875409707"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1966,
@@ -1376,14 +1556,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1967,
@@ -1404,14 +1588,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1968,
@@ -1432,7 +1620,8 @@
       "translator": "大橋吉之輔",
       "publisher": "河出書房新社",
       "year": 1979,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -1440,7 +1629,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000136-I1970023484914630913"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1969,
@@ -1461,14 +1653,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1970,
@@ -1489,14 +1685,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1971,
@@ -1517,14 +1717,16 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "対象作品なし"
+      "note": "対象作品なし",
+      "note_en": "No featured work."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": "該当なし",
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "notes_en": "Not applicable."
   },
   {
     "year": 1972,
@@ -1545,14 +1747,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1973,
@@ -1573,14 +1779,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1974,
@@ -1601,14 +1811,16 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "対象作品なし"
+      "note": "対象作品なし",
+      "note_en": "No featured work."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": "該当なし",
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "notes_en": "Not applicable."
   },
   {
     "year": 1975,
@@ -1629,14 +1841,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1976,
@@ -1657,7 +1873,8 @@
       "translator": "大井浩二",
       "publisher": "講談社",
       "year": 1977,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -1665,7 +1882,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000136-I1970867909790932531"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1977,
@@ -1686,14 +1906,16 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "対象作品なし"
+      "note": "対象作品なし",
+      "note_en": "No featured work."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": "該当なし",
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "notes_en": "Not applicable."
   },
   {
     "year": 1978,
@@ -1714,14 +1936,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1979,
@@ -1742,7 +1968,8 @@
       "translator": "村上春樹",
       "publisher": "新潮社",
       "year": 2018,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -1750,7 +1977,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I029338870"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1980,
@@ -1771,7 +2001,8 @@
       "translator": "岡枝慎二",
       "publisher": "同文書院",
       "year": 1998,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -1779,7 +2010,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000002655031"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1981,
@@ -1800,14 +2034,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1982,
@@ -1828,7 +2066,8 @@
       "translator": "井上謙治",
       "publisher": "新潮社",
       "year": 1992,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -1836,7 +2075,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000002226380"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1983,
@@ -1857,14 +2099,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1984,
@@ -1885,14 +2131,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1985,
@@ -1913,14 +2163,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1986,
@@ -1941,14 +2195,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1987,
@@ -1969,7 +2227,8 @@
       "translator": "小野清之",
       "publisher": "早川書房",
       "year": 1990,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -1977,7 +2236,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000002037277"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1988,
@@ -1998,7 +2260,8 @@
       "translator": "吉田廸子",
       "publisher": "集英社",
       "year": 1990,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -2006,7 +2269,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000002079736"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1989,
@@ -2027,7 +2293,8 @@
       "translator": "中野恵津子",
       "publisher": "文芸春秋",
       "year": 1989,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -2035,7 +2302,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000002018602"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1990,
@@ -2056,7 +2326,8 @@
       "translator": "古賀林幸",
       "publisher": "中央公論社",
       "year": 1992,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -2064,7 +2335,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000002210568"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1991,
@@ -2085,7 +2359,8 @@
       "translator": "井上謙治",
       "publisher": "新潮社",
       "year": 1997,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -2093,7 +2368,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000002629487"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1992,
@@ -2114,7 +2392,8 @@
       "translator": "橘雅子",
       "publisher": "中央公論社",
       "year": 1993,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -2122,7 +2401,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000002262548"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1993,
@@ -2143,7 +2425,8 @@
       "translator": "佐伯泰樹",
       "publisher": "集英社",
       "year": 1995,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -2151,7 +2434,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000002416992"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1994,
@@ -2172,7 +2458,8 @@
       "translator": "上岡伸雄",
       "publisher": "集英社",
       "year": 1996,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -2180,7 +2467,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000002517993"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1995,
@@ -2201,7 +2491,8 @@
       "translator": "尾島恵子",
       "publisher": "小学館",
       "year": 1996,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -2209,7 +2500,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000002528531"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1996,
@@ -2230,14 +2524,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1997,
@@ -2258,14 +2556,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1998,
@@ -2286,14 +2588,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 1999,
@@ -2314,7 +2620,8 @@
       "translator": "高橋和久",
       "publisher": "集英社",
       "year": 2003,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -2322,7 +2629,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000004088106"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2000,
@@ -2343,7 +2653,8 @@
       "translator": "小川高義",
       "publisher": "新潮社",
       "year": 2000,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -2351,7 +2662,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000002918353"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2001,
@@ -2372,14 +2686,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2002,
@@ -2400,14 +2718,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2003,
@@ -2428,7 +2750,8 @@
       "translator": "佐々田雅子",
       "publisher": "早川書房",
       "year": 2004,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -2436,7 +2759,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000007305559"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2004,
@@ -2457,7 +2783,8 @@
       "translator": "小澤英実",
       "publisher": "白水社",
       "year": 2011,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -2465,7 +2792,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I023227201"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2005,
@@ -2486,7 +2816,8 @@
       "translator": "宇野元",
       "publisher": "新教出版社",
       "year": 2017,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -2494,7 +2825,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I028589480"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2006,
@@ -2515,7 +2849,8 @@
       "translator": "高山真由美",
       "publisher": "武田ランダムハウスジャパン",
       "year": 2010,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -2523,7 +2858,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000011011069"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2007,
@@ -2544,7 +2882,8 @@
       "translator": "黒原敏行",
       "publisher": "早川書房",
       "year": 2008,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -2552,7 +2891,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000009392412"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2008,
@@ -2573,7 +2915,8 @@
       "translator": "久保尚美",
       "publisher": "新潮社",
       "year": 2011,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -2581,7 +2924,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000011129814"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2009,
@@ -2602,7 +2948,8 @@
       "translator": "小川高義",
       "publisher": "早川書房",
       "year": 2010,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -2610,7 +2957,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I000011015770"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2010,
@@ -2631,7 +2981,8 @@
       "translator": "小竹由美子",
       "publisher": "白水社",
       "year": 2012,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -2639,7 +2990,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I023543360"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2011,
@@ -2660,7 +3014,8 @@
       "translator": "谷崎由依",
       "publisher": "早川書房",
       "year": 2012,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -2668,7 +3023,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I023931666"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2012,
@@ -2689,14 +3047,16 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "対象作品なし"
+      "note": "対象作品なし",
+      "note_en": "No featured work."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": "該当なし",
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "notes_en": "Not applicable."
   },
   {
     "year": 2013,
@@ -2717,14 +3077,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2014,
@@ -2745,7 +3109,8 @@
       "translator": "岡真知子",
       "publisher": "河出書房新社",
       "year": 2016,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -2753,7 +3118,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I027423891"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2015,
@@ -2774,14 +3142,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2016,
@@ -2802,7 +3174,8 @@
       "translator": "上岡伸雄",
       "publisher": "早川書房",
       "year": 2017,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -2810,7 +3183,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I028439788"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2017,
@@ -2831,7 +3207,8 @@
       "translator": "谷崎由依",
       "publisher": "早川書房",
       "year": 2017,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -2839,7 +3216,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I028664620"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2018,
@@ -2860,7 +3240,8 @@
       "translator": "上岡伸雄",
       "publisher": "早川書房",
       "year": 2019,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -2868,7 +3249,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I029857587"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2019,
@@ -2889,7 +3273,8 @@
       "translator": "木原善彦",
       "publisher": "新潮社",
       "year": 2019,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -2897,7 +3282,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I030012277"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2020,
@@ -2918,7 +3306,8 @@
       "translator": "藤井光",
       "publisher": "早川書房",
       "year": 2020,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -2926,7 +3315,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I030738766"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2021,
@@ -2947,14 +3339,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2022,
@@ -2975,14 +3371,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2023,
@@ -3003,14 +3403,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2024,
@@ -3031,14 +3435,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2025,
@@ -3059,7 +3467,8 @@
       "translator": "木原善彦",
       "publisher": "河出書房新社",
       "year": 2025,
-      "note": "国立国会図書館サーチで書誌確認"
+      "note": "国立国会図書館サーチで書誌確認",
+      "note_en": "Bibliographic details confirmed via the National Diet Library Search."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
@@ -3067,7 +3476,10 @@
       "https://ndlsearch.ndl.go.jp/books/R100000002-I034142870"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   },
   {
     "year": 2026,
@@ -3088,13 +3500,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）"
+      "note": "暫定値。邦訳の有無・書誌は要確認（未邦訳を意味しない）",
+      "note_en": "Provisional value. Whether a Japanese translation exists and its bibliographic details need verification (this does not imply no translation exists)."
     },
     "source_urls": [
       "https://www.pulitzer.org/prize-categories/fiction",
       "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction"
     ],
     "notes": null,
-    "theme_summary_ja": null
+    "theme_summary_ja": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "amazon_asin": ""
   }
 ]

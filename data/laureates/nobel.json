@@ -18,12 +18,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1901/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "France",
+    "language_en": "French",
+    "citation_en": "For the loftiness of ideals and the artistic perfection evident in his poetry.",
+    "amazon_asin": ""
   },
   {
     "year": 1902,
@@ -44,12 +49,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1902/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Germany",
+    "language_en": "German",
+    "citation_en": "For his achievements as a master of historical writing, epitomized above all by his monumental History of Rome.",
+    "amazon_asin": ""
   },
   {
     "year": 1903,
@@ -70,12 +80,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1903/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Norway",
+    "language_en": "Norwegian",
+    "citation_en": "For his noble and magnificent poetry, marked by freshness of spirit and rare purity.",
+    "amazon_asin": ""
   },
   {
     "year": 1904,
@@ -96,12 +111,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1904/summary/"
     ],
-    "notes": "1904年は共同受賞"
+    "notes": "1904年は共同受賞",
+    "country_en": "France",
+    "language_en": "Provençal (Occitan)",
+    "notes_en": "1904 was a joint award.",
+    "citation_en": "For the originality and true inspiration of his poetry written in Provençal.",
+    "amazon_asin": ""
   },
   {
     "year": 1904,
@@ -122,12 +143,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1904/summary/"
     ],
-    "notes": "1904年は共同受賞"
+    "notes": "1904年は共同受賞",
+    "country_en": "Spain",
+    "language_en": "Spanish",
+    "notes_en": "1904 was a joint award.",
+    "citation_en": "For his body of dramatic works, which revived the great traditions of Spanish theater in an original way.",
+    "amazon_asin": ""
   },
   {
     "year": 1905,
@@ -148,12 +175,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1905/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Poland",
+    "language_en": "Polish",
+    "citation_en": "For his outstanding achievements as an epic writer.",
+    "amazon_asin": ""
   },
   {
     "year": 1906,
@@ -174,12 +206,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1906/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Italy",
+    "language_en": "Italian",
+    "citation_en": "In homage to his deep learning, critical inquiry, and creative energy.",
+    "amazon_asin": ""
   },
   {
     "year": 1907,
@@ -200,12 +237,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1907/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "United Kingdom",
+    "language_en": "English",
+    "citation_en": "For his powers of observation, originality of imagination, vigor of ideas, and remarkable gift for storytelling.",
+    "amazon_asin": ""
   },
   {
     "year": 1908,
@@ -226,12 +268,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1908/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Germany",
+    "language_en": "German",
+    "citation_en": "For his earnest search for truth and the breadth of vision underlying his philosophy.",
+    "amazon_asin": ""
   },
   {
     "year": 1909,
@@ -252,12 +299,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1909/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Sweden",
+    "language_en": "Swedish",
+    "citation_en": "For the lofty idealism, vivid imagination, and spiritual insight that pervade her writing.",
+    "amazon_asin": ""
   },
   {
     "year": 1910,
@@ -278,12 +330,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1910/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Germany",
+    "language_en": "German",
+    "citation_en": "In homage to the mature and consummate artistry pervaded by idealism.",
+    "amazon_asin": ""
   },
   {
     "year": 1911,
@@ -304,12 +361,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1911/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Belgium",
+    "language_en": "French",
+    "citation_en": "For his multifaceted literary activity, and above all for the dramatic works rich in imaginative power.",
+    "amazon_asin": ""
   },
   {
     "year": 1912,
@@ -330,12 +392,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1912/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Germany",
+    "language_en": "German",
+    "citation_en": "For his fruitful and outstanding achievements in the art of drama.",
+    "amazon_asin": ""
   },
   {
     "year": 1913,
@@ -356,12 +423,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1913/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "India (British India)",
+    "language_en": "Bengali / English",
+    "citation_en": "For his profoundly sensitive, fresh, and beautiful verse.",
+    "amazon_asin": ""
   },
   {
     "year": 1914,
@@ -387,7 +459,8 @@
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1914/summary/"
     ],
-    "notes": "第一次世界大戦の影響で授賞なし"
+    "notes": "第一次世界大戦の影響で授賞なし",
+    "notes_en": "No award was given due to World War I."
   },
   {
     "year": 1915,
@@ -408,12 +481,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1915/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "France",
+    "language_en": "French",
+    "citation_en": "For the lofty idealism that runs through his literary work, and for his love of truth and compassion.",
+    "amazon_asin": ""
   },
   {
     "year": 1916,
@@ -434,12 +512,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1916/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Sweden",
+    "language_en": "Swedish",
+    "citation_en": "For his significance as a leading representative of a new era in Swedish literature.",
+    "amazon_asin": ""
   },
   {
     "year": 1917,
@@ -460,12 +543,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1917/summary/"
     ],
-    "notes": "1917年は共同受賞"
+    "notes": "1917年は共同受賞",
+    "country_en": "Denmark",
+    "language_en": "Danish / German",
+    "notes_en": "1917 was a joint award.",
+    "citation_en": "For his varied and rich poetic output, sustained throughout by lofty ideals.",
+    "amazon_asin": ""
   },
   {
     "year": 1917,
@@ -486,12 +575,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1917/summary/"
     ],
-    "notes": "1917年は共同受賞"
+    "notes": "1917年は共同受賞",
+    "country_en": "Denmark",
+    "language_en": "Danish",
+    "notes_en": "1917 was a joint award.",
+    "citation_en": "For his authentic portrayals of contemporary Danish life.",
+    "amazon_asin": ""
   },
   {
     "year": 1918,
@@ -517,7 +612,8 @@
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1918/summary/"
     ],
-    "notes": "第一次世界大戦の影響で授賞なし"
+    "notes": "第一次世界大戦の影響で授賞なし",
+    "notes_en": "No award was given due to World War I."
   },
   {
     "year": 1919,
@@ -538,12 +634,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1919/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Switzerland",
+    "language_en": "German",
+    "citation_en": "In special recognition of his epic poem Olympian Spring.",
+    "amazon_asin": ""
   },
   {
     "year": 1920,
@@ -564,12 +665,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1920/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Norway",
+    "language_en": "Norwegian",
+    "citation_en": "For his monumental body of work, foremost among it his masterpiece Growth of the Soil.",
+    "amazon_asin": ""
   },
   {
     "year": 1921,
@@ -590,12 +696,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1921/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "France",
+    "language_en": "French",
+    "citation_en": "For his brilliant literary achievements, marked by nobility of style and profound humanity.",
+    "amazon_asin": ""
   },
   {
     "year": 1922,
@@ -616,12 +727,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1922/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Spain",
+    "language_en": "Spanish",
+    "citation_en": "For his brilliant continuation of the illustrious traditions of Spanish drama.",
+    "amazon_asin": ""
   },
   {
     "year": 1923,
@@ -642,12 +758,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1923/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Ireland",
+    "language_en": "English",
+    "citation_en": "For his inspired poetry, which in a highly artistic form gives expression to the spirit of an entire nation.",
+    "amazon_asin": ""
   },
   {
     "year": 1924,
@@ -668,12 +789,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1924/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Poland",
+    "language_en": "Polish",
+    "citation_en": "For his national epic, The Peasants.",
+    "amazon_asin": ""
   },
   {
     "year": 1925,
@@ -694,12 +820,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1925/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "United Kingdom / Ireland",
+    "language_en": "English",
+    "citation_en": "For work marked by idealism and humanity, and by stimulating satire.",
+    "amazon_asin": ""
   },
   {
     "year": 1926,
@@ -720,12 +851,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1926/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Italy",
+    "language_en": "Italian",
+    "citation_en": "For her idealistically inspired writings, which vividly portray the life of her native Sardinia.",
+    "amazon_asin": ""
   },
   {
     "year": 1927,
@@ -746,12 +882,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1927/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "France",
+    "language_en": "French",
+    "citation_en": "In recognition of his rich and vitalizing ideas and the brilliant skill with which they have been presented.",
+    "amazon_asin": ""
   },
   {
     "year": 1928,
@@ -772,12 +913,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1928/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Norway",
+    "language_en": "Norwegian",
+    "citation_en": "For her powerful depictions of life in medieval Scandinavia.",
+    "amazon_asin": ""
   },
   {
     "year": 1929,
@@ -798,12 +944,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1929/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Germany",
+    "language_en": "German",
+    "citation_en": "Principally for his great novel Buddenbrooks, which has won ever-growing recognition as one of the classic works of contemporary literature.",
+    "amazon_asin": ""
   },
   {
     "year": 1930,
@@ -824,12 +975,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1930/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "citation_en": "For his vigorous and vivid art of description and his gift for creating, with wit and humor, new types of character.",
+    "amazon_asin": ""
   },
   {
     "year": 1931,
@@ -850,12 +1006,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1931/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Sweden",
+    "language_en": "Swedish",
+    "citation_en": "For his poetry as a whole (awarded posthumously).",
+    "amazon_asin": ""
   },
   {
     "year": 1932,
@@ -876,12 +1037,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1932/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "United Kingdom",
+    "language_en": "English",
+    "citation_en": "For his distinguished art of narration, which finds its finest expression in The Forsyte Saga.",
+    "amazon_asin": ""
   },
   {
     "year": 1933,
@@ -902,12 +1068,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1933/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Stateless (former Russian Empire)",
+    "language_en": "Russian",
+    "citation_en": "For the rigorous artistry with which he carried forward the classical traditions of Russian prose.",
+    "amazon_asin": ""
   },
   {
     "year": 1934,
@@ -928,12 +1099,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1934/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Italy",
+    "language_en": "Italian",
+    "citation_en": "For his bold and ingenious renewal of the art of drama and the stage.",
+    "amazon_asin": ""
   },
   {
     "year": 1935,
@@ -959,7 +1135,8 @@
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1935/summary/"
     ],
-    "notes": "適格候補者なしとして授賞なし"
+    "notes": "適格候補者なしとして授賞なし",
+    "notes_en": "No award was given, as no eligible candidate was found."
   },
   {
     "year": 1936,
@@ -980,12 +1157,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1936/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "citation_en": "For the power, honesty, and deep-felt emotion of his dramatic works, which embody an original concept of tragedy.",
+    "amazon_asin": ""
   },
   {
     "year": 1937,
@@ -1006,12 +1188,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1937/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "France",
+    "language_en": "French",
+    "citation_en": "For the artistic power and truthfulness with which he portrayed human conflict in his novel cycle The Thibaults.",
+    "amazon_asin": ""
   },
   {
     "year": 1938,
@@ -1032,12 +1219,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1938/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "citation_en": "For her rich and truly epic depictions of peasant life in China and for her biographical masterpieces.",
+    "amazon_asin": ""
   },
   {
     "year": 1939,
@@ -1058,12 +1250,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1939/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Finland",
+    "language_en": "Finnish",
+    "citation_en": "For his deep understanding of his country's peasantry and the exquisite artistry with which he portrayed their way of life.",
+    "amazon_asin": ""
   },
   {
     "year": 1940,
@@ -1089,7 +1286,8 @@
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1940/summary/"
     ],
-    "notes": "第二次世界大戦の影響で授賞なし"
+    "notes": "第二次世界大戦の影響で授賞なし",
+    "notes_en": "No award was given due to World War II."
   },
   {
     "year": 1941,
@@ -1115,7 +1313,8 @@
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1941/summary/"
     ],
-    "notes": "第二次世界大戦の影響で授賞なし"
+    "notes": "第二次世界大戦の影響で授賞なし",
+    "notes_en": "No award was given due to World War II."
   },
   {
     "year": 1942,
@@ -1141,7 +1340,8 @@
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1942/summary/"
     ],
-    "notes": "第二次世界大戦の影響で授賞なし"
+    "notes": "第二次世界大戦の影響で授賞なし",
+    "notes_en": "No award was given due to World War II."
   },
   {
     "year": 1943,
@@ -1167,7 +1367,8 @@
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1943/summary/"
     ],
-    "notes": "第二次世界大戦の影響で授賞なし"
+    "notes": "第二次世界大戦の影響で授賞なし",
+    "notes_en": "No award was given due to World War II."
   },
   {
     "year": 1944,
@@ -1188,12 +1389,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1944/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Denmark",
+    "language_en": "Danish",
+    "citation_en": "For the rare strength and fertility of his poetic imagination, joined with an intellectual curiosity of wide range.",
+    "amazon_asin": ""
   },
   {
     "year": 1945,
@@ -1214,12 +1420,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1945/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Chile",
+    "language_en": "Spanish",
+    "citation_en": "For lyric poetry that, inspired by powerful emotion, made her name a symbol of the idealistic aspirations of the Latin American world.",
+    "amazon_asin": ""
   },
   {
     "year": 1946,
@@ -1240,12 +1451,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1946/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Switzerland (born in Germany)",
+    "language_en": "German",
+    "citation_en": "For his body of work, which continued to embody a classical humanist spirit even as it grew ever bolder and more penetrating.",
+    "amazon_asin": ""
   },
   {
     "year": 1947,
@@ -1266,12 +1482,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1947/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "France",
+    "language_en": "French",
+    "citation_en": "For his comprehensive and artistically significant writings, in which human problems and conditions are presented with a fearless love of truth and keen psychological insight.",
+    "amazon_asin": ""
   },
   {
     "year": 1948,
@@ -1292,12 +1513,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1948/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "United Kingdom (born in the United States)",
+    "language_en": "English",
+    "citation_en": "For his outstanding, pioneering contribution to present-day poetry.",
+    "amazon_asin": ""
   },
   {
     "year": 1949,
@@ -1318,12 +1544,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1949/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "citation_en": "For his powerful and artistically unique contribution to the modern American novel.",
+    "amazon_asin": ""
   },
   {
     "year": 1950,
@@ -1344,12 +1575,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1950/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "United Kingdom",
+    "language_en": "English",
+    "citation_en": "In recognition of his varied and significant writings, in which he champions humanitarian ideals and freedom of thought.",
+    "amazon_asin": ""
   },
   {
     "year": 1951,
@@ -1370,12 +1606,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1951/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Sweden",
+    "language_en": "Swedish",
+    "citation_en": "For the artistic vigor and true independence of mind with which he strives, in his poetry, to find answers to the eternal questions facing humankind.",
+    "amazon_asin": ""
   },
   {
     "year": 1952,
@@ -1396,12 +1637,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1952/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "France",
+    "language_en": "French",
+    "citation_en": "For the profound spiritual insight and artistic intensity with which he portrayed the drama of human inner life in his novels.",
+    "amazon_asin": ""
   },
   {
     "year": 1953,
@@ -1422,12 +1668,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1953/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "United Kingdom",
+    "language_en": "English",
+    "citation_en": "For his mastery of historical and biographical description as well as for brilliant oratory in defending exalted human values.",
+    "amazon_asin": ""
   },
   {
     "year": 1954,
@@ -1448,12 +1699,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1954/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "citation_en": "For his mastery of the art of narrative, demonstrated most recently in his masterpiece The Old Man and the Sea.",
+    "amazon_asin": ""
   },
   {
     "year": 1955,
@@ -1474,12 +1730,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1955/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Iceland",
+    "language_en": "Icelandic",
+    "citation_en": "For his vivid epic power, which has renewed the great narrative art of Iceland.",
+    "amazon_asin": ""
   },
   {
     "year": 1956,
@@ -1500,12 +1761,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1956/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Spain",
+    "language_en": "Spanish",
+    "citation_en": "For lyric poetry that in Spanish represents an example of lofty spirit and artistic purity.",
+    "amazon_asin": ""
   },
   {
     "year": 1957,
@@ -1526,12 +1792,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1957/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "France (born in French Algeria)",
+    "language_en": "French",
+    "citation_en": "For his important literary output, which illuminates with clear-sighted earnestness the problems of the human conscience in our time.",
+    "amazon_asin": ""
   },
   {
     "year": 1958,
@@ -1552,12 +1823,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1958/summary/"
     ],
-    "notes": "ソ連当局の圧力により受賞を辞退(のち1989年に息子が代理受領)"
+    "notes": "ソ連当局の圧力により受賞を辞退(のち1989年に息子が代理受領)",
+    "country_en": "Soviet Union",
+    "language_en": "Russian",
+    "notes_en": "Declined the prize under pressure from Soviet authorities (his son later accepted it on his behalf in 1989).",
+    "citation_en": "For his important achievement both in contemporary lyric poetry and in the great tradition of Russian narrative prose.",
+    "amazon_asin": ""
   },
   {
     "year": 1959,
@@ -1578,12 +1855,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1959/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Italy",
+    "language_en": "Italian",
+    "citation_en": "For his lyric poetry, which with classical ardor expresses the tragic experience of life in our own time.",
+    "amazon_asin": ""
   },
   {
     "year": 1960,
@@ -1604,12 +1886,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1960/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "France (born in Guadeloupe)",
+    "language_en": "French",
+    "citation_en": "For the soaring flight and evocative imagery of his poetry, which in visionary fashion mirrors the conditions of our era.",
+    "amazon_asin": ""
   },
   {
     "year": 1961,
@@ -1630,12 +1917,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1961/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Yugoslavia",
+    "language_en": "Serbo-Croatian",
+    "citation_en": "For the epic force with which he traced themes and depicted human destinies drawn from the history of his country.",
+    "amazon_asin": ""
   },
   {
     "year": 1962,
@@ -1656,12 +1948,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1962/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "citation_en": "For his realistic and imaginative writings, which combine sympathetic humor with keen social perception.",
+    "amazon_asin": ""
   },
   {
     "year": 1963,
@@ -1682,12 +1979,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1963/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Greece",
+    "language_en": "Greek",
+    "citation_en": "For his eminent lyric writing, inspired by a deep feeling for the world of Hellenic culture.",
+    "amazon_asin": ""
   },
   {
     "year": 1964,
@@ -1708,12 +2010,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1964/summary/"
     ],
-    "notes": "サルトル本人は受賞を辞退"
+    "notes": "サルトル本人は受賞を辞退",
+    "country_en": "France",
+    "language_en": "French",
+    "notes_en": "Sartre himself declined the prize.",
+    "citation_en": "For work rich in ideas and imbued with the spirit of freedom and the pursuit of truth.",
+    "amazon_asin": ""
   },
   {
     "year": 1965,
@@ -1734,12 +2042,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1965/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Soviet Union",
+    "language_en": "Russian",
+    "citation_en": "For the artistic power and integrity with which, in his epic of the Don, he has given expression to a historic phase in the life of the Russian people.",
+    "amazon_asin": ""
   },
   {
     "year": 1966,
@@ -1760,12 +2073,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1966/summary/"
     ],
-    "notes": "1966年は共同受賞"
+    "notes": "1966年は共同受賞",
+    "country_en": "Israel",
+    "language_en": "Hebrew",
+    "notes_en": "1966 was a joint award.",
+    "citation_en": "For his profoundly characteristic narrative art drawn from the life of the Jewish people.",
+    "amazon_asin": ""
   },
   {
     "year": 1966,
@@ -1786,12 +2105,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1966/summary/"
     ],
-    "notes": "1966年は共同受賞"
+    "notes": "1966年は共同受賞",
+    "country_en": "West Germany / Sweden",
+    "language_en": "German",
+    "notes_en": "1966 was a joint award.",
+    "citation_en": "For her outstanding lyrical and dramatic writing, which interprets Israel's destiny with moving power.",
+    "amazon_asin": ""
   },
   {
     "year": 1967,
@@ -1812,12 +2137,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1967/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Guatemala",
+    "language_en": "Spanish",
+    "citation_en": "For his vivid literary achievement, deeply rooted in the national character and traditions of Indigenous peoples of Latin America.",
+    "amazon_asin": ""
   },
   {
     "year": 1968,
@@ -1838,12 +2168,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1968/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Japan",
+    "language_en": "Japanese",
+    "citation_en": "For his narrative mastery, which with great sensibility expresses the essence of the Japanese mind.",
+    "amazon_asin": ""
   },
   {
     "year": 1969,
@@ -1864,12 +2199,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1969/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Ireland",
+    "language_en": "French / English",
+    "citation_en": "For writing that, in new forms for the novel and drama, finds elevation amid the destitution of modern man.",
+    "amazon_asin": ""
   },
   {
     "year": 1970,
@@ -1890,12 +2230,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1970/summary/"
     ],
-    "notes": "ソ連当局への懸念から授賞式には出席せず"
+    "notes": "ソ連当局への懸念から授賞式には出席せず",
+    "country_en": "Soviet Union",
+    "language_en": "Russian",
+    "notes_en": "Did not attend the award ceremony out of concern over the Soviet authorities.",
+    "citation_en": "For the ethical force with which he pursued the indispensable traditions of Russian literature.",
+    "amazon_asin": ""
   },
   {
     "year": 1971,
@@ -1916,12 +2262,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1971/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Chile",
+    "language_en": "Spanish",
+    "citation_en": "For poetry that, with the force of an elemental power, brings a continent's destiny and dreams vividly to life.",
+    "amazon_asin": ""
   },
   {
     "year": 1972,
@@ -1942,12 +2293,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1972/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "West Germany",
+    "language_en": "German",
+    "citation_en": "For writing that, through its broad perspective on the age and its sensitive skill in characterization, has contributed to a renewal of German literature.",
+    "amazon_asin": ""
   },
   {
     "year": 1973,
@@ -1968,12 +2324,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1973/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Australia",
+    "language_en": "English",
+    "citation_en": "For an epic and psychological narrative art that has introduced a new continent into literature.",
+    "amazon_asin": ""
   },
   {
     "year": 1974,
@@ -1994,12 +2355,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1974/summary/"
     ],
-    "notes": "1974年は共同受賞。両者ともスウェーデン・アカデミー会員であったため選考の公正性が議論となった"
+    "notes": "1974年は共同受賞。両者ともスウェーデン・アカデミー会員であったため選考の公正性が議論となった",
+    "country_en": "Sweden",
+    "language_en": "Swedish",
+    "notes_en": "1974 was a joint award. Both winners were members of the Swedish Academy, which sparked debate over the fairness of the selection.",
+    "citation_en": "For a narrative art far-sighted across lands and ages, placed in the service of freedom.",
+    "amazon_asin": ""
   },
   {
     "year": 1974,
@@ -2020,12 +2387,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1974/summary/"
     ],
-    "notes": "1974年は共同受賞。両者ともスウェーデン・アカデミー会員であったため選考の公正性が議論となった"
+    "notes": "1974年は共同受賞。両者ともスウェーデン・アカデミー会員であったため選考の公正性が議論となった",
+    "country_en": "Sweden",
+    "language_en": "Swedish",
+    "notes_en": "1974 was a joint award. Both winners were members of the Swedish Academy, which sparked debate over the fairness of the selection.",
+    "citation_en": "For writings that capture the dewdrop and reflect the cosmos.",
+    "amazon_asin": ""
   },
   {
     "year": 1975,
@@ -2046,12 +2419,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1975/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Italy",
+    "language_en": "Italian",
+    "citation_en": "For his distinctive poetry, which with great artistic sensitivity has given expression to human values.",
+    "amazon_asin": ""
   },
   {
     "year": 1976,
@@ -2072,12 +2450,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1976/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "citation_en": "For the human understanding and subtle analysis of contemporary culture combined in his work.",
+    "amazon_asin": ""
   },
   {
     "year": 1977,
@@ -2098,12 +2481,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1977/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Spain",
+    "language_en": "Spanish",
+    "citation_en": "For a creative poetic body of work that illuminates the human condition within the cosmos and within present-day society.",
+    "amazon_asin": ""
   },
   {
     "year": 1978,
@@ -2124,12 +2512,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1978/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Poland / United States",
+    "language_en": "Yiddish",
+    "citation_en": "For his impassioned narrative art, which, rooted in a Polish-Jewish cultural tradition, brings universal human conditions vividly to life.",
+    "amazon_asin": ""
   },
   {
     "year": 1979,
@@ -2150,12 +2543,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1979/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Greece",
+    "language_en": "Greek",
+    "citation_en": "For poetry that, set against the background of Greek tradition, depicts the modern struggle of humankind with sensuous strength and intellectual clarity.",
+    "amazon_asin": ""
   },
   {
     "year": 1980,
@@ -2176,12 +2574,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1980/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Poland",
+    "language_en": "Polish",
+    "citation_en": "For voicing the exposed condition of humanity in a world of harsh conflicts with uncompromising clear-sightedness.",
+    "amazon_asin": ""
   },
   {
     "year": 1981,
@@ -2202,12 +2605,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1981/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "United Kingdom (born in Bulgaria)",
+    "language_en": "German",
+    "citation_en": "For writing marked by a broad outlook, a wealth of ideas, and artistic power.",
+    "amazon_asin": ""
   },
   {
     "year": 1982,
@@ -2228,12 +2636,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1982/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Colombia",
+    "language_en": "Spanish",
+    "citation_en": "For novels and short stories in which the fantastic and the real are richly combined into a fully realized world of the imagination.",
+    "amazon_asin": ""
   },
   {
     "year": 1983,
@@ -2254,12 +2667,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1983/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "United Kingdom",
+    "language_en": "English",
+    "citation_en": "For novels that, with the clarity of realistic narrative art and the diversity and universality of myth, illuminate the human condition in the world today.",
+    "amazon_asin": ""
   },
   {
     "year": 1984,
@@ -2280,12 +2698,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1984/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Czechoslovakia",
+    "language_en": "Czech",
+    "citation_en": "For poetry endowed with freshness, sensuality, and rich inventiveness, which offers a liberating vision of humanity's indomitable spirit.",
+    "amazon_asin": ""
   },
   {
     "year": 1985,
@@ -2306,12 +2729,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1985/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "France (born in French Madagascar)",
+    "language_en": "French",
+    "citation_en": "For combining the creativity of the poet and the painter with a deepened awareness of the passage of time in his portrayal of the human condition.",
+    "amazon_asin": ""
   },
   {
     "year": 1986,
@@ -2332,12 +2760,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1986/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Nigeria",
+    "language_en": "English",
+    "citation_en": "For, in a broad cultural perspective and with poetic resonance, fashioning the drama of existence.",
+    "amazon_asin": ""
   },
   {
     "year": 1987,
@@ -2358,12 +2791,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1987/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "United States / Soviet Union",
+    "language_en": "Russian / English",
+    "citation_en": "For an all-encompassing body of work suffused with clarity of thought and poetic intensity.",
+    "amazon_asin": ""
   },
   {
     "year": 1988,
@@ -2384,12 +2822,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1988/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Egypt",
+    "language_en": "Arabic",
+    "citation_en": "For works rich in nuance that, combining realism and ambiguity, have shaped an Arabic narrative art of universal relevance.",
+    "amazon_asin": ""
   },
   {
     "year": 1989,
@@ -2410,12 +2853,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1989/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Spain",
+    "language_en": "Spanish",
+    "citation_en": "For rich and intense prose that, with restrained compassion, confronts us with humanity's vulnerability.",
+    "amazon_asin": ""
   },
   {
     "year": 1990,
@@ -2436,12 +2884,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1990/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Mexico",
+    "language_en": "Spanish",
+    "citation_en": "For impassioned writing of wide horizons, characterized by sensuous intelligence and humanistic integrity.",
+    "amazon_asin": ""
   },
   {
     "year": 1991,
@@ -2462,12 +2915,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1991/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "South Africa",
+    "language_en": "English",
+    "citation_en": "For her magnificent epic writing, which has been of great benefit to humanity.",
+    "amazon_asin": ""
   },
   {
     "year": 1992,
@@ -2488,12 +2946,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1992/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Saint Lucia",
+    "language_en": "English",
+    "citation_en": "For a body of poetic work of great luminosity, sustained by a historical vision and born of a multicultural commitment.",
+    "amazon_asin": ""
   },
   {
     "year": 1993,
@@ -2514,12 +2977,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1993/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "citation_en": "For novels characterized by visionary force and poetic import, which give life to an essential aspect of American reality.",
+    "amazon_asin": ""
   },
   {
     "year": 1994,
@@ -2540,12 +3008,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1994/summary/"
     ],
-    "notes": "1958年に『飼育』で芥川賞を受賞済み。ノーベル賞・芥川賞の双方を受けた代表例"
+    "notes": "1958年に『飼育』で芥川賞を受賞済み。ノーベル賞・芥川賞の双方を受けた代表例",
+    "country_en": "Japan",
+    "language_en": "Japanese",
+    "notes_en": "Already won the Akutagawa Prize in 1958 for \"Shiiku\" (The Catch). A leading example of a writer who won both the Nobel Prize and the Akutagawa Prize.",
+    "citation_en": "For creating, through poetic force, an imagined world in which life and myth condense to form a disquieting picture of the human predicament today.",
+    "amazon_asin": ""
   },
   {
     "year": 1995,
@@ -2566,12 +3040,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1995/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Ireland",
+    "language_en": "English",
+    "citation_en": "For works of lyrical beauty and ethical depth, which exalt everyday miracles and the living past.",
+    "amazon_asin": ""
   },
   {
     "year": 1996,
@@ -2592,12 +3071,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1996/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Poland",
+    "language_en": "Polish",
+    "citation_en": "For poetry that, with ironic precision, allows the historical and biological context to emerge from fragments of human reality.",
+    "amazon_asin": ""
   },
   {
     "year": 1997,
@@ -2618,12 +3102,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1997/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Italy",
+    "language_en": "Italian",
+    "citation_en": "For emulating the jesters of the Middle Ages in scourging authority and upholding the dignity of the downtrodden.",
+    "amazon_asin": ""
   },
   {
     "year": 1998,
@@ -2644,12 +3133,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1998/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Portugal",
+    "language_en": "Portuguese",
+    "citation_en": "For works which, through parables sustained by imagination, compassion, and irony, continually allow us to apprehend an elusive reality.",
+    "amazon_asin": ""
   },
   {
     "year": 1999,
@@ -2670,12 +3164,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/1999/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Germany",
+    "language_en": "German",
+    "citation_en": "For his frolicsome black fables that portray the forgotten face of history.",
+    "amazon_asin": ""
   },
   {
     "year": 2000,
@@ -2696,12 +3195,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/2000/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "France (born in China)",
+    "language_en": "Chinese",
+    "citation_en": "For an oeuvre of universal validity, bitter insight, and linguistic ingenuity, which has opened new paths for the Chinese novel and drama.",
+    "amazon_asin": ""
   },
   {
     "year": 2001,
@@ -2722,12 +3226,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/2001/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "United Kingdom",
+    "language_en": "English",
+    "citation_en": "For uniting perceptive narration with incorruptible scrutiny in works that compel us to confront the presence of suppressed histories.",
+    "amazon_asin": ""
   },
   {
     "year": 2002,
@@ -2748,12 +3257,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/2002/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Hungary",
+    "language_en": "Hungarian",
+    "citation_en": "For writing that upholds the fragile experience of the individual against the barbaric arbitrariness of history.",
+    "amazon_asin": ""
   },
   {
     "year": 2003,
@@ -2774,12 +3288,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/2003/summary/"
     ],
-    "notes": "ブッカー賞を1983年・1999年の2度受賞済み。ブッカー賞・ノーベル賞双方を受けた代表例"
+    "notes": "ブッカー賞を1983年・1999年の2度受賞済み。ブッカー賞・ノーベル賞双方を受けた代表例",
+    "country_en": "South Africa",
+    "language_en": "English",
+    "notes_en": "Already won the Booker Prize twice, in 1983 and 1999. A leading example of a writer who won both the Booker Prize and the Nobel Prize.",
+    "citation_en": "For his numerous portrayals of the outsider's surprising involvement in the world, rendered through a multitude of guises.",
+    "amazon_asin": ""
   },
   {
     "year": 2004,
@@ -2800,12 +3320,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/2004/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Austria",
+    "language_en": "German",
+    "citation_en": "For the musical flow of voices and counter-voices in her novels and plays, which reveal the absurdity of society's clichés and their subjugating power.",
+    "amazon_asin": ""
   },
   {
     "year": 2005,
@@ -2826,12 +3351,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/2005/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "United Kingdom",
+    "language_en": "English",
+    "citation_en": "For dramatic works that uncover the precipice beneath everyday prattle and force entry into oppression's closed rooms.",
+    "amazon_asin": ""
   },
   {
     "year": 2006,
@@ -2852,12 +3382,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/2006/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Turkey",
+    "language_en": "Turkish",
+    "citation_en": "For discovering new symbols for the clash and interweaving of cultures in his quest for the melancholic soul of his native city.",
+    "amazon_asin": ""
   },
   {
     "year": 2007,
@@ -2878,12 +3413,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/2007/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "United Kingdom",
+    "language_en": "English",
+    "citation_en": "That epicist of the female experience, who with skepticism, fire, and visionary power has subjected a divided civilization to scrutiny.",
+    "amazon_asin": ""
   },
   {
     "year": 2008,
@@ -2904,12 +3444,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/2008/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "France",
+    "language_en": "French",
+    "citation_en": "Author of new departures, poetic adventure, and sensual ecstasy, explorer of a humanity beyond and beneath the reigning civilization.",
+    "amazon_asin": ""
   },
   {
     "year": 2009,
@@ -2930,12 +3475,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/2009/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Germany (born in Romania)",
+    "language_en": "German",
+    "citation_en": "For, with the concentration of poetry and the frankness of prose, depicting the landscape of the dispossessed.",
+    "amazon_asin": ""
   },
   {
     "year": 2010,
@@ -2956,12 +3506,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/2010/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Peru",
+    "language_en": "Spanish",
+    "citation_en": "For his cartography of structures of power and his trenchant images of the individual's resistance, revolt, and defeat.",
+    "amazon_asin": ""
   },
   {
     "year": 2011,
@@ -2982,12 +3537,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/2011/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Sweden",
+    "language_en": "Swedish",
+    "citation_en": "For, through his condensed, translucent images, giving us fresh access to reality.",
+    "amazon_asin": ""
   },
   {
     "year": 2012,
@@ -3008,12 +3568,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/2012/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "China",
+    "language_en": "Chinese",
+    "citation_en": "For, with hallucinatory realism, merging folk tales, history, and the contemporary.",
+    "amazon_asin": ""
   },
   {
     "year": 2013,
@@ -3034,12 +3599,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/2013/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Canada",
+    "language_en": "English",
+    "citation_en": "As master of the contemporary short story.",
+    "amazon_asin": ""
   },
   {
     "year": 2014,
@@ -3060,12 +3630,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/2014/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "France",
+    "language_en": "French",
+    "citation_en": "For the art of memory with which he evoked the most ungraspable human destinies and uncovered the life-world of the Occupation.",
+    "amazon_asin": ""
   },
   {
     "year": 2015,
@@ -3086,12 +3661,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/2015/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Belarus",
+    "language_en": "Russian",
+    "citation_en": "For her polyphonic writings, a monument to suffering and courage in our time.",
+    "amazon_asin": ""
   },
   {
     "year": 2016,
@@ -3112,12 +3692,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/2016/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "citation_en": "For having created new poetic expressions within the great American song tradition.",
+    "amazon_asin": ""
   },
   {
     "year": 2017,
@@ -3138,12 +3723,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/2017/summary/"
     ],
-    "notes": "1989年に『日の名残り』でブッカー賞を受賞済み。ブッカー賞・ノーベル賞双方を受けた代表例"
+    "notes": "1989年に『日の名残り』でブッカー賞を受賞済み。ブッカー賞・ノーベル賞双方を受けた代表例",
+    "country_en": "United Kingdom",
+    "language_en": "English",
+    "notes_en": "Already won the Booker Prize in 1989 for \"The Remains of the Day.\" A leading example of a writer who won both the Booker Prize and the Nobel Prize.",
+    "citation_en": "Who, in novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world.",
+    "amazon_asin": ""
   },
   {
     "year": 2018,
@@ -3164,12 +3755,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/2018/summary/"
     ],
-    "notes": "スウェーデン・アカデミーの不祥事により発表が2019年に延期され、2019年発表分と同時に発表された(いわゆる2018年枠)"
+    "notes": "スウェーデン・アカデミーの不祥事により発表が2019年に延期され、2019年発表分と同時に発表された(いわゆる2018年枠)",
+    "country_en": "Poland",
+    "language_en": "Polish",
+    "notes_en": "The announcement was postponed to 2019 due to a scandal at the Swedish Academy, and was made together with the 2019 announcement (the so-called \"2018 slot\").",
+    "citation_en": "For a narrative imagination that, with encyclopedic passion, represents the crossing of boundaries as a form of life.",
+    "amazon_asin": ""
   },
   {
     "year": 2019,
@@ -3190,12 +3787,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/2019/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Austria",
+    "language_en": "German",
+    "citation_en": "For an influential body of work that, with linguistic ingenuity, has explored the periphery and the specificity of human experience.",
+    "amazon_asin": ""
   },
   {
     "year": 2020,
@@ -3216,12 +3818,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/2020/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "United States",
+    "language_en": "English",
+    "citation_en": "For her unmistakable poetic voice, which with austere beauty makes individual existence universal.",
+    "amazon_asin": ""
   },
   {
     "year": 2021,
@@ -3242,12 +3849,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/2021/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Tanzania / United Kingdom",
+    "language_en": "English",
+    "citation_en": "For his uncompromising and compassionate penetration of the effects of colonialism and the fate of the refugee in the gulf between cultures and continents.",
+    "amazon_asin": ""
   },
   {
     "year": 2022,
@@ -3268,12 +3880,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/2022/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "France",
+    "language_en": "French",
+    "citation_en": "For the courage and clinical acuity with which she uncovers the roots, estrangements, and collective constraints of personal memory.",
+    "amazon_asin": ""
   },
   {
     "year": 2023,
@@ -3294,12 +3911,17 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/2023/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Norway",
+    "language_en": "Norwegian",
+    "citation_en": "For his innovative plays and prose that give voice to the unsayable.",
+    "amazon_asin": ""
   },
   {
     "year": 2024,
@@ -3320,12 +3942,18 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/2024/summary/"
     ],
-    "notes": "2016年に『菜食主義者』で国際ブッカー賞を受賞済み。国際ブッカー賞・ノーベル賞双方を受けた代表例"
+    "notes": "2016年に『菜食主義者』で国際ブッカー賞を受賞済み。国際ブッカー賞・ノーベル賞双方を受けた代表例",
+    "country_en": "South Korea",
+    "language_en": "Korean",
+    "notes_en": "Already won the International Booker Prize in 2016 for \"The Vegetarian.\" A leading example of a writer who won both the International Booker Prize and the Nobel Prize.",
+    "citation_en": "For her intense poetic prose that confronts historical traumas and exposes the fragility of human life.",
+    "amazon_asin": ""
   },
   {
     "year": 2025,
@@ -3346,11 +3974,16 @@
       "translator": null,
       "publisher": null,
       "year": null,
-      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載"
+      "note": "ノーベル賞は作家業績への授賞のため対象作品なし。代表作の邦訳状況は作家マスタ(authors.json)側に記載",
+      "note_en": "The Nobel Prize is awarded for a writer's body of work, so there is no single featured work. The Japanese-translation status of representative works is recorded in the author master data (authors.json)."
     },
     "source_urls": [
       "https://www.nobelprize.org/prizes/literature/2025/summary/"
     ],
-    "notes": null
+    "notes": null,
+    "country_en": "Hungary",
+    "language_en": "Hungarian",
+    "citation_en": "For a compelling and visionary body of work that, amid apocalyptic terror, reaffirms the power of art.",
+    "amazon_asin": ""
   }
 ]
